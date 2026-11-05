@@ -1,0 +1,419 @@
+{
+  "abc_index": {
+    "A": {
+      "attempted": 23,
+      "solved": 22
+    },
+    "B": {
+      "attempted": 18,
+      "solved": 16
+    },
+    "C": {
+      "attempted": 32,
+      "solved": 30
+    },
+    "D": {
+      "attempted": 58,
+      "solved": 58
+    },
+    "E": {
+      "attempted": 30,
+      "solved": 30
+    },
+    "F": {
+      "attempted": 10,
+      "solved": 8
+    },
+    "G": {
+      "attempted": 15,
+      "solved": 15
+    }
+  },
+  "attempted_problem_count": 1041,
+  "latest_submission_epoch": 1793843568,
+  "latest_submission_id": 80604351,
+  "latest_submission_utc": "2026-11-05T01:52:48+00:00",
+  "recently_solved_problems": [
+    {
+      "contest_id": "adt_easy_20260915_2",
+      "difficulty": -914,
+      "first_ac_epoch": 1793843568,
+      "index": "B",
+      "problem_id": "abc460_a",
+      "title": "Mod While Positive",
+      "url": "https://atcoder.jp/contests/adt_easy_20260915_2/tasks/abc460_a"
+    },
+    {
+      "contest_id": "adt_easy_20261029_1",
+      "difficulty": -921,
+      "first_ac_epoch": 1793843425,
+      "index": "B",
+      "problem_id": "abc459_a",
+      "title": "Hell, World!",
+      "url": "https://atcoder.jp/contests/adt_easy_20261029_1/tasks/abc459_a"
+    },
+    {
+      "contest_id": "adt_easy_20261023_2",
+      "difficulty": -904,
+      "first_ac_epoch": 1793843314,
+      "index": "A",
+      "problem_id": "abc458_a",
+      "title": "Chompers",
+      "url": "https://atcoder.jp/contests/adt_easy_20261023_2/tasks/abc458_a"
+    },
+    {
+      "contest_id": "adt_all_20260623_1",
+      "difficulty": 250,
+      "first_ac_epoch": 1793843138,
+      "index": "F",
+      "problem_id": "abc451_c",
+      "title": "Understory",
+      "url": "https://atcoder.jp/contests/adt_all_20260623_1/tasks/abc451_c"
+    },
+    {
+      "contest_id": "adt_easy_20261008_1",
+      "difficulty": -566,
+      "first_ac_epoch": 1793842893,
+      "index": "C",
+      "problem_id": "abc451_b",
+      "title": "Personnel Change",
+      "url": "https://atcoder.jp/contests/adt_easy_20261008_1/tasks/abc451_b"
+    },
+    {
+      "contest_id": "adt_easy_20261015_1",
+      "difficulty": -1020,
+      "first_ac_epoch": 1793842809,
+      "index": "A",
+      "problem_id": "abc451_a",
+      "title": "illegal",
+      "url": "https://atcoder.jp/contests/adt_easy_20261015_1/tasks/abc451_a"
+    },
+    {
+      "contest_id": "adt_all_20261002_1",
+      "difficulty": 1102,
+      "first_ac_epoch": 1793842481,
+      "index": "G",
+      "problem_id": "abc469_d",
+      "title": "The Big Two",
+      "url": "https://atcoder.jp/contests/adt_all_20261002_1/tasks/abc469_d"
+    },
+    {
+      "contest_id": "abc469",
+      "difficulty": 475,
+      "first_ac_epoch": 1793839546,
+      "index": "C",
+      "problem_id": "abc469_c",
+      "title": "Cantrip",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_c"
+    },
+    {
+      "contest_id": "abc481",
+      "difficulty": 581,
+      "first_ac_epoch": 1793837951,
+      "index": "D",
+      "problem_id": "abc481_d",
+      "title": "Autopilot",
+      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_d"
+    },
+    {
+      "contest_id": "abc481",
+      "difficulty": 96,
+      "first_ac_epoch": 1793837602,
+      "index": "C",
+      "problem_id": "abc481_c",
+      "title": "Bank Accounts",
+      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_c"
+    },
+    {
+      "contest_id": "abc481",
+      "difficulty": -252,
+      "first_ac_epoch": 1793837402,
+      "index": "B",
+      "problem_id": "abc481_b",
+      "title": "Polyline",
+      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_b"
+    },
+    {
+      "contest_id": "abc481",
+      "difficulty": -867,
+      "first_ac_epoch": 1793837233,
+      "index": "A",
+      "problem_id": "abc481_a",
+      "title": "Digits of A+B",
+      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_a"
+    },
+    {
+      "contest_id": "abc482",
+      "difficulty": 766,
+      "first_ac_epoch": 1793449174,
+      "index": "D",
+      "problem_id": "abc482_d",
+      "title": "Wannabe Zombie",
+      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_d"
+    },
+    {
+      "contest_id": "abc482",
+      "difficulty": 486,
+      "first_ac_epoch": 1793448628,
+      "index": "C",
+      "problem_id": "abc482_c",
+      "title": "Band Count",
+      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_c"
+    },
+    {
+      "contest_id": "abc482",
+      "difficulty": -325,
+      "first_ac_epoch": 1793448341,
+      "index": "B",
+      "problem_id": "abc482_b",
+      "title": "Blank Bingo",
+      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_b"
+    },
+    {
+      "contest_id": "abc482",
+      "difficulty": -995,
+      "first_ac_epoch": 1793448125,
+      "index": "A",
+      "problem_id": "abc482_a",
+      "title": "Nigiri",
+      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_a"
+    },
+    {
+      "contest_id": "abc480",
+      "difficulty": 864,
+      "first_ac_epoch": 1793408379,
+      "index": "D",
+      "problem_id": "abc480_d",
+      "title": "Concatenation of Prefixes",
+      "url": "https://atcoder.jp/contests/abc480/tasks/abc480_d"
+    },
+    {
+      "contest_id": "adt_all_20261019_1",
+      "difficulty": 282,
+      "first_ac_epoch": 1793407068,
+      "index": "F",
+      "problem_id": "abc416_c",
+      "title": "Concat (X-th)",
+      "url": "https://atcoder.jp/contests/adt_all_20261019_1/tasks/abc416_c"
+    },
+    {
+      "contest_id": "adt_easy_20261016_1",
+      "difficulty": -390,
+      "first_ac_epoch": 1793406436,
+      "index": "C",
+      "problem_id": "abc416_b",
+      "title": "1D Akari",
+      "url": "https://atcoder.jp/contests/adt_easy_20261016_1/tasks/abc416_b"
+    },
+    {
+      "contest_id": "adt_easy_20260817_1",
+      "difficulty": -1079,
+      "first_ac_epoch": 1793406073,
+      "index": "B",
+      "problem_id": "abc416_a",
+      "title": "Vacation Validation",
+      "url": "https://atcoder.jp/contests/adt_easy_20260817_1/tasks/abc416_a"
+    },
+    {
+      "contest_id": "adt_all_20260721_1",
+      "difficulty": 1226,
+      "first_ac_epoch": 1793349170,
+      "index": "H",
+      "problem_id": "abc438_e",
+      "title": "Heavy Buckets",
+      "url": "https://atcoder.jp/contests/adt_all_20260721_1/tasks/abc438_e"
+    },
+    {
+      "contest_id": "adt_easy_20261029_2",
+      "difficulty": -1031,
+      "first_ac_epoch": 1793347672,
+      "index": "B",
+      "problem_id": "abc427_a",
+      "title": "ABC -> AC",
+      "url": "https://atcoder.jp/contests/adt_easy_20261029_2/tasks/abc427_a"
+    },
+    {
+      "contest_id": "adt_all_20260909_2",
+      "difficulty": 384,
+      "first_ac_epoch": 1793347483,
+      "index": "F",
+      "problem_id": "abc446_c",
+      "title": "Omelette Restaurant",
+      "url": "https://atcoder.jp/contests/adt_all_20260909_2/tasks/abc446_c"
+    },
+    {
+      "contest_id": "adt_easy_20260930_2",
+      "difficulty": -366,
+      "first_ac_epoch": 1793345770,
+      "index": "D",
+      "problem_id": "abc446_b",
+      "title": "Greedy Draft",
+      "url": "https://atcoder.jp/contests/adt_easy_20260930_2/tasks/abc446_b"
+    },
+    {
+      "contest_id": "adt_easy_20260908_2",
+      "difficulty": -935,
+      "first_ac_epoch": 1793345010,
+      "index": "B",
+      "problem_id": "abc446_a",
+      "title": "Handmaid",
+      "url": "https://atcoder.jp/contests/adt_easy_20260908_2/tasks/abc446_a"
+    },
+    {
+      "contest_id": "adt_all_20261014_2",
+      "difficulty": 98,
+      "first_ac_epoch": 1793340504,
+      "index": "F",
+      "problem_id": "abc393_c",
+      "title": "Make it Simple",
+      "url": "https://atcoder.jp/contests/adt_all_20261014_2/tasks/abc393_c"
+    },
+    {
+      "contest_id": "adt_all_20261030_2",
+      "difficulty": 839,
+      "first_ac_epoch": 1793326760,
+      "index": "G",
+      "problem_id": "abc465_d",
+      "title": "X to Y",
+      "url": "https://atcoder.jp/contests/adt_all_20261030_2/tasks/abc465_d"
+    },
+    {
+      "contest_id": "adt_all_20261001_2",
+      "difficulty": 1027,
+      "first_ac_epoch": 1793324994,
+      "index": "H",
+      "problem_id": "abc466_e",
+      "title": "Range Flip",
+      "url": "https://atcoder.jp/contests/adt_all_20261001_2/tasks/abc466_e"
+    },
+    {
+      "contest_id": "abc466",
+      "difficulty": 494,
+      "first_ac_epoch": 1793322856,
+      "index": "D",
+      "problem_id": "abc466_d",
+      "title": "Placing Rooks",
+      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_d"
+    },
+    {
+      "contest_id": "adt_easy_20260918_1",
+      "difficulty": 658,
+      "first_ac_epoch": 1793321993,
+      "index": "E",
+      "problem_id": "abc466_c",
+      "title": "Count Close Pairs ",
+      "url": "https://atcoder.jp/contests/adt_easy_20260918_1/tasks/abc466_c"
+    }
+  ],
+  "schema_version": 1,
+  "solved_problem_count": 1026,
+  "submission_count": 1767,
+  "submissions_by_jst_day_recent_90": {
+    "2026-03-07": 11,
+    "2026-03-08": 7,
+    "2026-03-09": 3,
+    "2026-03-10": 15,
+    "2026-03-11": 5,
+    "2026-03-12": 12,
+    "2026-03-13": 6,
+    "2026-03-14": 13,
+    "2026-03-17": 2,
+    "2026-03-18": 16,
+    "2026-03-19": 4,
+    "2026-03-20": 6,
+    "2026-03-21": 15,
+    "2026-03-23": 6,
+    "2026-03-24": 6,
+    "2026-03-25": 1,
+    "2026-03-26": 6,
+    "2026-03-27": 7,
+    "2026-03-29": 2,
+    "2026-03-31": 8,
+    "2026-04-01": 8,
+    "2026-04-02": 21,
+    "2026-04-03": 13,
+    "2026-04-04": 8,
+    "2026-04-05": 2,
+    "2026-04-06": 4,
+    "2026-04-07": 8,
+    "2026-04-08": 2,
+    "2026-04-09": 1,
+    "2026-04-11": 9,
+    "2026-04-12": 2,
+    "2026-04-13": 3,
+    "2026-04-16": 2,
+    "2026-04-18": 4,
+    "2026-04-19": 4,
+    "2026-04-20": 4,
+    "2026-04-21": 7,
+    "2026-04-24": 4,
+    "2026-04-25": 12,
+    "2026-04-27": 3,
+    "2026-04-29": 2,
+    "2026-05-02": 8,
+    "2026-05-03": 4,
+    "2026-05-04": 4,
+    "2026-05-05": 8,
+    "2026-05-06": 1,
+    "2026-05-07": 12,
+    "2026-05-08": 2,
+    "2026-05-09": 5,
+    "2026-05-10": 2,
+    "2026-06-08": 1,
+    "2026-07-11": 3,
+    "2026-07-19": 3,
+    "2026-07-25": 4,
+    "2026-07-26": 5,
+    "2026-07-30": 2,
+    "2026-08-01": 1,
+    "2026-08-02": 1,
+    "2026-08-10": 2,
+    "2026-08-11": 12,
+    "2026-08-17": 4,
+    "2026-08-19": 1,
+    "2026-08-22": 1,
+    "2026-08-23": 3,
+    "2026-08-27": 1,
+    "2026-08-31": 5,
+    "2026-09-01": 2,
+    "2026-09-05": 3,
+    "2026-09-06": 7,
+    "2026-09-09": 2,
+    "2026-09-10": 4,
+    "2026-09-11": 1,
+    "2026-09-12": 11,
+    "2026-09-14": 1,
+    "2026-09-15": 2,
+    "2026-09-23": 5,
+    "2026-09-24": 8,
+    "2026-09-25": 3,
+    "2026-09-26": 9,
+    "2026-09-28": 1,
+    "2026-10-03": 2,
+    "2026-10-11": 9,
+    "2026-10-17": 6,
+    "2026-10-26": 27,
+    "2026-10-27": 7,
+    "2026-10-28": 16,
+    "2026-10-29": 2,
+    "2026-10-30": 21,
+    "2026-10-31": 10,
+    "2026-11-05": 14
+  },
+  "submissions_by_utc_year": {
+    "2021": 50,
+    "2024": 3,
+    "2025": 914,
+    "2026": 800
+  },
+  "unresolved_problem_count": 15,
+  "user_id": "usausamikann",
+  "verdict_counts": {
+    "AC": 1159,
+    "CE": 12,
+    "MLE": 5,
+    "RE": 59,
+    "TLE": 89,
+    "WA": 443
+  }
+}
