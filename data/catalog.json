@@ -35,9 +35,9 @@
     "name": "1.01"
   },
   "abc007_3": {
-    "contest_id": "atc002",
+    "contest_id": "abc007",
     "difficulty": 1024,
-    "index": "A",
+    "index": "C",
     "is_experimental": true,
     "name": "幅優先探索"
   },
@@ -728,352 +728,352 @@
     "name": "Red Polyomino"
   },
   "abc212_d": {
-    "contest_id": "adt_all_20260715_1",
+    "contest_id": "abc212",
     "difficulty": 775,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Querying Multiset "
   },
   "abc212_e": {
-    "contest_id": "adt_all_20231220_1",
+    "contest_id": "abc212",
     "difficulty": 1410,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Safety Journey"
   },
   "abc213_d": {
-    "contest_id": "adt_all_20260702_2",
+    "contest_id": "abc213",
     "difficulty": 710,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Takahashi Tour"
   },
   "abc213_e": {
-    "contest_id": "adt_all_20260625_1",
+    "contest_id": "abc213",
     "difficulty": 1423,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Stronger Takahashi"
   },
   "abc214_d": {
-    "contest_id": "adt_medium_20231221_2",
+    "contest_id": "abc214",
     "difficulty": 1341,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Sum of Maximum Weights"
   },
   "abc215_d": {
-    "contest_id": "adt_all_20261021_2",
+    "contest_id": "abc215",
     "difficulty": 736,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Coprime 2"
   },
   "abc215_e": {
-    "contest_id": "adt_all_20260630_2",
+    "contest_id": "abc215",
     "difficulty": 1413,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Chain Contestant"
   },
   "abc216_d": {
-    "contest_id": "adt_all_20260825_1",
+    "contest_id": "abc216",
     "difficulty": 1039,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Pair of Balls"
   },
   "abc216_e": {
-    "contest_id": "adt_hard_20240529_2",
+    "contest_id": "abc216",
     "difficulty": 1084,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Amusement Park"
   },
   "abc217_d": {
-    "contest_id": "adt_all_20240125_1",
+    "contest_id": "abc217",
     "difficulty": 802,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cutting Woods"
   },
   "abc217_e": {
-    "contest_id": "adt_all_20260803_1",
+    "contest_id": "abc217",
     "difficulty": 986,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sorting Queries"
   },
   "abc218_c": {
-    "contest_id": "adt_all_20261030_1",
+    "contest_id": "abc218",
     "difficulty": 1012,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Shapes"
   },
   "abc218_d": {
-    "contest_id": "adt_all_20260804_2",
+    "contest_id": "abc218",
     "difficulty": 715,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Rectangles"
   },
   "abc218_e": {
-    "contest_id": "adt_all_20231129_2",
+    "contest_id": "abc218",
     "difficulty": 1004,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Destruction"
   },
   "abc219_d": {
-    "contest_id": "adt_all_20260909_2",
+    "contest_id": "abc219",
     "difficulty": 1085,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Strange Lunchbox"
   },
   "abc220_d": {
-    "contest_id": "adt_all_20261028_2",
+    "contest_id": "abc220",
     "difficulty": 664,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "FG operation"
   },
   "abc220_f": {
-    "contest_id": "adt_all_20260623_2",
+    "contest_id": "abc220",
     "difficulty": 1304,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Distance Sums 2"
   },
   "abc221_d": {
-    "contest_id": "adt_all_20260821_1",
+    "contest_id": "abc221",
     "difficulty": 832,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Online games"
   },
   "abc221_e": {
-    "contest_id": "adt_all_20260930_1",
+    "contest_id": "abc221",
     "difficulty": 1515,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "LEQ"
   },
   "abc222_d": {
-    "contest_id": "adt_hard_20240718_2",
+    "contest_id": "abc222",
     "difficulty": 865,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Between Two Arrays"
   },
   "abc222_e": {
-    "contest_id": "adt_all_20261009_1",
+    "contest_id": "abc222",
     "difficulty": 1491,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Red and Blue Tree"
   },
   "abc222_f": {
-    "contest_id": "adt_all_20261007_1",
+    "contest_id": "abc222",
     "difficulty": 1934,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Expensive Expense"
   },
   "abc223_d": {
-    "contest_id": "adt_medium_20240117_1",
+    "contest_id": "abc223",
     "difficulty": 1069,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Restricted Permutation"
   },
   "abc223_f": {
-    "contest_id": "adt_hard_20240118_3",
+    "contest_id": "abc223",
     "difficulty": 1641,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Parenthesis Checking"
   },
   "abc224_d": {
-    "contest_id": "adt_all_20260924_1",
+    "contest_id": "abc224",
     "difficulty": 1376,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "8 Puzzle on Graph"
   },
   "abc225_d": {
-    "contest_id": "adt_all_20240604_1",
+    "contest_id": "abc225",
     "difficulty": 778,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Play Train"
   },
   "abc226_d": {
-    "contest_id": "adt_medium_20231212_2",
+    "contest_id": "abc226",
     "difficulty": 706,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Teleportation"
   },
   "abc226_e": {
-    "contest_id": "adt_all_20260910_2",
+    "contest_id": "abc226",
     "difficulty": 1327,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Just one"
   },
   "abc227_d": {
-    "contest_id": "adt_hard_20240326_2",
+    "contest_id": "abc227",
     "difficulty": 1643,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Project Planning"
   },
   "abc228_d": {
-    "contest_id": "adt_all_20261006_1",
+    "contest_id": "abc228",
     "difficulty": 1035,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Linear Probing"
   },
   "abc229_d": {
-    "contest_id": "adt_all_20261023_1",
+    "contest_id": "abc229",
     "difficulty": 745,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Longest X"
   },
   "abc229_e": {
-    "contest_id": "adt_hard_20241017_2",
+    "contest_id": "abc229",
     "difficulty": 1015,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Graph Destruction"
   },
   "abc230_a": {
-    "contest_id": "adt_easy_20260730_1",
+    "contest_id": "abc230",
     "difficulty": -1358,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "AtCoder Quiz 3"
   },
   "abc230_d": {
-    "contest_id": "adt_all_20260820_1",
+    "contest_id": "abc230",
     "difficulty": 963,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Destroyer Takahashi"
   },
   "abc230_e": {
-    "contest_id": "adt_all_20260914_1",
+    "contest_id": "abc230",
     "difficulty": 969,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Fraction Floor Sum"
   },
   "abc231_c": {
-    "contest_id": "adt_easy_20260818_2",
+    "contest_id": "abc231",
     "difficulty": 111,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Counting 2"
   },
   "abc231_d": {
-    "contest_id": "adt_hard_20240228_2",
+    "contest_id": "abc231",
     "difficulty": 726,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Neighbors"
   },
   "abc231_f": {
-    "contest_id": "adt_all_20231214_2",
+    "contest_id": "abc231",
     "difficulty": 1580,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Jealous Two"
   },
   "abc232_d": {
-    "contest_id": "adt_medium_20240103_2",
+    "contest_id": "abc232",
     "difficulty": 539,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Weak Takahashi"
   },
   "abc232_e": {
-    "contest_id": "adt_all_20240104_2",
+    "contest_id": "abc232",
     "difficulty": 1380,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Rook Path"
   },
   "abc233_d": {
-    "contest_id": "adt_all_20261007_1",
+    "contest_id": "abc233",
     "difficulty": 726,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Count Interval"
   },
   "abc233_e": {
-    "contest_id": "adt_all_20260904_1",
+    "contest_id": "abc233",
     "difficulty": 969,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Σ[k=0..10^100]floor(X／10^k)"
   },
   "abc234_d": {
-    "contest_id": "adt_all_20260729_1",
+    "contest_id": "abc234",
     "difficulty": 503,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Prefix K-th Max"
   },
   "abc234_e": {
-    "contest_id": "adt_all_20260623_1",
+    "contest_id": "abc234",
     "difficulty": 899,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Arithmetic Number"
   },
   "abc235_d": {
-    "contest_id": "adt_medium_20231123_2",
+    "contest_id": "abc235",
     "difficulty": 862,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Multiply and Rotate"
   },
   "abc235_e": {
-    "contest_id": "adt_all_20260921_1",
+    "contest_id": "abc235",
     "difficulty": 1304,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "MST + 1"
   },
   "abc236_d": {
-    "contest_id": "adt_all_20260630_1",
+    "contest_id": "abc236",
     "difficulty": 1190,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Dance"
   },
   "abc237_d": {
-    "contest_id": "adt_all_20261027_1",
+    "contest_id": "abc237",
     "difficulty": 544,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "LR insertion"
   },
   "abc237_e": {
-    "contest_id": "adt_all_20260918_2",
+    "contest_id": "abc237",
     "difficulty": 1208,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Skiing"
   },
   "abc237_f": {
-    "contest_id": "adt_all_20261001_2",
+    "contest_id": "abc237",
     "difficulty": 1857,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "|LIS| = 3"
   },
@@ -1085,16 +1085,16 @@
     "name": "Range Sort Query"
   },
   "abc238_d": {
-    "contest_id": "adt_medium_20231128_2",
+    "contest_id": "abc238",
     "difficulty": 921,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "AND and SUM"
   },
   "abc238_e": {
-    "contest_id": "adt_all_20261015_2",
+    "contest_id": "abc238",
     "difficulty": 1577,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Range Sums"
   },
@@ -1106,317 +1106,317 @@
     "name": "Cubic?"
   },
   "abc239_d": {
-    "contest_id": "adt_all_20240215_1",
+    "contest_id": "abc239",
     "difficulty": 215,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Prime Sum Game"
   },
   "abc239_e": {
-    "contest_id": "adt_all_20260824_1",
+    "contest_id": "abc239",
     "difficulty": 1084,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Subtree K-th Max"
   },
   "abc240_d": {
-    "contest_id": "adt_all_20260909_1",
+    "contest_id": "abc240",
     "difficulty": 570,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Strange Balls"
   },
   "abc240_e": {
-    "contest_id": "adt_all_20261028_1",
+    "contest_id": "abc240",
     "difficulty": 1068,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Ranges on Tree"
   },
   "abc240_f": {
-    "contest_id": "adt_all_20261002_2",
+    "contest_id": "abc240",
     "difficulty": 1589,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Sum Sum Max"
   },
   "abc241_d": {
-    "contest_id": "adt_all_20261030_1",
+    "contest_id": "abc241",
     "difficulty": 1177,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Sequence Query"
   },
   "abc241_e": {
-    "contest_id": "adt_all_20260828_1",
+    "contest_id": "abc241",
     "difficulty": 1248,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Putting Candies"
   },
   "abc242_d": {
-    "contest_id": "adt_all_20260904_2",
+    "contest_id": "abc242",
     "difficulty": 1286,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "ABC Transform"
   },
   "abc242_e": {
-    "contest_id": "adt_all_20260624_2",
+    "contest_id": "abc242",
     "difficulty": 1365,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "(∀x∀)"
   },
   "abc243_d": {
-    "contest_id": "adt_all_20260827_1",
+    "contest_id": "abc243",
     "difficulty": 758,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Moves on Binary Tree"
   },
   "abc243_e": {
-    "contest_id": "adt_all_20260709_2",
+    "contest_id": "abc243",
     "difficulty": 1637,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Edge Deletion"
   },
   "abc244_c": {
-    "contest_id": "adt_all_20261102_1",
+    "contest_id": "abc244",
     "difficulty": 46,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Yamanote Line Game"
   },
   "abc244_d": {
-    "contest_id": "adt_all_20261028_1",
+    "contest_id": "abc244",
     "difficulty": 47,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Swap Hats"
   },
   "abc244_e": {
-    "contest_id": "adt_all_20260717_2",
+    "contest_id": "abc244",
     "difficulty": 1125,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "King Bombee"
   },
   "abc245_d": {
-    "contest_id": "adt_all_20240214_1",
+    "contest_id": "abc245",
     "difficulty": 815,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Polynomial division"
   },
   "abc245_f": {
-    "contest_id": "adt_all_20260923_2",
+    "contest_id": "abc245",
     "difficulty": 1451,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Endless Walk"
   },
   "abc246_d": {
-    "contest_id": "adt_all_20240409_1",
+    "contest_id": "abc246",
     "difficulty": 1148,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "2-variable Function"
   },
   "abc246_e": {
-    "contest_id": "adt_all_20260813_1",
+    "contest_id": "abc246",
     "difficulty": 1476,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Bishop 2"
   },
   "abc247_d": {
-    "contest_id": "adt_all_20260828_2",
+    "contest_id": "abc247",
     "difficulty": 468,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cylinder"
   },
   "abc247_e": {
-    "contest_id": "adt_all_20261013_1",
+    "contest_id": "abc247",
     "difficulty": 1256,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Max Min"
   },
   "abc248_c": {
-    "contest_id": "adt_easy_20260930_1",
+    "contest_id": "abc248",
     "difficulty": 787,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Dice Sum"
   },
   "abc248_d": {
-    "contest_id": "adt_hard_20240131_2",
+    "contest_id": "abc248",
     "difficulty": 793,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Range Count Query"
   },
   "abc248_e": {
-    "contest_id": "adt_all_20260925_2",
+    "contest_id": "abc248",
     "difficulty": 1292,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "K-colinear Line"
   },
   "abc249_c": {
-    "contest_id": "adt_all_20261005_2",
+    "contest_id": "abc249",
     "difficulty": 528,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Just K"
   },
   "abc249_d": {
-    "contest_id": "adt_all_20261022_1",
+    "contest_id": "abc249",
     "difficulty": 983,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Index Trio"
   },
   "abc250_c": {
-    "contest_id": "adt_all_20261021_2",
+    "contest_id": "abc250",
     "difficulty": 517,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Adjacent Swaps"
   },
   "abc250_d": {
-    "contest_id": "adt_all_20260924_2",
+    "contest_id": "abc250",
     "difficulty": 797,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "250-like Number"
   },
   "abc250_e": {
-    "contest_id": "adt_hard_20240606_2",
+    "contest_id": "abc250",
     "difficulty": 1421,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Prefix Equality"
   },
   "abc251_d": {
-    "contest_id": "adt_all_20260731_2",
+    "contest_id": "abc251",
     "difficulty": 1463,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "At Most 3 (Contestant ver.)"
   },
   "abc251_e": {
-    "contest_id": "adt_all_20260915_2",
+    "contest_id": "abc251",
     "difficulty": 1227,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Takahashi and Animals"
   },
   "abc252_c": {
-    "contest_id": "adt_all_20261104_1",
+    "contest_id": "abc252",
     "difficulty": 441,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Slot Strategy"
   },
   "abc252_d": {
-    "contest_id": "adt_medium_20240404_3",
+    "contest_id": "abc252",
     "difficulty": 884,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Distinct Trio"
   },
   "abc252_e": {
-    "contest_id": "adt_all_20261102_1",
+    "contest_id": "abc252",
     "difficulty": 1294,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Road Reduction"
   },
   "abc253_c": {
-    "contest_id": "adt_all_20260629_2",
+    "contest_id": "abc253",
     "difficulty": 518,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Max - Min Query"
   },
   "abc253_d": {
-    "contest_id": "adt_all_20260821_2",
+    "contest_id": "abc253",
     "difficulty": 520,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "FizzBuzz Sum Hard"
   },
   "abc254_c": {
-    "contest_id": "adt_all_20260728_2",
+    "contest_id": "abc254",
     "difficulty": 536,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "K Swap"
   },
   "abc254_d": {
-    "contest_id": "adt_all_20260722_2",
+    "contest_id": "abc254",
     "difficulty": 1191,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Together Square"
   },
   "abc254_e": {
-    "contest_id": "adt_all_20260812_2",
+    "contest_id": "abc254",
     "difficulty": 1202,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Small d and k"
   },
   "abc254_f": {
-    "contest_id": "adt_all_20261006_1",
+    "contest_id": "abc254",
     "difficulty": 1764,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Rectangle GCD"
   },
   "abc255_c": {
-    "contest_id": "adt_all_20260928_1",
+    "contest_id": "abc255",
     "difficulty": 574,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "±1 Operation 1 "
   },
   "abc255_d": {
-    "contest_id": "adt_all_20261105_1",
+    "contest_id": "abc255",
     "difficulty": 788,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "±1 Operation 2"
   },
   "abc255_e": {
-    "contest_id": "adt_all_20261023_1",
+    "contest_id": "abc255",
     "difficulty": 1519,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Lucky Numbers"
   },
   "abc256_c": {
-    "contest_id": "adt_all_20260910_2",
+    "contest_id": "abc256",
     "difficulty": 541,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Filling 3x3 array"
   },
   "abc256_d": {
-    "contest_id": "adt_medium_20240403_3",
+    "contest_id": "abc256",
     "difficulty": 546,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Union of Interval"
   },
   "abc256_e": {
-    "contest_id": "adt_all_20231212_1",
+    "contest_id": "abc256",
     "difficulty": 1224,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Takahashi's Anguish"
   },
@@ -1428,394 +1428,394 @@
     "name": "I like Query Problem"
   },
   "abc257_c": {
-    "contest_id": "adt_all_20260820_1",
+    "contest_id": "abc257",
     "difficulty": 678,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Robot Takahashi "
   },
   "abc257_e": {
-    "contest_id": "adt_all_20260925_1",
+    "contest_id": "abc257",
     "difficulty": 1385,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Addition and Multiplication 2"
   },
   "abc258_d": {
-    "contest_id": "adt_all_20240208_1",
+    "contest_id": "abc258",
     "difficulty": 687,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Trophy"
   },
   "abc259_d": {
-    "contest_id": "adt_all_20231122_2",
+    "contest_id": "abc259",
     "difficulty": 947,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Circumferences"
   },
   "abc259_e": {
-    "contest_id": "adt_all_20261026_1",
+    "contest_id": "abc259",
     "difficulty": 1370,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "LCM on Whiteboard"
   },
   "abc260_d": {
-    "contest_id": "adt_all_20260928_1",
+    "contest_id": "abc260",
     "difficulty": 1074,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Draw Your Cards"
   },
   "abc264_c": {
-    "contest_id": "adt_easy_20260703_1",
+    "contest_id": "abc264",
     "difficulty": 758,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Matrix Reducing"
   },
   "abc264_e": {
-    "contest_id": "adt_all_20261019_2",
+    "contest_id": "abc264",
     "difficulty": 1229,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Blackout 2"
   },
   "abc267_e": {
-    "contest_id": "adt_all_20260703_1",
+    "contest_id": "abc267",
     "difficulty": 1313,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Erasing Vertices 2"
   },
   "abc269_d": {
-    "contest_id": "adt_hard_20240320_2",
+    "contest_id": "abc269",
     "difficulty": 612,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Do use hexagon grid"
   },
   "abc269_e": {
-    "contest_id": "adt_hard_20240710_2",
+    "contest_id": "abc269",
     "difficulty": 1030,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Last Rook"
   },
   "abc270_d": {
-    "contest_id": "adt_medium_20240321_3",
+    "contest_id": "abc270",
     "difficulty": 1300,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Stones"
   },
   "abc270_e": {
-    "contest_id": "adt_all_20231227_1",
+    "contest_id": "abc270",
     "difficulty": 1211,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Apple Baskets on Circle"
   },
   "abc271_d": {
-    "contest_id": "adt_all_20261014_1",
+    "contest_id": "abc271",
     "difficulty": 886,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Flip and Adjust"
   },
   "abc271_e": {
-    "contest_id": "adt_hard_20240327_3",
+    "contest_id": "abc271",
     "difficulty": 1402,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Subsequence Path"
   },
   "abc272_d": {
-    "contest_id": "adt_all_20261001_1",
+    "contest_id": "abc272",
     "difficulty": 804,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Root M Leaper"
   },
   "abc272_e": {
-    "contest_id": "adt_all_20260707_2",
+    "contest_id": "abc272",
     "difficulty": 1434,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Add and Mex"
   },
   "abc273_d": {
-    "contest_id": "adt_all_20261103_2",
+    "contest_id": "abc273",
     "difficulty": 1119,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "LRUD Instructions"
   },
   "abc273_e": {
-    "contest_id": "adt_all_20261020_1",
+    "contest_id": "abc273",
     "difficulty": 1624,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Notebook"
   },
   "abc274_d": {
-    "contest_id": "adt_medium_20231213_1",
+    "contest_id": "abc274",
     "difficulty": 916,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Robot Arms 2"
   },
   "abc274_e": {
-    "contest_id": "adt_hard_20240704_3",
+    "contest_id": "abc274",
     "difficulty": 1520,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Booster"
   },
   "abc275_e": {
-    "contest_id": "adt_all_20260706_1",
+    "contest_id": "abc275",
     "difficulty": 1264,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sugoroku 4"
   },
   "abc276_d": {
-    "contest_id": "adt_hard_20240116_3",
+    "contest_id": "abc276",
     "difficulty": 645,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Divide by 2 or 3"
   },
   "abc276_e": {
-    "contest_id": "adt_all_20240710_1",
+    "contest_id": "abc276",
     "difficulty": 1058,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Round Trip"
   },
   "abc277_d": {
-    "contest_id": "adt_medium_20231122_1",
+    "contest_id": "abc277",
     "difficulty": 873,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Takahashi's Solitaire"
   },
   "abc277_e": {
-    "contest_id": "adt_all_20260909_1",
+    "contest_id": "abc277",
     "difficulty": 1183,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Crystal Switches"
   },
   "abc278_e": {
-    "contest_id": "adt_all_20260911_2",
+    "contest_id": "abc278",
     "difficulty": 996,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Grid Filling"
   },
   "abc278_f": {
-    "contest_id": "adt_all_20260810_2",
+    "contest_id": "abc278",
     "difficulty": 1452,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Shiritori"
   },
   "abc279_d": {
-    "contest_id": "adt_all_20260921_2",
+    "contest_id": "abc279",
     "difficulty": 766,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Freefall"
   },
   "abc279_e": {
-    "contest_id": "adt_all_20260824_2",
+    "contest_id": "abc279",
     "difficulty": 1390,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Cheating Amidakuji"
   },
   "abc280_e": {
-    "contest_id": "adt_all_20260717_1",
+    "contest_id": "abc280",
     "difficulty": 1251,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Critical Hit"
   },
   "abc280_f": {
-    "contest_id": "adt_all_20260827_1",
+    "contest_id": "abc280",
     "difficulty": 1819,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Pay or Receive"
   },
   "abc281_d": {
-    "contest_id": "adt_medium_20240319_3",
+    "contest_id": "abc281",
     "difficulty": 1031,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Max Multiple"
   },
   "abc281_e": {
-    "contest_id": "adt_all_20261030_2",
+    "contest_id": "abc281",
     "difficulty": 1334,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Least Elements "
   },
   "abc282_d": {
-    "contest_id": "adt_all_20261015_1",
+    "contest_id": "abc282",
     "difficulty": 1154,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Make Bipartite 2"
   },
   "abc283_c": {
-    "contest_id": "adt_easy_20260814_1",
+    "contest_id": "abc283",
     "difficulty": -207,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Cash Register"
   },
   "abc283_d": {
-    "contest_id": "adt_medium_20240423_3",
+    "contest_id": "abc283",
     "difficulty": 453,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Scope"
   },
   "abc284_d": {
-    "contest_id": "adt_medium_20231123_1",
+    "contest_id": "abc284",
     "difficulty": 658,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Happy New Year 2023 "
   },
   "abc284_f": {
-    "contest_id": "adt_all_20260720_2",
+    "contest_id": "abc284",
     "difficulty": 1575,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "ABCBAC"
   },
   "abc285_d": {
-    "contest_id": "adt_hard_20240130_2",
+    "contest_id": "abc285",
     "difficulty": 663,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Change Usernames"
   },
   "abc286_e": {
-    "contest_id": "adt_all_20260722_1",
+    "contest_id": "abc286",
     "difficulty": 1128,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Souvenir"
   },
   "abc287_c": {
-    "contest_id": "adt_all_20260901_1",
+    "contest_id": "abc287",
     "difficulty": 466,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Path Graph?"
   },
   "abc287_d": {
-    "contest_id": "adt_all_20240220_1",
+    "contest_id": "abc287",
     "difficulty": 796,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Match or Not"
   },
   "abc287_e": {
-    "contest_id": "adt_hard_20240423_2",
+    "contest_id": "abc287",
     "difficulty": 1093,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Karuta"
   },
   "abc288_c": {
-    "contest_id": "adt_all_20260929_2",
+    "contest_id": "abc288",
     "difficulty": 436,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Don’t be cycle"
   },
   "abc288_d": {
-    "contest_id": "adt_all_20260826_1",
+    "contest_id": "abc288",
     "difficulty": 1757,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Range Add Query"
   },
   "abc289_d": {
-    "contest_id": "adt_all_20261104_1",
+    "contest_id": "abc289",
     "difficulty": 551,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Step Up Robot"
   },
   "abc289_e": {
-    "contest_id": "adt_all_20260828_2",
+    "contest_id": "abc289",
     "difficulty": 1318,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Swap Places"
   },
   "abc290_d": {
-    "contest_id": "adt_medium_20231207_2",
+    "contest_id": "abc290",
     "difficulty": 1036,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Marking"
   },
   "abc291_d": {
-    "contest_id": "adt_all_20260715_2",
+    "contest_id": "abc291",
     "difficulty": 720,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Flip Cards"
   },
   "abc291_e": {
-    "contest_id": "adt_all_20240102_1",
+    "contest_id": "abc291",
     "difficulty": 1069,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Find Permutation"
   },
   "abc292_d": {
-    "contest_id": "adt_medium_20231228_2",
+    "contest_id": "abc292",
     "difficulty": 579,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Unicyclic Components"
   },
   "abc292_e": {
-    "contest_id": "adt_all_20260715_1",
+    "contest_id": "abc292",
     "difficulty": 1272,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Transitivity"
   },
   "abc293_c": {
-    "contest_id": "adt_all_20260824_1",
+    "contest_id": "abc293",
     "difficulty": 431,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Make Takahashi Happy "
   },
   "abc293_d": {
-    "contest_id": "adt_all_20260907_1",
+    "contest_id": "abc293",
     "difficulty": 830,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Tying Rope"
   },
   "abc293_e": {
-    "contest_id": "adt_all_20231206_1",
+    "contest_id": "abc293",
     "difficulty": 1453,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Geometric Progression"
   },
@@ -1827,16 +1827,16 @@
     "name": "Triple Index"
   },
   "abc294_d": {
-    "contest_id": "adt_all_20261005_1",
+    "contest_id": "abc294",
     "difficulty": 385,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Bank"
   },
   "abc294_e": {
-    "contest_id": "adt_all_20260806_1",
+    "contest_id": "abc294",
     "difficulty": 792,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "2xN Grid"
   },
@@ -1848,905 +1848,905 @@
     "name": "Distance Queries on a Tree"
   },
   "abc295_d": {
-    "contest_id": "adt_all_20260916_1",
+    "contest_id": "abc295",
     "difficulty": 939,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": " Three Days Ago"
   },
   "abc296_d": {
-    "contest_id": "adt_all_20260902_2",
+    "contest_id": "abc296",
     "difficulty": 999,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "M<=ab"
   },
   "abc296_e": {
-    "contest_id": "adt_all_20231128_2",
+    "contest_id": "abc296",
     "difficulty": 1285,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Transition Game"
   },
   "abc297_d": {
-    "contest_id": "adt_medium_20240116_1",
+    "contest_id": "abc297",
     "difficulty": 247,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Count Subtractions"
   },
   "abc297_e": {
-    "contest_id": "adt_all_20231130_1",
+    "contest_id": "abc297",
     "difficulty": 1176,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Kth Takoyaki Set"
   },
   "abc298_d": {
-    "contest_id": "adt_all_20260914_1",
+    "contest_id": "abc298",
     "difficulty": 882,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Writing a Numeral"
   },
   "abc298_e": {
-    "contest_id": "adt_hard_20240424_2",
+    "contest_id": "abc298",
     "difficulty": 1300,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Unfair Sugoroku"
   },
   "abc299_d": {
-    "contest_id": "adt_all_20260925_1",
+    "contest_id": "abc299",
     "difficulty": 684,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Find by Query"
   },
   "abc299_e": {
-    "contest_id": "adt_all_20260825_1",
+    "contest_id": "abc299",
     "difficulty": 1216,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Nearest Black Vertex"
   },
   "abc300_c": {
-    "contest_id": "adt_medium_20231205_2",
+    "contest_id": "abc300",
     "difficulty": 534,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Cross"
   },
   "abc300_d": {
-    "contest_id": "adt_all_20261022_2",
+    "contest_id": "abc300",
     "difficulty": 908,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "AABCC"
   },
   "abc300_e": {
-    "contest_id": "adt_all_20261027_2",
+    "contest_id": "abc300",
     "difficulty": 1354,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Dice Product 3"
   },
   "abc301_b": {
-    "contest_id": "adt_easy_20261009_2",
+    "contest_id": "abc301",
     "difficulty": -314,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": " Fill the Gaps"
   },
   "abc301_c": {
-    "contest_id": "adt_all_20261029_2",
+    "contest_id": "abc301",
     "difficulty": 379,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "AtCoder Cards"
   },
   "abc301_d": {
-    "contest_id": "adt_all_20260825_2",
+    "contest_id": "abc301",
     "difficulty": 885,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Bitmask"
   },
   "abc301_e": {
-    "contest_id": "adt_all_20261013_2",
+    "contest_id": "abc301",
     "difficulty": 1673,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Pac-Takahashi "
   },
   "abc302_b": {
-    "contest_id": "adt_easy_20260903_2",
+    "contest_id": "abc302",
     "difficulty": 349,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Find snuke"
   },
   "abc302_c": {
-    "contest_id": "adt_easy_20260923_2",
+    "contest_id": "abc302",
     "difficulty": 469,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Almost Equal"
   },
   "abc302_d": {
-    "contest_id": "adt_medium_20231206_1",
+    "contest_id": "abc302",
     "difficulty": 682,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Impartial Gift"
   },
   "abc302_e": {
-    "contest_id": "adt_all_20260821_1",
+    "contest_id": "abc302",
     "difficulty": 988,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Isolation"
   },
   "abc303_b": {
-    "contest_id": "adt_easy_20261019_2",
+    "contest_id": "abc303",
     "difficulty": -110,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Discord"
   },
   "abc303_c": {
-    "contest_id": "adt_easy_20231207_2",
+    "contest_id": "abc303",
     "difficulty": 417,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Dash"
   },
   "abc303_d": {
-    "contest_id": "adt_medium_20240111_2",
+    "contest_id": "abc303",
     "difficulty": 778,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Shift vs. CapsLock"
   },
   "abc303_e": {
-    "contest_id": "adt_all_20240109_1",
+    "contest_id": "abc303",
     "difficulty": 1113,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "A Gift From the Stars"
   },
   "abc304_c": {
-    "contest_id": "adt_easy_20261022_2",
+    "contest_id": "abc304",
     "difficulty": 365,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Virus"
   },
   "abc304_d": {
-    "contest_id": "adt_all_20240102_2",
+    "contest_id": "abc304",
     "difficulty": 1015,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "A Piece of Cake"
   },
   "abc304_e": {
-    "contest_id": "adt_hard_20240404_3",
+    "contest_id": "abc304",
     "difficulty": 971,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Good Graph"
   },
   "abc305_b": {
-    "contest_id": "adt_easy_20260925_2",
+    "contest_id": "abc305",
     "difficulty": -749,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "ABCDEFG"
   },
   "abc305_c": {
-    "contest_id": "adt_all_20261015_1",
+    "contest_id": "abc305",
     "difficulty": 30,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Snuke the Cookie Picker"
   },
   "abc305_d": {
-    "contest_id": "adt_all_20260626_1",
+    "contest_id": "abc305",
     "difficulty": 671,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Sleep Log"
   },
   "abc305_e": {
-    "contest_id": "adt_all_20260827_1",
+    "contest_id": "abc305",
     "difficulty": 1158,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Art Gallery on Graph"
   },
   "abc305_f": {
-    "contest_id": "adt_hard_20240522_3",
+    "contest_id": "abc305",
     "difficulty": 1420,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Dungeon Explore"
   },
   "abc306_a": {
-    "contest_id": "adt_easy_20261102_1",
+    "contest_id": "abc306",
     "difficulty": null,
     "index": "A",
     "is_experimental": false,
     "name": "Echo"
   },
   "abc306_b": {
-    "contest_id": "adt_easy_20260902_1",
+    "contest_id": "abc306",
     "difficulty": null,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Base 2"
   },
   "abc306_c": {
-    "contest_id": "adt_all_20261001_1",
+    "contest_id": "abc306",
     "difficulty": 31,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Centers"
   },
   "abc306_d": {
-    "contest_id": "adt_all_20231128_1",
+    "contest_id": "abc306",
     "difficulty": 596,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Poisonous Full-Course"
   },
   "abc306_e": {
-    "contest_id": "adt_all_20260625_2",
+    "contest_id": "abc306",
     "difficulty": 1268,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Best Performances"
   },
   "abc307_b": {
-    "contest_id": "adt_easy_20261002_2",
+    "contest_id": "abc307",
     "difficulty": -298,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "racecar"
   },
   "abc307_c": {
-    "contest_id": "adt_easy_20260923_1",
+    "contest_id": "abc307",
     "difficulty": 1307,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Ideal Sheet"
   },
   "abc307_d": {
-    "contest_id": "adt_all_20260911_2",
+    "contest_id": "abc307",
     "difficulty": 666,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Mismatched Parentheses"
   },
   "abc307_e": {
-    "contest_id": "adt_all_20260622_2",
+    "contest_id": "abc307",
     "difficulty": 1240,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Distinct Adjacent"
   },
   "abc307_f": {
-    "contest_id": "adt_all_20260824_2",
+    "contest_id": "abc307",
     "difficulty": 2139,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Virus 2"
   },
   "abc308_b": {
-    "contest_id": "adt_easy_20260630_2",
+    "contest_id": "abc308",
     "difficulty": -417,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Default Price"
   },
   "abc308_c": {
-    "contest_id": "adt_all_20260925_2",
+    "contest_id": "abc308",
     "difficulty": 605,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Standings"
   },
   "abc308_d": {
-    "contest_id": "adt_medium_20240201_3",
+    "contest_id": "abc308",
     "difficulty": 619,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Snuke Maze"
   },
   "abc308_e": {
-    "contest_id": "adt_all_20260806_2",
+    "contest_id": "abc308",
     "difficulty": 1042,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "MEX"
   },
   "abc308_f": {
-    "contest_id": "adt_all_20231121_1",
+    "contest_id": "abc308",
     "difficulty": 1284,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Vouchers"
   },
   "abc309_a": {
-    "contest_id": "adt_easy_20261013_1",
+    "contest_id": "abc309",
     "difficulty": -756,
     "index": "A",
     "is_experimental": false,
     "name": "Nine"
   },
   "abc309_b": {
-    "contest_id": "adt_easy_20260714_1",
+    "contest_id": "abc309",
     "difficulty": -68,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Rotate"
   },
   "abc309_c": {
-    "contest_id": "adt_all_20261008_1",
+    "contest_id": "abc309",
     "difficulty": 344,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Medicine"
   },
   "abc309_d": {
-    "contest_id": "adt_all_20261007_2",
+    "contest_id": "abc309",
     "difficulty": 621,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Add One Edge"
   },
   "abc309_e": {
-    "contest_id": "adt_all_20231228_2",
+    "contest_id": "abc309",
     "difficulty": 957,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Family and Insurance"
   },
   "abc309_f": {
-    "contest_id": "adt_all_20260618_1",
+    "contest_id": "abc309",
     "difficulty": 1619,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Box in Box"
   },
   "abc310_a": {
-    "contest_id": "adt_easy_20260831_2",
+    "contest_id": "abc310",
     "difficulty": -749,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Order Something Else"
   },
   "abc310_b": {
-    "contest_id": "adt_easy_20260807_2",
+    "contest_id": "abc310",
     "difficulty": 171,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Strictly Superior"
   },
   "abc310_c": {
-    "contest_id": "adt_easy_20260629_1",
+    "contest_id": "abc310",
     "difficulty": 245,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Reversible"
   },
   "abc310_d": {
-    "contest_id": "adt_all_20261006_2",
+    "contest_id": "abc310",
     "difficulty": 1368,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Peaceful Teams"
   },
   "abc310_e": {
-    "contest_id": "adt_all_20260619_2",
+    "contest_id": "abc310",
     "difficulty": 1261,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "NAND repeatedly"
   },
   "abc311_c": {
-    "contest_id": "adt_all_20261020_2",
+    "contest_id": "abc311",
     "difficulty": 448,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Find it!"
   },
   "abc311_d": {
-    "contest_id": "adt_all_20260929_1",
+    "contest_id": "abc311",
     "difficulty": 885,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Grid Ice Floor"
   },
   "abc311_e": {
-    "contest_id": "adt_all_20260814_2",
+    "contest_id": "abc311",
     "difficulty": 1293,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Defect-free Squares"
   },
   "abc312_c": {
-    "contest_id": "adt_all_20260717_1",
+    "contest_id": "abc312",
     "difficulty": 727,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Invisible Hand"
   },
   "abc312_d": {
-    "contest_id": "adt_medium_20240222_3",
+    "contest_id": "abc312",
     "difficulty": 964,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Count Bracket Sequences"
   },
   "abc313_c": {
-    "contest_id": "adt_easy_20260805_2",
+    "contest_id": "abc313",
     "difficulty": 681,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Approximate Equalization 2"
   },
   "abc314_c": {
-    "contest_id": "adt_all_20260702_1",
+    "contest_id": "abc314",
     "difficulty": 337,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Rotate Colored Subsequence"
   },
   "abc314_d": {
-    "contest_id": "adt_all_20231226_2",
+    "contest_id": "abc314",
     "difficulty": 585,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "LOWER"
   },
   "abc315_d": {
-    "contest_id": "adt_all_20260828_1",
+    "contest_id": "abc315",
     "difficulty": 1531,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Magical Cookies"
   },
   "abc315_e": {
-    "contest_id": "adt_all_20240102_2",
+    "contest_id": "abc315",
     "difficulty": 921,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Prerequisites"
   },
   "abc317_c": {
-    "contest_id": "adt_all_20261023_1",
+    "contest_id": "abc317",
     "difficulty": 604,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Remembering the Days"
   },
   "abc317_d": {
-    "contest_id": "adt_all_20260824_1",
+    "contest_id": "abc317",
     "difficulty": 929,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "President"
   },
   "abc317_e": {
-    "contest_id": "adt_all_20231227_2",
+    "contest_id": "abc317",
     "difficulty": 1085,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Avoid Eye Contact"
   },
   "abc317_f": {
-    "contest_id": "adt_hard_20240220_3",
+    "contest_id": "abc317",
     "difficulty": 2072,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Nim"
   },
   "abc318_c": {
-    "contest_id": "adt_easy_20261016_2",
+    "contest_id": "abc318",
     "difficulty": 400,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Blue Spring"
   },
   "abc318_d": {
-    "contest_id": "adt_medium_20240305_3",
+    "contest_id": "abc318",
     "difficulty": 1017,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "General Weighted Max Matching"
   },
   "abc318_e": {
-    "contest_id": "adt_all_20261002_2",
+    "contest_id": "abc318",
     "difficulty": 1004,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sandwiches"
   },
   "abc319_c": {
-    "contest_id": "adt_all_20261006_1",
+    "contest_id": "abc319",
     "difficulty": 1111,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "False Hope"
   },
   "abc319_d": {
-    "contest_id": "adt_all_20231129_2",
+    "contest_id": "abc319",
     "difficulty": 631,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Minimum Width"
   },
   "abc319_e": {
-    "contest_id": "adt_hard_20240514_2",
+    "contest_id": "abc319",
     "difficulty": 1353,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Bus Stops"
   },
   "abc320_c": {
-    "contest_id": "adt_easy_20260910_2",
+    "contest_id": "abc320",
     "difficulty": 851,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Slot Strategy 2 (Easy)"
   },
   "abc320_d": {
-    "contest_id": "adt_medium_20240110_1",
+    "contest_id": "abc320",
     "difficulty": 873,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Relative Position"
   },
   "abc320_e": {
-    "contest_id": "adt_all_20240709_1",
+    "contest_id": "abc320",
     "difficulty": 1096,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Somen Nagashi"
   },
   "abc321_c": {
-    "contest_id": "adt_easy_20260831_2",
+    "contest_id": "abc321",
     "difficulty": 591,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "321-like Searcher"
   },
   "abc321_d": {
-    "contest_id": "adt_all_20260903_1",
+    "contest_id": "abc321",
     "difficulty": 806,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Set Menu"
   },
   "abc322_d": {
-    "contest_id": "adt_medium_20240110_2",
+    "contest_id": "abc322",
     "difficulty": 1310,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Polyomino"
   },
   "abc322_e": {
-    "contest_id": "adt_hard_20240117_3",
+    "contest_id": "abc322",
     "difficulty": 1193,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Product Development"
   },
   "abc323_d": {
-    "contest_id": "adt_all_20240313_1",
+    "contest_id": "abc323",
     "difficulty": 852,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Merge Slimes"
   },
   "abc323_e": {
-    "contest_id": "adt_all_20260724_1",
+    "contest_id": "abc323",
     "difficulty": 1279,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Playlist"
   },
   "abc324_c": {
-    "contest_id": "adt_easy_20260929_2",
+    "contest_id": "abc324",
     "difficulty": 637,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Error Correction"
   },
   "abc324_d": {
-    "contest_id": "adt_all_20260717_2",
+    "contest_id": "abc324",
     "difficulty": 895,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Square Permutation"
   },
   "abc324_e": {
-    "contest_id": "adt_all_20260617_2",
+    "contest_id": "abc324",
     "difficulty": 1153,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Joint Two Strings"
   },
   "abc325_c": {
-    "contest_id": "adt_all_20260915_1",
+    "contest_id": "abc325",
     "difficulty": 400,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Sensors"
   },
   "abc325_d": {
-    "contest_id": "adt_all_20260710_1",
+    "contest_id": "abc325",
     "difficulty": 1367,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Printing Machine"
   },
   "abc325_e": {
-    "contest_id": "adt_all_20260805_1",
+    "contest_id": "abc325",
     "difficulty": 1093,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Our clients, please wait a moment"
   },
   "abc326_b": {
-    "contest_id": "adt_easy_20261006_1",
+    "contest_id": "abc326",
     "difficulty": -503,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "326-like Numbers"
   },
   "abc326_d": {
-    "contest_id": "adt_all_20240522_1",
+    "contest_id": "abc326",
     "difficulty": 1371,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "ABC Puzzle"
   },
   "abc326_e": {
-    "contest_id": "adt_all_20260923_1",
+    "contest_id": "abc326",
     "difficulty": 1363,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Revenge of \"The Salary of AtCoder Inc.\""
   },
   "abc327_d": {
-    "contest_id": "adt_all_20240613_1",
+    "contest_id": "abc327",
     "difficulty": 709,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Good Tuple Problem"
   },
   "abc327_e": {
-    "contest_id": "adt_all_20261009_2",
+    "contest_id": "abc327",
     "difficulty": 1227,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Maximize Rating"
   },
   "abc327_f": {
-    "contest_id": "adt_all_20260917_2",
+    "contest_id": "abc327",
     "difficulty": 1624,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Apples"
   },
   "abc328_d": {
-    "contest_id": "adt_all_20260918_2",
+    "contest_id": "abc328",
     "difficulty": 555,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Take ABC"
   },
   "abc328_e": {
-    "contest_id": "adt_hard_20240220_2",
+    "contest_id": "abc328",
     "difficulty": 1160,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Modulo MST"
   },
   "abc328_f": {
-    "contest_id": "adt_all_20260615_2",
+    "contest_id": "abc328",
     "difficulty": 1477,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Good Set Query"
   },
   "abc329_f": {
-    "contest_id": "adt_all_20260925_1",
+    "contest_id": "abc329",
     "difficulty": 1207,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Colored Ball"
   },
   "abc330_c": {
-    "contest_id": "adt_easy_20261013_1",
+    "contest_id": "abc330",
     "difficulty": 519,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Minimize Abs 2"
   },
   "abc330_d": {
-    "contest_id": "adt_all_20260814_1",
+    "contest_id": "abc330",
     "difficulty": 569,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Counting Ls"
   },
   "abc330_e": {
-    "contest_id": "adt_hard_20240125_3",
+    "contest_id": "abc330",
     "difficulty": 1004,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Mex and Update"
   },
   "abc331_d": {
-    "contest_id": "adt_hard_20240821_2",
+    "contest_id": "abc331",
     "difficulty": 1361,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Tile Pattern"
   },
   "abc331_e": {
-    "contest_id": "adt_hard_20240130_3",
+    "contest_id": "abc331",
     "difficulty": 1018,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Set Meal"
   },
   "abc332_b": {
-    "contest_id": "adt_easy_20261009_1",
+    "contest_id": "abc332",
     "difficulty": -265,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Glass and Mug"
   },
   "abc332_d": {
-    "contest_id": "adt_medium_20240409_3",
+    "contest_id": "abc332",
     "difficulty": 1175,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Swapping Puzzle"
   },
   "abc332_e": {
-    "contest_id": "adt_all_20261028_2",
+    "contest_id": "abc332",
     "difficulty": 1883,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Lucky bag"
   },
   "abc333_d": {
-    "contest_id": "adt_medium_20240314_3",
+    "contest_id": "abc333",
     "difficulty": 704,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Erase Leaves"
   },
   "abc333_e": {
-    "contest_id": "adt_all_20261005_2",
+    "contest_id": "abc333",
     "difficulty": 948,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Takahashi Quest"
   },
   "abc334_c": {
-    "contest_id": "adt_easy_20261102_2",
+    "contest_id": "abc334",
     "difficulty": 1030,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Socks 2"
   },
   "abc334_d": {
-    "contest_id": "adt_all_20260817_1",
+    "contest_id": "abc334",
     "difficulty": 602,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Reindeer and Sleigh"
   },
   "abc334_e": {
-    "contest_id": "adt_hard_20240222_2",
+    "contest_id": "abc334",
     "difficulty": 1195,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Christmas Color Grid 1"
   },
   "abc335_c": {
-    "contest_id": "adt_easy_20261030_2",
+    "contest_id": "abc335",
     "difficulty": 452,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Loong Tracking"
   },
   "abc335_d": {
-    "contest_id": "adt_all_20261016_2",
+    "contest_id": "abc335",
     "difficulty": 431,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Loong and Takahashi"
   },
   "abc335_e": {
-    "contest_id": "adt_all_20260929_1",
+    "contest_id": "abc335",
     "difficulty": 1540,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Non-Decreasing Colorful Path"
   },
   "abc336_d": {
-    "contest_id": "adt_all_20260914_2",
+    "contest_id": "abc336",
     "difficulty": 991,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Pyramid"
   },
   "abc336_e": {
-    "contest_id": "adt_all_20260728_1",
+    "contest_id": "abc336",
     "difficulty": 1538,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Digit Sum Divisible"
   },
   "abc337_d": {
-    "contest_id": "adt_hard_20240328_2",
+    "contest_id": "abc337",
     "difficulty": 760,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cheating Gomoku Narabe"
   },
   "abc337_e": {
-    "contest_id": "adt_hard_20240605_2",
+    "contest_id": "abc337",
     "difficulty": 1155,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Bad Juice"
   },
   "abc338_c": {
-    "contest_id": "adt_all_20260923_2",
+    "contest_id": "abc338",
     "difficulty": 513,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Leftover Recipes"
   },
   "abc338_d": {
-    "contest_id": "adt_all_20240307_1",
+    "contest_id": "abc338",
     "difficulty": 1234,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Island Tour"
   },
   "abc338_e": {
-    "contest_id": "adt_hard_20240507_3",
+    "contest_id": "abc338",
     "difficulty": 1220,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Chords"
   },
   "abc339_c": {
-    "contest_id": "adt_all_20261014_1",
+    "contest_id": "abc339",
     "difficulty": 66,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Perfect Bus"
   },
   "abc339_d": {
-    "contest_id": "adt_all_20260707_2",
+    "contest_id": "abc339",
     "difficulty": 1276,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Synchronized Players "
   },
   "abc339_e": {
-    "contest_id": "adt_hard_20240321_3",
+    "contest_id": "abc339",
     "difficulty": 1109,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Smooth Subsequence"
   },
@@ -2758,23 +2758,23 @@
     "name": "Smaller Sum"
   },
   "abc340_c": {
-    "contest_id": "adt_easy_20261006_1",
+    "contest_id": "abc340",
     "difficulty": 528,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Divide and Divide"
   },
   "abc340_d": {
-    "contest_id": "adt_all_20260728_1",
+    "contest_id": "abc340",
     "difficulty": 784,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Super Takahashi Bros."
   },
   "abc340_e": {
-    "contest_id": "adt_hard_20240627_3",
+    "contest_id": "abc340",
     "difficulty": 1157,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Mancala 2"
   },
@@ -2786,44 +2786,44 @@
     "name": "Leaf Color"
   },
   "abc341_c": {
-    "contest_id": "adt_all_20260707_2",
+    "contest_id": "abc341",
     "difficulty": 406,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Takahashi Gets Lost"
   },
   "abc341_d": {
-    "contest_id": "adt_all_20260626_2",
+    "contest_id": "abc341",
     "difficulty": 829,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Only one of two"
   },
   "abc341_e": {
-    "contest_id": "adt_hard_20240326_2",
+    "contest_id": "abc341",
     "difficulty": 1223,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Alternating String"
   },
   "abc342_c": {
-    "contest_id": "adt_easy_20240411_1",
+    "contest_id": "abc342",
     "difficulty": 505,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Many Replacement"
   },
   "abc342_d": {
-    "contest_id": "adt_medium_20240710_3",
+    "contest_id": "abc342",
     "difficulty": 944,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Square Pair"
   },
   "abc342_e": {
-    "contest_id": "adt_all_20261026_2",
+    "contest_id": "abc342",
     "difficulty": 1476,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Last Train"
   },
@@ -2835,415 +2835,415 @@
     "name": "Retroactive Range Chmax"
   },
   "abc343_c": {
-    "contest_id": "adt_easy_20260616_2",
+    "contest_id": "abc343",
     "difficulty": 160,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "343"
   },
   "abc343_d": {
-    "contest_id": "adt_all_20260922_1",
+    "contest_id": "abc343",
     "difficulty": 422,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Diversity of Scores"
   },
   "abc343_e": {
-    "contest_id": "adt_all_20260722_2",
+    "contest_id": "abc343",
     "difficulty": 1802,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "7x7x7"
   },
   "abc343_f": {
-    "contest_id": "adt_hard_20240502_2",
+    "contest_id": "abc343",
     "difficulty": 1370,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Second Largest Query"
   },
   "abc344_d": {
-    "contest_id": "adt_all_20260901_2",
+    "contest_id": "abc344",
     "difficulty": 854,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "String Bags"
   },
   "abc344_e": {
-    "contest_id": "adt_hard_20240523_2",
+    "contest_id": "abc344",
     "difficulty": 973,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Insert or Erase"
   },
   "abc345_d": {
-    "contest_id": "adt_all_20240425_1",
+    "contest_id": "abc345",
     "difficulty": 1419,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Tiling"
   },
   "abc346_d": {
-    "contest_id": "adt_all_20260810_2",
+    "contest_id": "abc346",
     "difficulty": 845,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Gomamayo Sequence"
   },
   "abc346_e": {
-    "contest_id": "adt_all_20260827_2",
+    "contest_id": "abc346",
     "difficulty": 1053,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Paint"
   },
   "abc347_c": {
-    "contest_id": "adt_all_20260904_1",
+    "contest_id": "abc347",
     "difficulty": 926,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Ideal Holidays"
   },
   "abc347_d": {
-    "contest_id": "adt_hard_20240619_2",
+    "contest_id": "abc347",
     "difficulty": 1041,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Popcount and XOR"
   },
   "abc347_e": {
-    "contest_id": "adt_all_20261006_2",
+    "contest_id": "abc347",
     "difficulty": 1166,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Set Add Query"
   },
   "abc348_d": {
-    "contest_id": "adt_all_20260811_1",
+    "contest_id": "abc348",
     "difficulty": 1108,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Medicines on Grid"
   },
   "abc348_e": {
-    "contest_id": "adt_hard_20240709_2",
+    "contest_id": "abc348",
     "difficulty": 1347,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Minimize Sum of Distances"
   },
   "abc349_d": {
-    "contest_id": "adt_all_20241217_1",
+    "contest_id": "abc349",
     "difficulty": 832,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Divide Interval"
   },
   "abc349_e": {
-    "contest_id": "adt_all_20260731_2",
+    "contest_id": "abc349",
     "difficulty": 1464,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Weighted Tic-Tac-Toe"
   },
   "abc350_d": {
-    "contest_id": "adt_hard_20240820_2",
+    "contest_id": "abc350",
     "difficulty": 773,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "New Friends"
   },
   "abc350_e": {
-    "contest_id": "adt_all_20260831_1",
+    "contest_id": "abc350",
     "difficulty": 1385,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Toward 0"
   },
   "abc351_d": {
-    "contest_id": "adt_all_20260622_1",
+    "contest_id": "abc351",
     "difficulty": 974,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Grid and Magnet"
   },
   "abc351_f": {
-    "contest_id": "adt_all_20261016_2",
+    "contest_id": "abc351",
     "difficulty": 1253,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Double Sum"
   },
   "abc352_d": {
-    "contest_id": "adt_all_20260803_1",
+    "contest_id": "abc352",
     "difficulty": 714,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Permutation Subsequence"
   },
   "abc352_e": {
-    "contest_id": "adt_all_20261001_1",
+    "contest_id": "abc352",
     "difficulty": 1030,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Clique Connect"
   },
   "abc353_c": {
-    "contest_id": "adt_easy_20260807_1",
+    "contest_id": "abc353",
     "difficulty": 795,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sigma Problem"
   },
   "abc353_d": {
-    "contest_id": "adt_all_20240619_1",
+    "contest_id": "abc353",
     "difficulty": 844,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Another Sigma Problem "
   },
   "abc353_e": {
-    "contest_id": "adt_all_20261008_1",
+    "contest_id": "abc353",
     "difficulty": 1217,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Yet Another Sigma Problem "
   },
   "abc354_c": {
-    "contest_id": "adt_medium_20240828_3",
+    "contest_id": "abc354",
     "difficulty": 441,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "AtCoder Magics"
   },
   "abc354_d": {
-    "contest_id": "adt_all_20260917_2",
+    "contest_id": "abc354",
     "difficulty": 1259,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "AtCoder Wallpaper"
   },
   "abc354_e": {
-    "contest_id": "adt_all_20260618_1",
+    "contest_id": "abc354",
     "difficulty": 1223,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Remove Pairs"
   },
   "abc355_d": {
-    "contest_id": "adt_all_20260918_1",
+    "contest_id": "abc355",
     "difficulty": 735,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Intersecting Intervals"
   },
   "abc355_f": {
-    "contest_id": "adt_all_20260616_2",
+    "contest_id": "abc355",
     "difficulty": 1924,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "MST Query"
   },
   "abc356_c": {
-    "contest_id": "adt_easy_20261021_2",
+    "contest_id": "abc356",
     "difficulty": 568,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Keys"
   },
   "abc356_d": {
-    "contest_id": "adt_all_20260910_2",
+    "contest_id": "abc356",
     "difficulty": 886,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Masked Popcount"
   },
   "abc356_e": {
-    "contest_id": "adt_all_20261104_2",
+    "contest_id": "abc356",
     "difficulty": 1506,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Max/Min"
   },
   "abc357_d": {
-    "contest_id": "adt_all_20261104_2",
+    "contest_id": "abc357",
     "difficulty": 970,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "88888888"
   },
   "abc357_e": {
-    "contest_id": "adt_all_20260817_1",
+    "contest_id": "abc357",
     "difficulty": 1295,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Reachability in Functional Graph"
   },
   "abc358_e": {
-    "contest_id": "adt_all_20260803_2",
+    "contest_id": "abc358",
     "difficulty": 1397,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Alphabet Tiles"
   },
   "abc359_c": {
-    "contest_id": "adt_all_20261007_1",
+    "contest_id": "abc359",
     "difficulty": 828,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Tile Distance 2"
   },
   "abc359_d": {
-    "contest_id": "adt_all_20250109_1",
+    "contest_id": "abc359",
     "difficulty": 1381,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Avoid K Palindrome"
   },
   "abc359_e": {
-    "contest_id": "adt_all_20240822_1",
+    "contest_id": "abc359",
     "difficulty": 1275,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Water Tank"
   },
   "abc360_e": {
-    "contest_id": "adt_all_20260908_1",
+    "contest_id": "abc360",
     "difficulty": 1249,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Random Swaps of Balls"
   },
   "abc361_d": {
-    "contest_id": "adt_all_20260727_1",
+    "contest_id": "abc361",
     "difficulty": 1202,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Go Stone Puzzle"
   },
   "abc361_e": {
-    "contest_id": "adt_all_20260911_1",
+    "contest_id": "abc361",
     "difficulty": 1213,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Tree and Hamilton Path 2"
   },
   "abc361_f": {
-    "contest_id": "adt_hard_20241107_3",
+    "contest_id": "abc361",
     "difficulty": 1606,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "x = a^b"
   },
   "abc362_c": {
-    "contest_id": "adt_easy_20261104_2",
+    "contest_id": "abc362",
     "difficulty": 521,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sum = 0"
   },
   "abc362_d": {
-    "contest_id": "adt_all_20260911_1",
+    "contest_id": "abc362",
     "difficulty": 634,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Shortest Path 3"
   },
   "abc362_e": {
-    "contest_id": "adt_hard_20241002_3",
+    "contest_id": "abc362",
     "difficulty": 1225,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Count Arithmetic Subsequences"
   },
   "abc363_c": {
-    "contest_id": "adt_all_20261019_2",
+    "contest_id": "abc363",
     "difficulty": 602,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Avoid K Palindrome 2"
   },
   "abc363_d": {
-    "contest_id": "adt_medium_20241231_3",
+    "contest_id": "abc363",
     "difficulty": 975,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Palindromic Number"
   },
   "abc363_e": {
-    "contest_id": "adt_all_20241106_1",
+    "contest_id": "abc363",
     "difficulty": 1307,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sinking Land"
   },
   "abc364_d": {
-    "contest_id": "adt_all_20240904_1",
+    "contest_id": "abc364",
     "difficulty": 1136,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "K-th Nearest"
   },
   "abc365_d": {
-    "contest_id": "adt_all_20261020_2",
+    "contest_id": "abc365",
     "difficulty": 730,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "AtCoder Janken 3"
   },
   "abc365_e": {
-    "contest_id": "adt_all_20261016_2",
+    "contest_id": "abc365",
     "difficulty": 1102,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Xor Sigma Problem"
   },
   "abc366_d": {
-    "contest_id": "adt_all_20260817_2",
+    "contest_id": "abc366",
     "difficulty": 586,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cuboid Sum Query"
   },
   "abc366_e": {
-    "contest_id": "adt_hard_20241015_3",
+    "contest_id": "abc366",
     "difficulty": 1515,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Manhattan Multifocal Ellipse"
   },
   "abc366_f": {
-    "contest_id": "adt_all_20260629_2",
+    "contest_id": "abc366",
     "difficulty": 1819,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Maximum Composition"
   },
   "abc367_d": {
-    "contest_id": "adt_all_20241128_1",
+    "contest_id": "abc367",
     "difficulty": 1037,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Pedometer"
   },
   "abc367_e": {
-    "contest_id": "adt_all_20260915_1",
+    "contest_id": "abc367",
     "difficulty": 1370,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Permute K times"
   },
   "abc367_f": {
-    "contest_id": "adt_all_20260625_2",
+    "contest_id": "abc367",
     "difficulty": 1540,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Rearrange Query"
   },
   "abc368_d": {
-    "contest_id": "adt_all_20260724_2",
+    "contest_id": "abc368",
     "difficulty": 816,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Minimum Steiner Tree"
   },
@@ -3255,142 +3255,142 @@
     "name": "Add and Multiply Queries"
   },
   "abc369_d": {
-    "contest_id": "adt_all_20261001_2",
+    "contest_id": "abc369",
     "difficulty": 621,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Bonus EXP"
   },
   "abc369_e": {
-    "contest_id": "adt_all_20260826_2",
+    "contest_id": "abc369",
     "difficulty": 1301,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sightseeing Tour "
   },
   "abc370_d": {
-    "contest_id": "adt_all_20261029_2",
+    "contest_id": "abc370",
     "difficulty": 1088,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cross Explosion"
   },
   "abc370_e": {
-    "contest_id": "adt_all_20261006_1",
+    "contest_id": "abc370",
     "difficulty": 1453,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Avoid K Partition"
   },
   "abc371_c": {
-    "contest_id": "adt_easy_20261029_2",
+    "contest_id": "abc371",
     "difficulty": 849,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Make Isomorphic"
   },
   "abc371_d": {
-    "contest_id": "adt_hard_20241030_2",
+    "contest_id": "abc371",
     "difficulty": 408,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "1D Country"
   },
   "abc371_e": {
-    "contest_id": "adt_hard_20241211_2",
+    "contest_id": "abc371",
     "difficulty": 981,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "I Hate Sigma Problems"
   },
   "abc372_d": {
-    "contest_id": "adt_all_20260706_2",
+    "contest_id": "abc372",
     "difficulty": 901,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Buildings"
   },
   "abc372_e": {
-    "contest_id": "adt_all_20260616_2",
+    "contest_id": "abc372",
     "difficulty": 1042,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "K-th Largest Connected Components"
   },
   "abc373_d": {
-    "contest_id": "adt_all_20260807_2",
+    "contest_id": "abc373",
     "difficulty": 765,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Hidden Weights"
   },
   "abc373_e": {
-    "contest_id": "adt_all_20260624_1",
+    "contest_id": "abc373",
     "difficulty": 1592,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "How to Win the Election"
   },
   "abc374_d": {
-    "contest_id": "adt_medium_20241204_1",
+    "contest_id": "abc374",
     "difficulty": 694,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Laser Marking"
   },
   "abc374_e": {
-    "contest_id": "adt_all_20261008_2",
+    "contest_id": "abc374",
     "difficulty": 1504,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sensor Optimization Dilemma 2"
   },
   "abc375_c": {
-    "contest_id": "adt_easy_20260929_1",
+    "contest_id": "abc375",
     "difficulty": 972,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Spiral Rotation"
   },
   "abc375_d": {
-    "contest_id": "adt_all_20260925_2",
+    "contest_id": "abc375",
     "difficulty": 658,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "ABA"
   },
   "abc375_e": {
-    "contest_id": "adt_all_20260921_2",
+    "contest_id": "abc375",
     "difficulty": 1424,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "3 Team Division"
   },
   "abc376_a": {
-    "contest_id": "adt_easy_20241126_2",
+    "contest_id": "abc376",
     "difficulty": -823,
     "index": "A",
     "is_experimental": false,
     "name": "Candy Button"
   },
   "abc376_d": {
-    "contest_id": "adt_medium_20241211_3",
+    "contest_id": "abc376",
     "difficulty": 743,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cycle"
   },
   "abc376_e": {
-    "contest_id": "adt_all_20260924_2",
+    "contest_id": "abc376",
     "difficulty": 1063,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Max × Sum"
   },
   "abc377_d": {
-    "contest_id": "adt_all_20261015_2",
+    "contest_id": "abc377",
     "difficulty": 987,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Many Segments 2"
   },
@@ -3402,527 +3402,527 @@
     "name": "Edit to Match"
   },
   "abc378_d": {
-    "contest_id": "adt_all_20260813_1",
+    "contest_id": "abc378",
     "difficulty": 587,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Count Simple Paths"
   },
   "abc378_e": {
-    "contest_id": "adt_all_20260930_2",
+    "contest_id": "abc378",
     "difficulty": 1406,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Mod Sigma Problem"
   },
   "abc378_f": {
-    "contest_id": "adt_all_20250417_1",
+    "contest_id": "abc378",
     "difficulty": 1436,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Add One Edge 2"
   },
   "abc379_c": {
-    "contest_id": "adt_all_20260814_1",
+    "contest_id": "abc379",
     "difficulty": 951,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Sowing Stones"
   },
   "abc379_d": {
-    "contest_id": "adt_all_20260709_1",
+    "contest_id": "abc379",
     "difficulty": 745,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Home Garden"
   },
   "abc379_e": {
-    "contest_id": "adt_all_20260708_2",
+    "contest_id": "abc379",
     "difficulty": 1246,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sum of All Substrings"
   },
   "abc380_d": {
-    "contest_id": "adt_all_20261009_2",
+    "contest_id": "abc380",
     "difficulty": 849,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Strange Mirroring"
   },
   "abc380_e": {
-    "contest_id": "adt_hard_20250701_3",
+    "contest_id": "abc380",
     "difficulty": 1230,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "1D Bucket Tool"
   },
   "abc381_d": {
-    "contest_id": "adt_medium_20251009_1",
+    "contest_id": "abc381",
     "difficulty": 921,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "1122 Substring"
   },
   "abc381_e": {
-    "contest_id": "adt_hard_20250101_3",
+    "contest_id": "abc381",
     "difficulty": 1396,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "11/22 Subsequence"
   },
   "abc382_c": {
-    "contest_id": "adt_easy_20261014_2",
+    "contest_id": "abc382",
     "difficulty": 476,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Kaiten Sushi"
   },
   "abc382_d": {
-    "contest_id": "adt_hard_20250108_2",
+    "contest_id": "abc382",
     "difficulty": 685,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Keep Distance"
   },
   "abc383_c": {
-    "contest_id": "adt_hard_20250205_1",
+    "contest_id": "abc383",
     "difficulty": 750,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Humidifier 3"
   },
   "abc383_d": {
-    "contest_id": "adt_medium_20250618_1",
+    "contest_id": "abc383",
     "difficulty": 884,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "9 Divisors"
   },
   "abc384_d": {
-    "contest_id": "adt_all_20250423_2",
+    "contest_id": "abc384",
     "difficulty": 666,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Repeated Sequence"
   },
   "abc384_e": {
-    "contest_id": "adt_all_20260918_1",
+    "contest_id": "abc384",
     "difficulty": 1002,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Takahashi is Slime 2"
   },
   "abc385_d": {
-    "contest_id": "adt_all_20260311_2",
+    "contest_id": "abc385",
     "difficulty": 1171,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Santa Claus 2"
   },
   "abc385_e": {
-    "contest_id": "adt_hard_20250227_1",
+    "contest_id": "abc385",
     "difficulty": 1406,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Snowflake Tree"
   },
   "abc386_d": {
-    "contest_id": "adt_all_20260826_2",
+    "contest_id": "abc386",
     "difficulty": 996,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Diagonal Separation"
   },
   "abc386_e": {
-    "contest_id": "adt_hard_20250320_1",
+    "contest_id": "abc386",
     "difficulty": 1518,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": " Maximize XOR"
   },
   "abc387_c": {
-    "contest_id": "adt_easy_20261028_1",
+    "contest_id": "abc387",
     "difficulty": 1249,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Snake Numbers"
   },
   "abc387_d": {
-    "contest_id": "adt_all_20260831_1",
+    "contest_id": "abc387",
     "difficulty": 817,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Snaky Walk"
   },
   "abc388_d": {
-    "contest_id": "adt_all_20250327_1",
+    "contest_id": "abc388",
     "difficulty": 659,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Coming of Age Celebration"
   },
   "abc388_e": {
-    "contest_id": "adt_all_20261019_1",
+    "contest_id": "abc388",
     "difficulty": 1068,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Simultaneous Kagamimochi"
   },
   "abc389_d": {
-    "contest_id": "adt_all_20260522_1",
+    "contest_id": "abc389",
     "difficulty": 749,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Squares in Circle"
   },
   "abc389_f": {
-    "contest_id": "adt_all_20260709_1",
+    "contest_id": "abc389",
     "difficulty": 1642,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Rated Range"
   },
   "abc390_d": {
-    "contest_id": "adt_all_20261014_2",
+    "contest_id": "abc390",
     "difficulty": 1607,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Stone XOR"
   },
   "abc390_e": {
-    "contest_id": "adt_all_20261022_2",
+    "contest_id": "abc390",
     "difficulty": 1227,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Vitamin Balance"
   },
   "abc391_d": {
-    "contest_id": "adt_hard_20250814_2",
+    "contest_id": "abc391",
     "difficulty": 924,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Gravity"
   },
   "abc391_e": {
-    "contest_id": "adt_all_20261022_1",
+    "contest_id": "abc391",
     "difficulty": 1165,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Hierarchical Majority Vote"
   },
   "abc391_f": {
-    "contest_id": "adt_all_20261013_1",
+    "contest_id": "abc391",
     "difficulty": 1554,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "K-th Largest Triplet "
   },
   "abc392_d": {
-    "contest_id": "adt_all_20261020_1",
+    "contest_id": "abc392",
     "difficulty": 579,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Doubles"
   },
   "abc392_e": {
-    "contest_id": "adt_all_20260907_1",
+    "contest_id": "abc392",
     "difficulty": 1218,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Cables and Servers"
   },
   "abc392_f": {
-    "contest_id": "adt_all_20260818_1",
+    "contest_id": "abc392",
     "difficulty": 1395,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Insert"
   },
   "abc393_a": {
-    "contest_id": "adt_easy_20260901_1",
+    "contest_id": "abc393",
     "difficulty": -1085,
     "index": "A",
     "is_experimental": false,
     "name": "Poisonous Oyster "
   },
   "abc393_b": {
-    "contest_id": "adt_medium_20250422_1",
+    "contest_id": "abc393",
     "difficulty": -480,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "A..B..C"
   },
   "abc393_c": {
-    "contest_id": "adt_all_20261014_2",
+    "contest_id": "abc393",
     "difficulty": 98,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Make it Simple"
   },
   "abc393_d": {
-    "contest_id": "adt_hard_20250325_3",
+    "contest_id": "abc393",
     "difficulty": 533,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Swap to Gather"
   },
   "abc393_e": {
-    "contest_id": "adt_hard_20250409_3",
+    "contest_id": "abc393",
     "difficulty": 1253,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "GCD of Subset"
   },
   "abc394_d": {
-    "contest_id": "adt_all_20261008_1",
+    "contest_id": "abc394",
     "difficulty": 216,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Colorful Bracket Sequence"
   },
   "abc394_e": {
-    "contest_id": "adt_all_20260916_1",
+    "contest_id": "abc394",
     "difficulty": 1403,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Palindromic Shortest Path"
   },
   "abc395_a": {
-    "contest_id": "adt_all_20260914_1",
+    "contest_id": "abc395",
     "difficulty": -945,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Strictly Increasing?"
   },
   "abc395_b": {
-    "contest_id": "adt_easy_20260714_2",
+    "contest_id": "abc395",
     "difficulty": -286,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Make Target"
   },
   "abc395_c": {
-    "contest_id": "adt_easy_20260909_1",
+    "contest_id": "abc395",
     "difficulty": 36,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Shortest Duplicate Subarray"
   },
   "abc395_d": {
-    "contest_id": "adt_medium_20250501_1",
+    "contest_id": "abc395",
     "difficulty": 919,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Pigeon Swap"
   },
   "abc395_e": {
-    "contest_id": "adt_all_20260820_1",
+    "contest_id": "abc395",
     "difficulty": 978,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Flip Edge"
   },
   "abc396_d": {
-    "contest_id": "adt_all_20260218_2",
+    "contest_id": "abc396",
     "difficulty": 601,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Minimum XOR Path"
   },
   "abc396_e": {
-    "contest_id": "adt_all_20260916_2",
+    "contest_id": "abc396",
     "difficulty": 1379,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Min of Restricted Sum"
   },
   "abc397_d": {
-    "contest_id": "adt_hard_20250604_3",
+    "contest_id": "abc397",
     "difficulty": 1132,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Cubes"
   },
   "abc397_e": {
-    "contest_id": "adt_all_20260819_1",
+    "contest_id": "abc397",
     "difficulty": 1484,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Path Decomposition of a Tree"
   },
   "abc398_d": {
-    "contest_id": "adt_all_20260820_2",
+    "contest_id": "abc398",
     "difficulty": 746,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Bonfire"
   },
   "abc398_e": {
-    "contest_id": "adt_all_20260702_2",
+    "contest_id": "abc398",
     "difficulty": 1238,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Tree Game"
   },
   "abc398_f": {
-    "contest_id": "adt_hard_20250508_3",
+    "contest_id": "abc398",
     "difficulty": 1033,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "ABCBA"
   },
   "abc399_d": {
-    "contest_id": "adt_all_20260827_2",
+    "contest_id": "abc399",
     "difficulty": 964,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Switch Seats"
   },
   "abc399_f": {
-    "contest_id": "adt_all_20250611_2",
+    "contest_id": "abc399",
     "difficulty": 1558,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Range Power Sum"
   },
   "abc400_a": {
-    "contest_id": "adt_easy_20260918_1",
+    "contest_id": "abc400",
     "difficulty": -1201,
     "index": "A",
     "is_experimental": false,
     "name": "ABC400 Party"
   },
   "abc400_b": {
-    "contest_id": "adt_easy_20260929_2",
+    "contest_id": "abc400",
     "difficulty": -600,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Sum of Geometric Series"
   },
   "abc400_c": {
-    "contest_id": "adt_all_20260810_2",
+    "contest_id": "abc400",
     "difficulty": 702,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "2^a b^2"
   },
   "abc400_d": {
-    "contest_id": "adt_all_20260810_1",
+    "contest_id": "abc400",
     "difficulty": 1026,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Takahashi the Wall Breaker"
   },
   "abc400_e": {
-    "contest_id": "adt_hard_20250529_3",
+    "contest_id": "abc400",
     "difficulty": 1226,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Ringo's Favorite Numbers 3"
   },
   "abc401_a": {
-    "contest_id": "adt_easy_20260924_2",
+    "contest_id": "abc401",
     "difficulty": -1160,
     "index": "A",
     "is_experimental": false,
     "name": "Status Code"
   },
   "abc401_b": {
-    "contest_id": "adt_easy_20261016_1",
+    "contest_id": "abc401",
     "difficulty": -807,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Unauthorized"
   },
   "abc401_c": {
-    "contest_id": "adt_all_20261012_2",
+    "contest_id": "abc401",
     "difficulty": 209,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "K-bonacci"
   },
   "abc401_d": {
-    "contest_id": "adt_all_20260625_2",
+    "contest_id": "abc401",
     "difficulty": 1148,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Logical Filling"
   },
   "abc401_e": {
-    "contest_id": "adt_all_20250716_1",
+    "contest_id": "abc401",
     "difficulty": 1270,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Reachable Set"
   },
   "abc401_f": {
-    "contest_id": "adt_all_20250603_1",
+    "contest_id": "abc401",
     "difficulty": 1666,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Add One Edge 3"
   },
   "abc402_a": {
-    "contest_id": "adt_easy_20260929_1",
+    "contest_id": "abc402",
     "difficulty": -1084,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "CBC"
   },
   "abc402_b": {
-    "contest_id": "adt_easy_20261005_1",
+    "contest_id": "abc402",
     "difficulty": -680,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Restaurant Queue"
   },
   "abc402_c": {
-    "contest_id": "adt_all_20261029_1",
+    "contest_id": "abc402",
     "difficulty": 331,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Dislike Foods"
   },
   "abc402_d": {
-    "contest_id": "adt_all_20260907_2",
+    "contest_id": "abc402",
     "difficulty": 827,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Line Crossing"
   },
   "abc402_e": {
-    "contest_id": "adt_all_20260515_1",
+    "contest_id": "abc402",
     "difficulty": 1409,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Payment Required"
   },
   "abc402_f": {
-    "contest_id": "adt_all_20261023_1",
+    "contest_id": "abc402",
     "difficulty": 1645,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Path to Integer"
   },
   "abc403_a": {
-    "contest_id": "adt_easy_20260722_2",
+    "contest_id": "abc403",
     "difficulty": -1129,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Odd Position Sum"
   },
   "abc403_b": {
-    "contest_id": "adt_easy_20261104_1",
+    "contest_id": "abc403",
     "difficulty": -277,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Four Hidden"
   },
   "abc403_c": {
-    "contest_id": "adt_all_20260626_1",
+    "contest_id": "abc403",
     "difficulty": 138,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "403 Forbidden"
   },
@@ -3934,9 +3934,9 @@
     "name": "Forbidden Difference"
   },
   "abc403_e": {
-    "contest_id": "adt_all_20260902_1",
+    "contest_id": "abc403",
     "difficulty": 1447,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Forbidden Prefix"
   },
@@ -3948,37 +3948,37 @@
     "name": "Odd Position Sum Query"
   },
   "abc404_a": {
-    "contest_id": "adt_easy_20260903_1",
+    "contest_id": "abc404",
     "difficulty": -724,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Not Found"
   },
   "abc404_b": {
-    "contest_id": "adt_easy_20261030_1",
+    "contest_id": "abc404",
     "difficulty": 83,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Grid Rotation"
   },
   "abc404_c": {
-    "contest_id": "adt_easy_20261103_2",
+    "contest_id": "abc404",
     "difficulty": 370,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Cycle Graph?"
   },
   "abc404_d": {
-    "contest_id": "adt_medium_20250625_3",
+    "contest_id": "abc404",
     "difficulty": 803,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Goin' to the Zoo"
   },
   "abc404_e": {
-    "contest_id": "adt_all_20251210_3",
+    "contest_id": "abc404",
     "difficulty": 1286,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Bowls and Beans"
   },
@@ -3990,37 +3990,37 @@
     "name": "Specified Range Sums"
   },
   "abc405_a": {
-    "contest_id": "adt_easy_20260911_1",
+    "contest_id": "abc405",
     "difficulty": -1085,
     "index": "A",
     "is_experimental": false,
     "name": "Is it rated?"
   },
   "abc405_b": {
-    "contest_id": "adt_easy_20260817_1",
+    "contest_id": "abc405",
     "difficulty": -430,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Not All"
   },
   "abc405_c": {
-    "contest_id": "adt_easy_20261005_2",
+    "contest_id": "abc405",
     "difficulty": -146,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sum of Product"
   },
   "abc405_d": {
-    "contest_id": "adt_all_20260916_2",
+    "contest_id": "abc405",
     "difficulty": 471,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Escape Route"
   },
   "abc405_e": {
-    "contest_id": "adt_all_20260804_2",
+    "contest_id": "abc405",
     "difficulty": 1259,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Fruit Lineup"
   },
@@ -4032,387 +4032,387 @@
     "name": "Range Shuffle Query"
   },
   "abc406_a": {
-    "contest_id": "adt_easy_20260907_2",
+    "contest_id": "abc406",
     "difficulty": -1020,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Not Acceptable"
   },
   "abc406_b": {
-    "contest_id": "adt_easy_20261021_2",
+    "contest_id": "abc406",
     "difficulty": 75,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Product Calculator"
   },
   "abc406_c": {
-    "contest_id": "adt_all_20260723_1",
+    "contest_id": "abc406",
     "difficulty": 862,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "~"
   },
   "abc406_d": {
-    "contest_id": "adt_all_20260428_1",
+    "contest_id": "abc406",
     "difficulty": 694,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Garbage Removal"
   },
   "abc406_e": {
-    "contest_id": "adt_all_20251104_3",
+    "contest_id": "abc406",
     "difficulty": 1365,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Popcount Sum 3"
   },
   "abc407_a": {
-    "contest_id": "adt_all_20261026_1",
+    "contest_id": "abc407",
     "difficulty": -698,
     "index": "A",
     "is_experimental": false,
     "name": "Approximation"
   },
   "abc407_b": {
-    "contest_id": "adt_easy_20260820_1",
+    "contest_id": "abc407",
     "difficulty": -397,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "P(X or Y)"
   },
   "abc407_c": {
-    "contest_id": "adt_all_20260820_2",
+    "contest_id": "abc407",
     "difficulty": 278,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Security 2"
   },
   "abc407_d": {
-    "contest_id": "adt_hard_20250903_2",
+    "contest_id": "abc407",
     "difficulty": 930,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Domino Covering XOR"
   },
   "abc407_e": {
-    "contest_id": "adt_all_20260907_2",
+    "contest_id": "abc407",
     "difficulty": 1531,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Most Valuable Parentheses"
   },
   "abc408_a": {
-    "contest_id": "adt_all_20260629_2",
+    "contest_id": "abc408",
     "difficulty": -537,
     "index": "A",
     "is_experimental": false,
     "name": "Timeout"
   },
   "abc408_b": {
-    "contest_id": "adt_medium_20250812_3",
+    "contest_id": "abc408",
     "difficulty": -578,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Compression"
   },
   "abc408_c": {
-    "contest_id": "adt_all_20260922_1",
+    "contest_id": "abc408",
     "difficulty": 166,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Not All Covered"
   },
   "abc408_d": {
-    "contest_id": "adt_hard_20250722_2",
+    "contest_id": "abc408",
     "difficulty": 950,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Flip to Gather"
   },
   "abc408_e": {
-    "contest_id": "adt_all_20261012_2",
+    "contest_id": "abc408",
     "difficulty": 1222,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Minimum OR Path"
   },
   "abc408_f": {
-    "contest_id": "adt_all_20260729_2",
+    "contest_id": "abc408",
     "difficulty": 1472,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Athletic"
   },
   "abc409_a": {
-    "contest_id": "adt_easy_20260925_2",
+    "contest_id": "abc409",
     "difficulty": -756,
     "index": "A",
     "is_experimental": false,
     "name": "Conflict"
   },
   "abc409_b": {
-    "contest_id": "adt_easy_20261030_1",
+    "contest_id": "abc409",
     "difficulty": -61,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Citation"
   },
   "abc409_c": {
-    "contest_id": "adt_easy_20260813_2",
+    "contest_id": "abc409",
     "difficulty": 421,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Equilateral Triangle"
   },
   "abc409_d": {
-    "contest_id": "adt_all_20250819_1",
+    "contest_id": "abc409",
     "difficulty": 772,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "String Rotation"
   },
   "abc409_e": {
-    "contest_id": "adt_hard_20250730_3",
+    "contest_id": "abc409",
     "difficulty": 973,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Pair Annihilation"
   },
   "abc410_a": {
-    "contest_id": "adt_easy_20261027_2",
+    "contest_id": "abc410",
     "difficulty": -992,
     "index": "A",
     "is_experimental": false,
     "name": "G1"
   },
   "abc410_b": {
-    "contest_id": "adt_easy_20260624_2",
+    "contest_id": "abc410",
     "difficulty": -380,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Reverse Proxy"
   },
   "abc410_c": {
-    "contest_id": "adt_easy_20260925_1",
+    "contest_id": "abc410",
     "difficulty": 178,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Rotatable Array"
   },
   "abc410_d": {
-    "contest_id": "adt_all_20260923_1",
+    "contest_id": "abc410",
     "difficulty": 1048,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "XOR Shortest Walk"
   },
   "abc410_e": {
-    "contest_id": "adt_all_20260812_1",
+    "contest_id": "abc410",
     "difficulty": 1077,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Battles in a Row"
   },
   "abc411_a": {
-    "contest_id": "adt_easy_20261001_2",
+    "contest_id": "abc411",
     "difficulty": -1028,
     "index": "A",
     "is_experimental": false,
     "name": "Required Length"
   },
   "abc411_b": {
-    "contest_id": "adt_easy_20261021_2",
+    "contest_id": "abc411",
     "difficulty": -606,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Distance Table"
   },
   "abc411_c": {
-    "contest_id": "adt_all_20260813_1",
+    "contest_id": "abc411",
     "difficulty": 185,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Black Intervals"
   },
   "abc411_d": {
-    "contest_id": "adt_medium_20250730_3",
+    "contest_id": "abc411",
     "difficulty": 1018,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Conflict 2"
   },
   "abc411_e": {
-    "contest_id": "adt_all_20261002_1",
+    "contest_id": "abc411",
     "difficulty": 1400,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "E [max]"
   },
   "abc412_a": {
-    "contest_id": "adt_easy_20261015_2",
+    "contest_id": "abc412",
     "difficulty": -1084,
     "index": "A",
     "is_experimental": false,
     "name": "Task Failed Successfully"
   },
   "abc412_b": {
-    "contest_id": "adt_easy_20261008_2",
+    "contest_id": "abc412",
     "difficulty": -508,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Precondition"
   },
   "abc412_c": {
-    "contest_id": "adt_easy_20260728_1",
+    "contest_id": "abc412",
     "difficulty": 607,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Giant Domino"
   },
   "abc412_d": {
-    "contest_id": "adt_all_20261013_2",
+    "contest_id": "abc412",
     "difficulty": 1186,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Make 2-Regular Graph"
   },
   "abc412_e": {
-    "contest_id": "adt_hard_20250807_3",
+    "contest_id": "abc412",
     "difficulty": 1496,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "LCM Sequence"
   },
   "abc413_a": {
-    "contest_id": "adt_easy_20260804_2",
+    "contest_id": "abc413",
     "difficulty": -1081,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Content Too Large"
   },
   "abc413_b": {
-    "contest_id": "adt_medium_20250909_3",
+    "contest_id": "abc413",
     "difficulty": -426,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "cat 2"
   },
   "abc413_c": {
-    "contest_id": "adt_all_20261103_1",
+    "contest_id": "abc413",
     "difficulty": 177,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Large Queue"
   },
   "abc413_d": {
-    "contest_id": "adt_medium_20250812_3",
+    "contest_id": "abc413",
     "difficulty": 943,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Make Geometric Sequence"
   },
   "abc413_e": {
-    "contest_id": "adt_all_20261021_1",
+    "contest_id": "abc413",
     "difficulty": 1241,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Reverse 2^i"
   },
   "abc414_a": {
-    "contest_id": "adt_easy_20260717_2",
+    "contest_id": "abc414",
     "difficulty": -1044,
     "index": "A",
     "is_experimental": false,
     "name": "Streamer Takahashi"
   },
   "abc414_b": {
-    "contest_id": "adt_easy_20260803_2",
+    "contest_id": "abc414",
     "difficulty": -553,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "String Too Long "
   },
   "abc414_c": {
-    "contest_id": "adt_all_20261008_2",
+    "contest_id": "abc414",
     "difficulty": 709,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Palindromic in Both Bases"
   },
   "abc414_d": {
-    "contest_id": "adt_all_20251106_3",
+    "contest_id": "abc414",
     "difficulty": 841,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Transmission Mission"
   },
   "abc414_e": {
-    "contest_id": "adt_all_20260615_1",
+    "contest_id": "abc414",
     "difficulty": 1296,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Count A%B=C"
   },
   "abc415_a": {
-    "contest_id": "adt_easy_20250911_2",
+    "contest_id": "abc415",
     "difficulty": -1040,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Unsupported Type"
   },
   "abc415_b": {
-    "contest_id": "adt_easy_20260710_1",
+    "contest_id": "abc415",
     "difficulty": -668,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Pick Two"
   },
   "abc415_c": {
-    "contest_id": "adt_all_20260914_2",
+    "contest_id": "abc415",
     "difficulty": 657,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Mixture"
   },
   "abc415_d": {
-    "contest_id": "adt_all_20260428_2",
+    "contest_id": "abc415",
     "difficulty": 846,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Get Many Stickers"
   },
   "abc415_e": {
-    "contest_id": "adt_hard_20251106_1",
+    "contest_id": "abc415",
     "difficulty": 1212,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Hungry Takahashi"
   },
   "abc415_f": {
-    "contest_id": "adt_all_20251014_1",
+    "contest_id": "abc415",
     "difficulty": 1552,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Max Combo"
   },
   "abc416_a": {
-    "contest_id": "adt_easy_20260817_1",
+    "contest_id": "abc416",
     "difficulty": -1079,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Vacation Validation"
   },
   "abc416_b": {
-    "contest_id": "adt_easy_20261016_1",
+    "contest_id": "abc416",
     "difficulty": -390,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "1D Akari"
   },
   "abc416_c": {
-    "contest_id": "adt_all_20261019_1",
+    "contest_id": "abc416",
     "difficulty": 282,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Concat (X-th)"
   },
@@ -4424,261 +4424,261 @@
     "name": "Match, Mod, Minimize 2"
   },
   "abc416_e": {
-    "contest_id": "adt_hard_20251126_1",
+    "contest_id": "abc416",
     "difficulty": 1428,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Development"
   },
   "abc417_a": {
-    "contest_id": "adt_easy_20261027_1",
+    "contest_id": "abc417",
     "difficulty": -918,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "A Substring"
   },
   "abc417_b": {
-    "contest_id": "adt_easy_20261102_2",
+    "contest_id": "abc417",
     "difficulty": -507,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Search and Delete"
   },
   "abc417_c": {
-    "contest_id": "adt_all_20260901_2",
+    "contest_id": "abc417",
     "difficulty": 206,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Distance Indicators"
   },
   "abc417_d": {
-    "contest_id": "adt_medium_20250925_3",
+    "contest_id": "abc417",
     "difficulty": 1230,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Takahashi's Expectation"
   },
   "abc417_e": {
-    "contest_id": "adt_all_20260923_2",
+    "contest_id": "abc417",
     "difficulty": 1111,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "A Path in A Dictionary"
   },
   "abc418_a": {
-    "contest_id": "adt_easy_20260828_1",
+    "contest_id": "abc418",
     "difficulty": -994,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "I'm a teapot"
   },
   "abc418_b": {
-    "contest_id": "adt_easy_20261029_2",
+    "contest_id": "abc418",
     "difficulty": -73,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "You're a teapot"
   },
   "abc418_c": {
-    "contest_id": "adt_hard_20251125_1",
+    "contest_id": "abc418",
     "difficulty": 401,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Flush"
   },
   "abc418_d": {
-    "contest_id": "adt_all_20261026_1",
+    "contest_id": "abc418",
     "difficulty": 821,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "XNOR Operation"
   },
   "abc418_e": {
-    "contest_id": "adt_all_20251118_3",
+    "contest_id": "abc418",
     "difficulty": 1282,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Trapezium"
   },
   "abc419_a": {
-    "contest_id": "adt_easy_20260925_2",
+    "contest_id": "abc419",
     "difficulty": -888,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "AtCoder Language"
   },
   "abc419_b": {
-    "contest_id": "adt_easy_20260831_1",
+    "contest_id": "abc419",
     "difficulty": -624,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Get Min"
   },
   "abc419_c": {
-    "contest_id": "adt_all_20261028_1",
+    "contest_id": "abc419",
     "difficulty": 226,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "King's Summit"
   },
   "abc419_d": {
-    "contest_id": "adt_hard_20251204_1",
+    "contest_id": "abc419",
     "difficulty": 214,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Substr Swap"
   },
   "abc419_e": {
-    "contest_id": "adt_all_20261021_2",
+    "contest_id": "abc419",
     "difficulty": 1298,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Subarray Sum Divisibility"
   },
   "abc420_a": {
-    "contest_id": "adt_easy_20251104_1",
+    "contest_id": "abc420",
     "difficulty": -1065,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "What month is it?"
   },
   "abc420_b": {
-    "contest_id": "adt_easy_20260728_1",
+    "contest_id": "abc420",
     "difficulty": -273,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Most Minority"
   },
   "abc420_c": {
-    "contest_id": "adt_easy_20260903_1",
+    "contest_id": "abc420",
     "difficulty": 56,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sum of Min Query"
   },
   "abc420_d": {
-    "contest_id": "adt_all_20260723_1",
+    "contest_id": "abc420",
     "difficulty": 699,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Toggle Maze"
   },
   "abc420_e": {
-    "contest_id": "adt_all_20261103_2",
+    "contest_id": "abc420",
     "difficulty": 790,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Reachability Query"
   },
   "abc421_a": {
-    "contest_id": "adt_easy_20260925_1",
+    "contest_id": "abc421",
     "difficulty": -930,
     "index": "A",
     "is_experimental": false,
     "name": "Misdelivery"
   },
   "abc421_b": {
-    "contest_id": "adt_easy_20260813_2",
+    "contest_id": "abc421",
     "difficulty": -391,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Fibonacci Reversed"
   },
   "abc421_c": {
-    "contest_id": "adt_all_20260709_1",
+    "contest_id": "abc421",
     "difficulty": 377,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Alternated"
   },
   "abc421_d": {
-    "contest_id": "adt_all_20260723_2",
+    "contest_id": "abc421",
     "difficulty": 1321,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "RLE Moving"
   },
   "abc421_e": {
-    "contest_id": "adt_hard_20260120_2",
+    "contest_id": "abc421",
     "difficulty": 2122,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Yacht"
   },
   "abc422_a": {
-    "contest_id": "adt_easy_20260814_1",
+    "contest_id": "jsc2025advance-final",
     "difficulty": null,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Stage Clear"
   },
   "abc422_b": {
-    "contest_id": "adt_easy_20260918_1",
+    "contest_id": "jsc2025advance-final",
     "difficulty": null,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Looped Rope"
   },
   "abc422_c": {
-    "contest_id": "adt_all_20261102_2",
+    "contest_id": "jsc2025advance-final",
     "difficulty": 758,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "AtCoder AAC Contest"
   },
   "abc422_d": {
-    "contest_id": "adt_all_20260720_2",
+    "contest_id": "jsc2025advance-final",
     "difficulty": 942,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Least Unbalanced"
   },
   "abc422_e": {
-    "contest_id": "adt_all_20261105_1",
+    "contest_id": "abc422",
     "difficulty": 1580,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Colinear"
   },
   "abc422_f": {
-    "contest_id": "adt_all_20260821_1",
+    "contest_id": "abc422",
     "difficulty": 2028,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Eat and Ride"
   },
   "abc422_g": {
-    "contest_id": "jsc2025advance-final",
+    "contest_id": "abc422",
     "difficulty": 2130,
     "index": "G",
     "is_experimental": false,
     "name": "Balls and Boxes"
   },
   "abc423_a": {
-    "contest_id": "adt_easy_20260916_2",
+    "contest_id": "abc423",
     "difficulty": -757,
     "index": "A",
     "is_experimental": false,
     "name": "Scary Fee"
   },
   "abc423_b": {
-    "contest_id": "adt_easy_20260928_2",
+    "contest_id": "abc423",
     "difficulty": -514,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Locked Rooms"
   },
   "abc423_c": {
-    "contest_id": "adt_all_20261028_2",
+    "contest_id": "abc423",
     "difficulty": 376,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Lock All Doors "
   },
   "abc423_d": {
-    "contest_id": "adt_all_20260203_1",
+    "contest_id": "abc423",
     "difficulty": 793,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Long Waiting"
   },
@@ -4690,121 +4690,121 @@
     "name": "Sum of Subarrays"
   },
   "abc423_f": {
-    "contest_id": "adt_all_20260605_1",
+    "contest_id": "abc423",
     "difficulty": 1691,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Loud Cicada"
   },
   "abc424_a": {
-    "contest_id": "adt_easy_20261030_1",
+    "contest_id": "abc424",
     "difficulty": -1404,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Isosceles"
   },
   "abc424_b": {
-    "contest_id": "adt_easy_20261015_2",
+    "contest_id": "abc424",
     "difficulty": -626,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Perfect"
   },
   "abc424_c": {
-    "contest_id": "adt_easy_20260626_2",
+    "contest_id": "abc424",
     "difficulty": 274,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "New Skill Acquired"
   },
   "abc424_d": {
-    "contest_id": "adt_all_20260629_1",
+    "contest_id": "abc424",
     "difficulty": 1215,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "2x2 Erasing 2"
   },
   "abc424_e": {
-    "contest_id": "adt_all_20260218_1",
+    "contest_id": "abc424",
     "difficulty": 1482,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Cut in Half"
   },
   "abc425_a": {
-    "contest_id": "adt_easy_20261021_1",
+    "contest_id": "abc425",
     "difficulty": -968,
     "index": "A",
     "is_experimental": false,
     "name": "Sigma Cubes"
   },
   "abc425_b": {
-    "contest_id": "adt_easy_20261104_1",
+    "contest_id": "abc425",
     "difficulty": -233,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Find Permutation 2"
   },
   "abc425_c": {
-    "contest_id": "adt_easy_20260909_2",
+    "contest_id": "abc425",
     "difficulty": 304,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Rotate and Sum Query"
   },
   "abc425_d": {
-    "contest_id": "adt_all_20261019_1",
+    "contest_id": "abc425",
     "difficulty": 882,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Ulam-Warburton Automaton"
   },
   "abc425_e": {
-    "contest_id": "adt_all_20260220_1",
+    "contest_id": "abc425",
     "difficulty": 1221,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Count Sequences 2"
   },
   "abc426_a": {
-    "contest_id": "adt_easy_20261008_1",
+    "contest_id": "abc426",
     "difficulty": -843,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "OS Versions"
   },
   "abc426_b": {
-    "contest_id": "adt_easy_20261013_2",
+    "contest_id": "abc426",
     "difficulty": -703,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "The Odd One Out"
   },
   "abc426_c": {
-    "contest_id": "adt_all_20261016_2",
+    "contest_id": "abc426",
     "difficulty": 458,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Upgrade Required"
   },
   "abc426_d": {
-    "contest_id": "adt_all_20260930_1",
+    "contest_id": "abc426",
     "difficulty": 886,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Pop and Insert"
   },
   "abc426_e": {
-    "contest_id": "adt_all_20261015_1",
+    "contest_id": "abc426",
     "difficulty": 1584,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Closest Moment"
   },
   "abc426_f": {
-    "contest_id": "adt_all_20261027_1",
+    "contest_id": "abc426",
     "difficulty": 1776,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Clearance"
   },
@@ -4816,142 +4816,142 @@
     "name": "Range Knapsack Query"
   },
   "abc427_a": {
-    "contest_id": "adt_easy_20261029_2",
+    "contest_id": "abc427",
     "difficulty": -1031,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "ABC -> AC"
   },
   "abc427_b": {
-    "contest_id": "adt_easy_20260904_2",
+    "contest_id": "abc427",
     "difficulty": -404,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Sum of Digits Sequence"
   },
   "abc427_c": {
-    "contest_id": "adt_all_20261020_2",
+    "contest_id": "abc427",
     "difficulty": 629,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Bipartize"
   },
   "abc427_d": {
-    "contest_id": "adt_all_20251118_3",
+    "contest_id": "abc427",
     "difficulty": 981,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "The Simple Game"
   },
   "abc428_a": {
-    "contest_id": "adt_easy_20260803_2",
+    "contest_id": "abc428",
     "difficulty": -744,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Grandma's Footsteps"
   },
   "abc428_b": {
-    "contest_id": "adt_easy_20261007_1",
+    "contest_id": "abc428",
     "difficulty": -89,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Most Frequent Substrings"
   },
   "abc428_c": {
-    "contest_id": "adt_all_20260731_2",
+    "contest_id": "abc428",
     "difficulty": 483,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Brackets Stack Query"
   },
   "abc428_d": {
-    "contest_id": "adt_all_20260617_2",
+    "contest_id": "abc428",
     "difficulty": 1239,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "183184"
   },
   "abc428_e": {
-    "contest_id": "adt_all_20260603_2",
+    "contest_id": "abc428",
     "difficulty": 1167,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Farthest Vertex"
   },
   "abc429_a": {
-    "contest_id": "adt_easy_20251211_2",
+    "contest_id": "abc429",
     "difficulty": -1091,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Too Many Requests"
   },
   "abc429_b": {
-    "contest_id": "adt_medium_20251210_2",
+    "contest_id": "abc429",
     "difficulty": -725,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "N - 1"
   },
   "abc429_c": {
-    "contest_id": "adt_easy_20261009_2",
+    "contest_id": "abc429",
     "difficulty": 125,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Odd One Subsequence"
   },
   "abc429_d": {
-    "contest_id": "adt_all_20260921_1",
+    "contest_id": "abc429",
     "difficulty": 903,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "On AtCoder Conference"
   },
   "abc429_e": {
-    "contest_id": "adt_all_20260710_1",
+    "contest_id": "abc429",
     "difficulty": 1313,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Hit and Away"
   },
   "abc429_f": {
-    "contest_id": "adt_all_20260805_1",
+    "contest_id": "abc429",
     "difficulty": 1859,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Shortest Path Query"
   },
   "abc430_a": {
-    "contest_id": "adt_easy_20260826_1",
+    "contest_id": "abc430",
     "difficulty": -834,
     "index": "A",
     "is_experimental": false,
     "name": "Candy Cookie Law"
   },
   "abc430_b": {
-    "contest_id": "adt_easy_20260901_2",
+    "contest_id": "abc430",
     "difficulty": -16,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Count Subgrid"
   },
   "abc430_c": {
-    "contest_id": "adt_all_20260714_2",
+    "contest_id": "abc430",
     "difficulty": 750,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Truck Driver"
   },
   "abc430_d": {
-    "contest_id": "adt_all_20260710_2",
+    "contest_id": "abc430",
     "difficulty": 982,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Neighbor Distance"
   },
   "abc430_e": {
-    "contest_id": "adt_all_20260817_2",
+    "contest_id": "abc430",
     "difficulty": 1109,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Shift String"
   },
@@ -4963,58 +4963,58 @@
     "name": "Range Set Modifying Query"
   },
   "abc431_a": {
-    "contest_id": "adt_easy_20261019_1",
+    "contest_id": "abc431",
     "difficulty": -1080,
     "index": "A",
     "is_experimental": false,
     "name": "Robot Balance"
   },
   "abc431_b": {
-    "contest_id": "adt_medium_20260120_3",
+    "contest_id": "abc431",
     "difficulty": -558,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Robot Weight"
   },
   "abc431_c": {
-    "contest_id": "adt_all_20260226_2",
+    "contest_id": "abc431",
     "difficulty": 63,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Robot Factory"
   },
   "abc431_d": {
-    "contest_id": "adt_all_20260813_2",
+    "contest_id": "abc431",
     "difficulty": 693,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Robot Customize"
   },
   "abc431_e": {
-    "contest_id": "adt_hard_20251217_2",
+    "contest_id": "abc431",
     "difficulty": 1424,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Reflection on Grid"
   },
   "abc432_a": {
-    "contest_id": "adt_easy_20260909_2",
+    "contest_id": "abc432",
     "difficulty": -999,
     "index": "A",
     "is_experimental": false,
     "name": "Permute to Maximize"
   },
   "abc432_b": {
-    "contest_id": "adt_easy_20260828_1",
+    "contest_id": "abc432",
     "difficulty": -449,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Permute to Minimize"
   },
   "abc432_c": {
-    "contest_id": "adt_all_20260429_2",
+    "contest_id": "abc432",
     "difficulty": 654,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Candy Tribulation"
   },
@@ -5026,219 +5026,219 @@
     "name": "Suddenly, A Tempest"
   },
   "abc432_e": {
-    "contest_id": "adt_all_20260504_2",
+    "contest_id": "abc432",
     "difficulty": 1133,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Clamp"
   },
   "abc433_a": {
-    "contest_id": "adt_easy_20261020_1",
+    "contest_id": "abc433",
     "difficulty": -494,
     "index": "A",
     "is_experimental": false,
     "name": "Happy Birthday! 4"
   },
   "abc433_b": {
-    "contest_id": "adt_easy_20260930_2",
+    "contest_id": "abc433",
     "difficulty": -454,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Nearest Taller"
   },
   "abc433_c": {
-    "contest_id": "adt_all_20260721_2",
+    "contest_id": "abc433",
     "difficulty": 226,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "1122 Substring 2"
   },
   "abc433_d": {
-    "contest_id": "adt_medium_20260115_3",
+    "contest_id": "abc433",
     "difficulty": 752,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "183183"
   },
   "abc433_e": {
-    "contest_id": "adt_hard_20260129_3",
+    "contest_id": "abc433",
     "difficulty": 1674,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Max Matrix 2"
   },
   "abc434_a": {
-    "contest_id": "adt_easy_20260917_1",
+    "contest_id": "abc434",
     "difficulty": -1206,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Balloon Trip"
   },
   "abc434_b": {
-    "contest_id": "adt_easy_20260818_1",
+    "contest_id": "abc434",
     "difficulty": -657,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Bird Watching"
   },
   "abc434_c": {
-    "contest_id": "adt_all_20261013_2",
+    "contest_id": "abc434",
     "difficulty": 373,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Flapping Takahashi"
   },
   "abc434_d": {
-    "contest_id": "adt_all_20260406_2",
+    "contest_id": "abc434",
     "difficulty": 909,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Clouds"
   },
   "abc434_e": {
-    "contest_id": "adt_all_20260729_1",
+    "contest_id": "abc434",
     "difficulty": 1317,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Distribute Bunnies"
   },
   "abc435_d": {
-    "contest_id": "adt_all_20261026_2",
+    "contest_id": "abc435",
     "difficulty": 568,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Reachability Query 2"
   },
   "abc435_e": {
-    "contest_id": "adt_all_20261016_1",
+    "contest_id": "abc435",
     "difficulty": 982,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Cover query"
   },
   "abc436_d": {
-    "contest_id": "adt_all_20260720_1",
+    "contest_id": "abc436",
     "difficulty": 633,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Teleport Maze "
   },
   "abc436_e": {
-    "contest_id": "adt_all_20260604_2",
+    "contest_id": "abc436",
     "difficulty": 958,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Minimum Swap"
   },
   "abc436_f": {
-    "contest_id": "adt_all_20261029_1",
+    "contest_id": "abc436",
     "difficulty": 1336,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Starry Landscape Photo"
   },
   "abc437_c": {
-    "contest_id": "adt_all_20261021_1",
+    "contest_id": "abc437",
     "difficulty": 489,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Reindeer and Sleigh 2"
   },
   "abc437_d": {
-    "contest_id": "adt_all_20260429_2",
+    "contest_id": "abc437",
     "difficulty": 509,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Sum of Differences"
   },
   "abc437_e": {
-    "contest_id": "adt_all_20261102_2",
+    "contest_id": "abc437",
     "difficulty": 1279,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sort Arrays"
   },
   "abc437_f": {
-    "contest_id": "adt_all_20260923_1",
+    "contest_id": "abc437",
     "difficulty": 1332,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Manhattan Christmas Tree 2"
   },
   "abc438_a": {
-    "contest_id": "adt_all_20261020_2",
+    "contest_id": "abc438",
     "difficulty": -648,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "First Contest of the Year"
   },
   "abc438_b": {
-    "contest_id": "adt_medium_20260205_3",
+    "contest_id": "abc438",
     "difficulty": -188,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Substring 2"
   },
   "abc438_c": {
-    "contest_id": "adt_all_20261013_1",
+    "contest_id": "abc438",
     "difficulty": 367,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "1D puyopuyo"
   },
   "abc438_d": {
-    "contest_id": "adt_all_20261002_2",
+    "contest_id": "abc438",
     "difficulty": 652,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Tail of Snake "
   },
   "abc438_e": {
-    "contest_id": "adt_all_20260721_1",
+    "contest_id": "abc438",
     "difficulty": 1226,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Heavy Buckets"
   },
   "abc439_d": {
-    "contest_id": "adt_all_20260902_1",
+    "contest_id": "abc439",
     "difficulty": 627,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Kadomatsu Subsequence"
   },
   "abc439_e": {
-    "contest_id": "adt_all_20260825_2",
+    "contest_id": "abc439",
     "difficulty": 1071,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Kite"
   },
   "abc440_a": {
-    "contest_id": "adt_easy_20261007_1",
+    "contest_id": "abc440",
     "difficulty": -1018,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Octave"
   },
   "abc440_b": {
-    "contest_id": "adt_easy_20260925_1",
+    "contest_id": "abc440",
     "difficulty": -675,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Trifecta"
   },
   "abc440_c": {
-    "contest_id": "adt_easy_20261030_1",
+    "contest_id": "abc440",
     "difficulty": 631,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Striped Horse"
   },
   "abc440_d": {
-    "contest_id": "adt_all_20261016_1",
+    "contest_id": "abc440",
     "difficulty": 863,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Forbidden List 2"
   },
@@ -5250,37 +5250,37 @@
     "name": "Cookies"
   },
   "abc441_a": {
-    "contest_id": "adt_easy_20260724_1",
+    "contest_id": "abc441",
     "difficulty": -630,
     "index": "A",
     "is_experimental": false,
     "name": "Black Square"
   },
   "abc441_b": {
-    "contest_id": "adt_easy_20260915_2",
+    "contest_id": "abc441",
     "difficulty": -298,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Two Languages"
   },
   "abc441_c": {
-    "contest_id": "adt_all_20261012_2",
+    "contest_id": "abc441",
     "difficulty": 406,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sake or Water"
   },
   "abc441_d": {
-    "contest_id": "adt_all_20260819_2",
+    "contest_id": "abc441",
     "difficulty": 732,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Paid Walk"
   },
   "abc441_e": {
-    "contest_id": "adt_all_20260903_1",
+    "contest_id": "abc441",
     "difficulty": 969,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "A > B substring"
   },
@@ -5292,51 +5292,51 @@
     "name": "Must Buy"
   },
   "abc442_a": {
-    "contest_id": "adt_easy_20261103_2",
+    "contest_id": "abc442",
     "difficulty": -1065,
     "index": "A",
     "is_experimental": false,
     "name": "Count ."
   },
   "abc442_b": {
-    "contest_id": "adt_easy_20260731_2",
+    "contest_id": "abc442",
     "difficulty": -675,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Music Player"
   },
   "abc442_c": {
-    "contest_id": "adt_all_20260827_1",
+    "contest_id": "abc442",
     "difficulty": 67,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Peer Review"
   },
   "abc442_d": {
-    "contest_id": "adt_all_20260928_2",
+    "contest_id": "abc442",
     "difficulty": 276,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Swap and Range Sum"
   },
   "abc442_e": {
-    "contest_id": "adt_all_20260604_1",
+    "contest_id": "abc442",
     "difficulty": 1355,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Laser Takahashi"
   },
   "abc443_a": {
-    "contest_id": "adt_easy_20260421_1",
+    "contest_id": "abc443",
     "difficulty": -1139,
     "index": "A",
     "is_experimental": false,
     "name": "Append s"
   },
   "abc443_b": {
-    "contest_id": "adt_easy_20260928_2",
+    "contest_id": "abc443",
     "difficulty": -657,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Setsubun"
   },
@@ -5355,121 +5355,121 @@
     "name": "Pawn Line"
   },
   "abc444_a": {
-    "contest_id": "adt_easy_20261005_1",
+    "contest_id": "abc444",
     "difficulty": -1133,
     "index": "A",
     "is_experimental": false,
     "name": "Repdigit"
   },
   "abc444_b": {
-    "contest_id": "adt_easy_20261023_2",
+    "contest_id": "abc444",
     "difficulty": -567,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Digit Sum"
   },
   "abc444_c": {
-    "contest_id": "adt_easy_20261028_2",
+    "contest_id": "abc444",
     "difficulty": 582,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "AtCoder Riko"
   },
   "abc444_d": {
-    "contest_id": "adt_all_20261012_1",
+    "contest_id": "abc444",
     "difficulty": 574,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Many Repunit Sum"
   },
   "abc444_e": {
-    "contest_id": "adt_all_20260528_2",
+    "contest_id": "abc444",
     "difficulty": 1107,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Sparse Range"
   },
   "abc445_a": {
-    "contest_id": "adt_easy_20260812_2",
+    "contest_id": "abc445",
     "difficulty": -1152,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Strong Word"
   },
   "abc445_b": {
-    "contest_id": "adt_easy_20261028_1",
+    "contest_id": "abc445",
     "difficulty": -621,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Center Alignment"
   },
   "abc445_c": {
-    "contest_id": "adt_easy_20261103_1",
+    "contest_id": "abc445",
     "difficulty": 404,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sugoroku Destination"
   },
   "abc445_d": {
-    "contest_id": "adt_all_20260325_2",
+    "contest_id": "abc445",
     "difficulty": 1102,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Reconstruct Chocolate"
   },
   "abc445_e": {
-    "contest_id": "adt_all_20261029_2",
+    "contest_id": "abc445",
     "difficulty": 1337,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Many LCMs"
   },
   "abc446_a": {
-    "contest_id": "adt_easy_20260908_2",
+    "contest_id": "abc446",
     "difficulty": -935,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Handmaid"
   },
   "abc446_b": {
-    "contest_id": "adt_easy_20260930_2",
+    "contest_id": "abc446",
     "difficulty": -366,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Greedy Draft"
   },
   "abc446_c": {
-    "contest_id": "adt_all_20260909_2",
+    "contest_id": "abc446",
     "difficulty": 384,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Omelette Restaurant"
   },
   "abc446_d": {
-    "contest_id": "adt_all_20261019_2",
+    "contest_id": "abc446",
     "difficulty": 550,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Max Straight"
   },
   "abc447_a": {
-    "contest_id": "adt_easy_20260714_1",
+    "contest_id": "abc447",
     "difficulty": -904,
     "index": "A",
     "is_experimental": false,
     "name": "Seats 2"
   },
   "abc447_b": {
-    "contest_id": "adt_easy_20260728_2",
+    "contest_id": "abc447",
     "difficulty": -430,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "mpp"
   },
   "abc447_c": {
-    "contest_id": "adt_all_20260408_2",
+    "contest_id": "abc447",
     "difficulty": 318,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Insert and Erase A"
   },
@@ -5481,9 +5481,9 @@
     "name": "Take ABC 2"
   },
   "abc447_e": {
-    "contest_id": "adt_all_20261103_1",
+    "contest_id": "abc447",
     "difficulty": 955,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Divide Graph"
   },
@@ -5495,198 +5495,198 @@
     "name": "Centipede Graph"
   },
   "abc448_a": {
-    "contest_id": "adt_easy_20261016_1",
+    "contest_id": "abc448",
     "difficulty": -963,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "chmin"
   },
   "abc448_b": {
-    "contest_id": "adt_easy_20260910_2",
+    "contest_id": "abc448",
     "difficulty": -306,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Pepper Addiction"
   },
   "abc448_c": {
-    "contest_id": "adt_easy_20260917_2",
+    "contest_id": "abc448",
     "difficulty": 231,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Except and Min"
   },
   "abc448_d": {
-    "contest_id": "adt_all_20261009_1",
+    "contest_id": "abc448",
     "difficulty": 638,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Integer-duplicated Path"
   },
   "abc448_e": {
-    "contest_id": "adt_all_20260618_2",
+    "contest_id": "abc448",
     "difficulty": 1359,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Simple Division"
   },
   "abc448_f": {
-    "contest_id": "adt_all_20260804_2",
+    "contest_id": "abc448",
     "difficulty": 1719,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Authentic Traveling Salesman Problem"
   },
   "abc449_a": {
-    "contest_id": "adt_easy_20261023_1",
+    "contest_id": "abc449",
     "difficulty": -640,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "π"
   },
   "abc449_b": {
-    "contest_id": "adt_easy_20260916_1",
+    "contest_id": "abc449",
     "difficulty": -476,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Deconstruct Chocolate"
   },
   "abc449_c": {
-    "contest_id": "adt_all_20260917_2",
+    "contest_id": "abc449",
     "difficulty": 323,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Comfortable Distance"
   },
   "abc449_d": {
-    "contest_id": "adt_all_20261102_1",
+    "contest_id": "abc449",
     "difficulty": 927,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Make Target 2"
   },
   "abc449_e": {
-    "contest_id": "adt_all_20261030_1",
+    "contest_id": "abc449",
     "difficulty": 1556,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "A += v"
   },
   "abc449_f": {
-    "contest_id": "adt_all_20261005_2",
+    "contest_id": "abc449",
     "difficulty": 1987,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Grid Clipping"
   },
   "abc450_a": {
-    "contest_id": "adt_easy_20260810_1",
+    "contest_id": "abc450",
     "difficulty": -929,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "3,2,1,GO"
   },
   "abc450_b": {
-    "contest_id": "adt_easy_20261022_1",
+    "contest_id": "abc450",
     "difficulty": -101,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Split Ticketing"
   },
   "abc450_c": {
-    "contest_id": "adt_all_20260504_2",
+    "contest_id": "abc450",
     "difficulty": 362,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Puddles"
   },
   "abc450_d": {
-    "contest_id": "adt_all_20260922_2",
+    "contest_id": "abc450",
     "difficulty": 647,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Minimize Range"
   },
   "abc450_e": {
-    "contest_id": "adt_all_20260518_1",
+    "contest_id": "abc450",
     "difficulty": 1352,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Fibonacci String"
   },
   "abc451_a": {
-    "contest_id": "adt_easy_20261015_1",
+    "contest_id": "abc451",
     "difficulty": -1020,
     "index": "A",
     "is_experimental": false,
     "name": "illegal"
   },
   "abc451_b": {
-    "contest_id": "adt_easy_20261008_1",
+    "contest_id": "abc451",
     "difficulty": -566,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Personnel Change"
   },
   "abc451_c": {
-    "contest_id": "adt_all_20260623_1",
+    "contest_id": "abc451",
     "difficulty": 250,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Understory"
   },
   "abc451_d": {
-    "contest_id": "adt_all_20260804_1",
+    "contest_id": "abc451",
     "difficulty": 856,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Concat Power of 2"
   },
   "abc451_e": {
-    "contest_id": "adt_all_20260520_2",
+    "contest_id": "abc451",
     "difficulty": 1215,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Tree Distance"
   },
   "abc451_f": {
-    "contest_id": "adt_all_20261103_1",
+    "contest_id": "abc451",
     "difficulty": 1540,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Make Bipartite 3"
   },
   "abc452_a": {
-    "contest_id": "adt_easy_20260910_2",
+    "contest_id": "abc452",
     "difficulty": -987,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Gothec"
   },
   "abc452_b": {
-    "contest_id": "adt_all_20261026_1",
+    "contest_id": "abc452",
     "difficulty": -713,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Draw Frame"
   },
   "abc452_c": {
-    "contest_id": "adt_all_20261012_1",
+    "contest_id": "abc452",
     "difficulty": 435,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Fishbones"
   },
   "abc452_d": {
-    "contest_id": "adt_all_20261013_1",
+    "contest_id": "abc452",
     "difficulty": 903,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "No-Subsequence Substring"
   },
   "abc452_e": {
-    "contest_id": "adt_all_20260626_1",
+    "contest_id": "abc452",
     "difficulty": 1318,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "You WILL Like Sigma Problem"
   },
@@ -5698,30 +5698,30 @@
     "name": "Interval Inversion Count"
   },
   "abc453_a": {
-    "contest_id": "adt_easy_20260806_1",
+    "contest_id": "abc453",
     "difficulty": -661,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Trimo"
   },
   "abc453_b": {
-    "contest_id": "adt_easy_20261016_2",
+    "contest_id": "abc453",
     "difficulty": -442,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Sensor Data Logging"
   },
   "abc453_c": {
-    "contest_id": "adt_all_20260908_2",
+    "contest_id": "abc453",
     "difficulty": 333,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Sneaking Glances"
   },
   "abc453_d": {
-    "contest_id": "adt_all_20261012_2",
+    "contest_id": "abc453",
     "difficulty": 1011,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Go Straight"
   },
@@ -5740,37 +5740,37 @@
     "name": "Copy Query"
   },
   "abc454_a": {
-    "contest_id": "adt_easy_20261007_1",
+    "contest_id": "abc454",
     "difficulty": -912,
     "index": "A",
     "is_experimental": false,
     "name": "Closed interval"
   },
   "abc454_b": {
-    "contest_id": "adt_easy_20260518_1",
+    "contest_id": "abc454",
     "difficulty": -472,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Mapping"
   },
   "abc454_c": {
-    "contest_id": "adt_all_20260729_1",
+    "contest_id": "abc454",
     "difficulty": 249,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Straw Millionaire"
   },
   "abc454_d": {
-    "contest_id": "adt_all_20260923_2",
+    "contest_id": "abc454",
     "difficulty": 706,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "(xx)"
   },
   "abc455_a": {
-    "contest_id": "adt_easy_20260909_2",
+    "contest_id": "abc455",
     "difficulty": -941,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "455"
   },
@@ -5782,9 +5782,9 @@
     "name": "Spiral Galaxy"
   },
   "abc455_c": {
-    "contest_id": "adt_easy_20260921_2",
+    "contest_id": "abc455",
     "difficulty": 143,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Vanish"
   },
@@ -5796,44 +5796,44 @@
     "name": "Card Pile Query"
   },
   "abc455_e": {
-    "contest_id": "adt_all_20260929_2",
+    "contest_id": "abc455",
     "difficulty": 1157,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Unbalanced ABC Substrings"
   },
   "abc455_f": {
-    "contest_id": "adt_all_20260623_1",
+    "contest_id": "abc455",
     "difficulty": 1549,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Merge Slimes 2"
   },
   "abc456_a": {
-    "contest_id": "adt_easy_20260713_2",
+    "contest_id": "abc456",
     "difficulty": -945,
     "index": "A",
     "is_experimental": false,
     "name": "Dice"
   },
   "abc456_b": {
-    "contest_id": "adt_easy_20261103_1",
+    "contest_id": "abc456",
     "difficulty": -171,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "456"
   },
   "abc456_c": {
-    "contest_id": "adt_easy_20261019_2",
+    "contest_id": "abc456",
     "difficulty": 183,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Not Adjacent"
   },
   "abc456_d": {
-    "contest_id": "adt_all_20260908_2",
+    "contest_id": "abc456",
     "difficulty": 586,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Not Adjacent 2"
   },
@@ -5852,30 +5852,30 @@
     "name": "Plan Holidays"
   },
   "abc457_a": {
-    "contest_id": "adt_easy_20260910_1",
+    "contest_id": "abc457",
     "difficulty": -972,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Array"
   },
   "abc457_b": {
-    "contest_id": "adt_easy_20260908_1",
+    "contest_id": "abc457",
     "difficulty": -478,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Arrays"
   },
   "abc457_c": {
-    "contest_id": "adt_all_20260731_1",
+    "contest_id": "abc457",
     "difficulty": 179,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Long Sequence"
   },
   "abc457_d": {
-    "contest_id": "adt_all_20260619_2",
+    "contest_id": "abc457",
     "difficulty": 677,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Raise Minimum"
   },
@@ -5887,44 +5887,44 @@
     "name": "Crossing Table Cloth"
   },
   "abc458_a": {
-    "contest_id": "adt_easy_20261023_2",
+    "contest_id": "abc458",
     "difficulty": -904,
     "index": "A",
     "is_experimental": false,
     "name": "Chompers"
   },
   "abc458_b": {
-    "contest_id": "adt_easy_20260902_1",
+    "contest_id": "abc458",
     "difficulty": -391,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Count Adjacent Cells"
   },
   "abc458_c": {
-    "contest_id": "adt_all_20260930_1",
+    "contest_id": "abc458",
     "difficulty": -15,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "C Stands for Center"
   },
   "abc458_d": {
-    "contest_id": "adt_all_20260708_1",
+    "contest_id": "abc458",
     "difficulty": 450,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Chalkboard Median"
   },
   "abc459_a": {
-    "contest_id": "adt_easy_20261029_1",
+    "contest_id": "abc459",
     "difficulty": -921,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Hell, World!"
   },
   "abc459_b": {
-    "contest_id": "adt_easy_20261014_2",
+    "contest_id": "abc459",
     "difficulty": -616,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "459"
   },
@@ -5943,51 +5943,51 @@
     "name": "Adjacent Distinct String"
   },
   "abc460_a": {
-    "contest_id": "adt_easy_20260915_2",
+    "contest_id": "abc460",
     "difficulty": -914,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Mod While Positive"
   },
   "abc460_b": {
-    "contest_id": "adt_easy_20261015_1",
+    "contest_id": "abc460",
     "difficulty": -56,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Two Rings"
   },
   "abc460_c": {
-    "contest_id": "adt_easy_20260918_2",
+    "contest_id": "abc460",
     "difficulty": 107,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Sushi"
   },
   "abc461_a": {
-    "contest_id": "adt_easy_20260902_1",
+    "contest_id": "abc461",
     "difficulty": -988,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Armor"
   },
   "abc461_b": {
-    "contest_id": "adt_easy_20260805_1",
+    "contest_id": "abc461",
     "difficulty": -581,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "The Honest Woodcutters"
   },
   "abc461_c": {
-    "contest_id": "adt_easy_20260916_2",
+    "contest_id": "abc461",
     "difficulty": 325,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Variety"
   },
   "abc461_d": {
-    "contest_id": "adt_all_20260812_1",
+    "contest_id": "abc461",
     "difficulty": 914,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Count Subgrid Sum = K"
   },
@@ -6013,16 +6013,16 @@
     "name": "Secret Numbers"
   },
   "abc462_b": {
-    "contest_id": "adt_easy_20260909_1",
+    "contest_id": "abc462",
     "difficulty": -297,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Gift"
   },
   "abc462_c": {
-    "contest_id": "adt_all_20260715_2",
+    "contest_id": "abc462",
     "difficulty": 282,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Not Covered Points"
   },
@@ -6048,9 +6048,9 @@
     "name": "Train Reservation"
   },
   "abc463_c": {
-    "contest_id": "adt_easy_20261013_2",
+    "contest_id": "abc463",
     "difficulty": 248,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Tallest at the Moment"
   },
@@ -6062,86 +6062,86 @@
     "name": "Maximize the Gap"
   },
   "abc464_a": {
-    "contest_id": "adt_all_20261012_2",
+    "contest_id": "abc464",
     "difficulty": -979,
     "index": "A",
     "is_experimental": false,
     "name": "Decisive Battle"
   },
   "abc464_b": {
-    "contest_id": "adt_easy_20260827_1",
+    "contest_id": "abc464",
     "difficulty": -142,
-    "index": "C",
+    "index": "B",
     "is_experimental": false,
     "name": "Crop"
   },
   "abc464_c": {
-    "contest_id": "adt_all_20261022_2",
+    "contest_id": "abc464",
     "difficulty": 400,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Plumage Palette"
   },
   "abc464_d": {
-    "contest_id": "adt_all_20260831_2",
+    "contest_id": "abc464",
     "difficulty": 752,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Celester"
   },
   "abc465_a": {
-    "contest_id": "adt_easy_20260930_1",
+    "contest_id": "abc465",
     "difficulty": -995,
     "index": "A",
     "is_experimental": false,
     "name": "Supermajority"
   },
   "abc465_b": {
-    "contest_id": "adt_easy_20261028_2",
+    "contest_id": "abc465",
     "difficulty": -389,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Parking 2"
   },
   "abc465_c": {
-    "contest_id": "adt_easy_20260820_2",
+    "contest_id": "abc465",
     "difficulty": 443,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Reverse Permutation"
   },
   "abc465_d": {
-    "contest_id": "adt_all_20261030_2",
+    "contest_id": "abc465",
     "difficulty": 839,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "X to Y"
   },
   "abc465_e": {
-    "contest_id": "adt_all_20260924_1",
+    "contest_id": "abc465",
     "difficulty": 1417,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Digit Circus"
   },
   "abc466_a": {
-    "contest_id": "adt_easy_20261002_1",
+    "contest_id": "abc466",
     "difficulty": -891,
-    "index": "B",
+    "index": "A",
     "is_experimental": false,
     "name": "Compromise "
   },
   "abc466_b": {
-    "contest_id": "adt_easy_20261009_2",
+    "contest_id": "abc466",
     "difficulty": -552,
-    "index": "D",
+    "index": "B",
     "is_experimental": false,
     "name": "Representative Balls"
   },
   "abc466_c": {
-    "contest_id": "adt_easy_20260918_1",
+    "contest_id": "abc466",
     "difficulty": 658,
-    "index": "E",
+    "index": "C",
     "is_experimental": false,
     "name": "Count Close Pairs "
   },
@@ -6153,16 +6153,16 @@
     "name": "Placing Rooks"
   },
   "abc466_e": {
-    "contest_id": "adt_all_20261001_2",
+    "contest_id": "abc466",
     "difficulty": 1027,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "Range Flip"
   },
   "abc467_d": {
-    "contest_id": "adt_all_20261103_1",
+    "contest_id": "abc467",
     "difficulty": 928,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Concentric Circles"
   },
@@ -6181,9 +6181,9 @@
     "name": "Cantrip"
   },
   "abc469_d": {
-    "contest_id": "adt_all_20261002_1",
+    "contest_id": "abc469",
     "difficulty": 1102,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "The Big Two"
   },
@@ -6223,23 +6223,23 @@
     "name": "Odd Cycle"
   },
   "abc473_d": {
-    "contest_id": "adt_all_20261102_2",
+    "contest_id": "abc473",
     "difficulty": 838,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Coefficient Stair"
   },
   "abc473_e": {
-    "contest_id": "adt_all_20261020_2",
+    "contest_id": "abc473",
     "difficulty": 966,
-    "index": "H",
+    "index": "E",
     "is_experimental": false,
     "name": "K-Divisible Subarrays"
   },
   "abc473_f": {
-    "contest_id": "adt_all_20260929_1",
+    "contest_id": "abc473",
     "difficulty": 1303,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "A/AB Insertion"
   },
@@ -6258,9 +6258,9 @@
     "name": "Exit Order"
   },
   "abc474_c": {
-    "contest_id": "adt_all_20261020_1",
+    "contest_id": "abc474",
     "difficulty": 200,
-    "index": "F",
+    "index": "C",
     "is_experimental": false,
     "name": "Remove and Append"
   },
@@ -6279,9 +6279,9 @@
     "name": "One Time Coupon"
   },
   "abc474_f": {
-    "contest_id": "adt_all_20261012_1",
+    "contest_id": "abc474",
     "difficulty": 1911,
-    "index": "I",
+    "index": "F",
     "is_experimental": false,
     "name": "Increment All Divisors"
   },
@@ -6321,9 +6321,9 @@
     "name": "Quiz Competition: Qualifiers"
   },
   "abc476_d": {
-    "contest_id": "adt_all_20261023_2",
+    "contest_id": "abc476",
     "difficulty": 860,
-    "index": "G",
+    "index": "D",
     "is_experimental": false,
     "name": "Automat"
   },
@@ -6580,21 +6580,21 @@
     "name": "長方形"
   },
   "arc058_a": {
-    "contest_id": "arc058",
+    "contest_id": "abc042",
     "difficulty": 1174,
     "index": "C",
     "is_experimental": false,
     "name": "Iroha's Obsession"
   },
   "arc059_a": {
-    "contest_id": "arc059",
+    "contest_id": "abc043",
     "difficulty": 712,
     "index": "C",
     "is_experimental": false,
     "name": "Be Together"
   },
   "arc065_a": {
-    "contest_id": "abc049",
+    "contest_id": "arc065",
     "difficulty": 930,
     "index": "C",
     "is_experimental": false,
@@ -6608,7 +6608,7 @@
     "name": "Connectivity"
   },
   "arc074_b": {
-    "contest_id": "abc062",
+    "contest_id": "arc074",
     "difficulty": 1730,
     "index": "D",
     "is_experimental": false,
@@ -6622,14 +6622,14 @@
     "name": "Snuke Festival"
   },
   "arc089_a": {
-    "contest_id": "abc086",
+    "contest_id": "arc089",
     "difficulty": 397,
     "index": "C",
     "is_experimental": false,
     "name": "Traveling"
   },
   "arc090_b": {
-    "contest_id": "abc087",
+    "contest_id": "arc090",
     "difficulty": 1452,
     "index": "D",
     "is_experimental": false,
@@ -6762,7 +6762,7 @@
     "name": "高橋君の山崩しゲーム"
   },
   "code_thanks_festival_2017_c": {
-    "contest_id": "code-thanks-festival-2017",
+    "contest_id": "code-thanks-festival-2017-open",
     "index": "C",
     "name": "Factory"
   },
@@ -6957,7 +6957,7 @@
     "name": "数"
   },
   "tenka1_2015_final_f": {
-    "contest_id": "tenka1-2015-final",
+    "contest_id": "tenka1-2015-final-open",
     "difficulty": null,
     "index": "F",
     "is_experimental": true,

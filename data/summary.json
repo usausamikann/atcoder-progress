@@ -1,32 +1,32 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 23,
-      "solved": 22
+      "attempted": 90,
+      "solved": 89
     },
     "B": {
-      "attempted": 18,
-      "solved": 16
+      "attempted": 91,
+      "solved": 89
     },
     "C": {
-      "attempted": 32,
-      "solved": 30
+      "attempted": 158,
+      "solved": 156
     },
     "D": {
-      "attempted": 58,
-      "solved": 58
+      "attempted": 285,
+      "solved": 285
     },
     "E": {
-      "attempted": 30,
-      "solved": 30
+      "attempted": 225,
+      "solved": 224
     },
     "F": {
-      "attempted": 10,
-      "solved": 8
+      "attempted": 57,
+      "solved": 55
     },
     "G": {
-      "attempted": 15,
-      "solved": 15
+      "attempted": 16,
+      "solved": 16
     }
   },
   "attempted_problem_count": 1041,
@@ -35,67 +35,67 @@
   "latest_submission_utc": "2026-11-05T01:52:48+00:00",
   "recently_solved_problems": [
     {
-      "contest_id": "adt_easy_20260915_2",
+      "contest_id": "abc460",
       "difficulty": -914,
       "first_ac_epoch": 1793843568,
-      "index": "B",
+      "index": "A",
       "problem_id": "abc460_a",
       "title": "Mod While Positive",
-      "url": "https://atcoder.jp/contests/adt_easy_20260915_2/tasks/abc460_a"
+      "url": "https://atcoder.jp/contests/abc460/tasks/abc460_a"
     },
     {
-      "contest_id": "adt_easy_20261029_1",
+      "contest_id": "abc459",
       "difficulty": -921,
       "first_ac_epoch": 1793843425,
-      "index": "B",
+      "index": "A",
       "problem_id": "abc459_a",
       "title": "Hell, World!",
-      "url": "https://atcoder.jp/contests/adt_easy_20261029_1/tasks/abc459_a"
+      "url": "https://atcoder.jp/contests/abc459/tasks/abc459_a"
     },
     {
-      "contest_id": "adt_easy_20261023_2",
+      "contest_id": "abc458",
       "difficulty": -904,
       "first_ac_epoch": 1793843314,
       "index": "A",
       "problem_id": "abc458_a",
       "title": "Chompers",
-      "url": "https://atcoder.jp/contests/adt_easy_20261023_2/tasks/abc458_a"
+      "url": "https://atcoder.jp/contests/abc458/tasks/abc458_a"
     },
     {
-      "contest_id": "adt_all_20260623_1",
+      "contest_id": "abc451",
       "difficulty": 250,
       "first_ac_epoch": 1793843138,
-      "index": "F",
+      "index": "C",
       "problem_id": "abc451_c",
       "title": "Understory",
-      "url": "https://atcoder.jp/contests/adt_all_20260623_1/tasks/abc451_c"
+      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_c"
     },
     {
-      "contest_id": "adt_easy_20261008_1",
+      "contest_id": "abc451",
       "difficulty": -566,
       "first_ac_epoch": 1793842893,
-      "index": "C",
+      "index": "B",
       "problem_id": "abc451_b",
       "title": "Personnel Change",
-      "url": "https://atcoder.jp/contests/adt_easy_20261008_1/tasks/abc451_b"
+      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_b"
     },
     {
-      "contest_id": "adt_easy_20261015_1",
+      "contest_id": "abc451",
       "difficulty": -1020,
       "first_ac_epoch": 1793842809,
       "index": "A",
       "problem_id": "abc451_a",
       "title": "illegal",
-      "url": "https://atcoder.jp/contests/adt_easy_20261015_1/tasks/abc451_a"
+      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_a"
     },
     {
-      "contest_id": "adt_all_20261002_1",
+      "contest_id": "abc469",
       "difficulty": 1102,
       "first_ac_epoch": 1793842481,
-      "index": "G",
+      "index": "D",
       "problem_id": "abc469_d",
       "title": "The Big Two",
-      "url": "https://atcoder.jp/contests/adt_all_20261002_1/tasks/abc469_d"
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_d"
     },
     {
       "contest_id": "abc469",
@@ -188,103 +188,103 @@
       "url": "https://atcoder.jp/contests/abc480/tasks/abc480_d"
     },
     {
-      "contest_id": "adt_all_20261019_1",
+      "contest_id": "abc416",
       "difficulty": 282,
       "first_ac_epoch": 1793407068,
-      "index": "F",
+      "index": "C",
       "problem_id": "abc416_c",
       "title": "Concat (X-th)",
-      "url": "https://atcoder.jp/contests/adt_all_20261019_1/tasks/abc416_c"
+      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_c"
     },
     {
-      "contest_id": "adt_easy_20261016_1",
+      "contest_id": "abc416",
       "difficulty": -390,
       "first_ac_epoch": 1793406436,
-      "index": "C",
+      "index": "B",
       "problem_id": "abc416_b",
       "title": "1D Akari",
-      "url": "https://atcoder.jp/contests/adt_easy_20261016_1/tasks/abc416_b"
+      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_b"
     },
     {
-      "contest_id": "adt_easy_20260817_1",
+      "contest_id": "abc416",
       "difficulty": -1079,
       "first_ac_epoch": 1793406073,
-      "index": "B",
+      "index": "A",
       "problem_id": "abc416_a",
       "title": "Vacation Validation",
-      "url": "https://atcoder.jp/contests/adt_easy_20260817_1/tasks/abc416_a"
+      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_a"
     },
     {
-      "contest_id": "adt_all_20260721_1",
+      "contest_id": "abc438",
       "difficulty": 1226,
       "first_ac_epoch": 1793349170,
-      "index": "H",
+      "index": "E",
       "problem_id": "abc438_e",
       "title": "Heavy Buckets",
-      "url": "https://atcoder.jp/contests/adt_all_20260721_1/tasks/abc438_e"
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_e"
     },
     {
-      "contest_id": "adt_easy_20261029_2",
+      "contest_id": "abc427",
       "difficulty": -1031,
       "first_ac_epoch": 1793347672,
-      "index": "B",
+      "index": "A",
       "problem_id": "abc427_a",
       "title": "ABC -> AC",
-      "url": "https://atcoder.jp/contests/adt_easy_20261029_2/tasks/abc427_a"
+      "url": "https://atcoder.jp/contests/abc427/tasks/abc427_a"
     },
     {
-      "contest_id": "adt_all_20260909_2",
+      "contest_id": "abc446",
       "difficulty": 384,
       "first_ac_epoch": 1793347483,
-      "index": "F",
+      "index": "C",
       "problem_id": "abc446_c",
       "title": "Omelette Restaurant",
-      "url": "https://atcoder.jp/contests/adt_all_20260909_2/tasks/abc446_c"
+      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_c"
     },
     {
-      "contest_id": "adt_easy_20260930_2",
+      "contest_id": "abc446",
       "difficulty": -366,
       "first_ac_epoch": 1793345770,
-      "index": "D",
+      "index": "B",
       "problem_id": "abc446_b",
       "title": "Greedy Draft",
-      "url": "https://atcoder.jp/contests/adt_easy_20260930_2/tasks/abc446_b"
+      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_b"
     },
     {
-      "contest_id": "adt_easy_20260908_2",
+      "contest_id": "abc446",
       "difficulty": -935,
       "first_ac_epoch": 1793345010,
-      "index": "B",
+      "index": "A",
       "problem_id": "abc446_a",
       "title": "Handmaid",
-      "url": "https://atcoder.jp/contests/adt_easy_20260908_2/tasks/abc446_a"
+      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_a"
     },
     {
-      "contest_id": "adt_all_20261014_2",
+      "contest_id": "abc393",
       "difficulty": 98,
       "first_ac_epoch": 1793340504,
-      "index": "F",
+      "index": "C",
       "problem_id": "abc393_c",
       "title": "Make it Simple",
-      "url": "https://atcoder.jp/contests/adt_all_20261014_2/tasks/abc393_c"
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_c"
     },
     {
-      "contest_id": "adt_all_20261030_2",
+      "contest_id": "abc465",
       "difficulty": 839,
       "first_ac_epoch": 1793326760,
-      "index": "G",
+      "index": "D",
       "problem_id": "abc465_d",
       "title": "X to Y",
-      "url": "https://atcoder.jp/contests/adt_all_20261030_2/tasks/abc465_d"
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_d"
     },
     {
-      "contest_id": "adt_all_20261001_2",
+      "contest_id": "abc466",
       "difficulty": 1027,
       "first_ac_epoch": 1793324994,
-      "index": "H",
+      "index": "E",
       "problem_id": "abc466_e",
       "title": "Range Flip",
-      "url": "https://atcoder.jp/contests/adt_all_20261001_2/tasks/abc466_e"
+      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_e"
     },
     {
       "contest_id": "abc466",
@@ -296,13 +296,13 @@
       "url": "https://atcoder.jp/contests/abc466/tasks/abc466_d"
     },
     {
-      "contest_id": "adt_easy_20260918_1",
+      "contest_id": "abc466",
       "difficulty": 658,
       "first_ac_epoch": 1793321993,
-      "index": "E",
+      "index": "C",
       "problem_id": "abc466_c",
       "title": "Count Close Pairs ",
-      "url": "https://atcoder.jp/contests/adt_easy_20260918_1/tasks/abc466_c"
+      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_c"
     }
   ],
   "schema_version": 1,
