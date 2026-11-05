@@ -141,30 +141,85 @@ def fetch_history(existing: list[dict], client: JsonClient, user_id: str) -> lis
     return get_new_history(existing, page, user_id=user_id)
 
 
-def fetch_catalog(problem_ids: set[str], client: JsonClient) -> dict[str, dict]:
-    """Keep only relevant problem metadata; never commit the full upstream datasets."""
+def is_training_contest(contest_id: str) -> bool:
+    return contest_id == "abs" or contest_id.startswith("adt_")
+
+
+def preferred_contest(problem_id: str, options: set[str], observed: list[str]) -> str | None:
+    """Use the contest where the user actually submitted, not an ADT reprint.
+
+    AtCoder Problems metadata contains repeated IDs in training contests.
+    Picking the last metadata row silently changes ABC C into ADT B, etc.
+    """
+    original_prefix = problem_id.rsplit("_", 1)[0]
+    for cid in observed:
+        if not is_training_contest(cid) and cid in options:
+            return cid
+    if original_prefix in options:
+        return original_prefix
+    for cid in observed:
+        if not is_training_contest(cid):
+            return cid
+    originals = sorted(x for x in options if not is_training_contest(x))
+    if originals:
+        return originals[0]
+    return observed[0] if observed else (sorted(options)[0] if options else None)
+
+
+def fetch_catalog(
+    problem_ids: set[str],
+    client: JsonClient,
+    submissions: list[dict] | None = None,
+) -> dict[str, dict]:
+    """Join catalog records by canonical contest (not the arbitrary last match)."""
     problems = client.get(RESOURCE_URL + "/problems.json")
     links = client.get(RESOURCE_URL + "/contest-problem.json")
     models = client.get(RESOURCE_URL + "/problem-models.json")
     if not isinstance(problems, list) or not isinstance(links, list) or not isinstance(models, dict):
         raise ValueError("Unexpected AtCoder Problems resource format")
-    result: dict[str, dict] = {}
+
+    records: dict[str, list[dict]] = defaultdict(list)
+    pair_records: dict[str, list[dict]] = defaultdict(list)
+    submissions_by_problem: dict[str, list[str]] = defaultdict(list)
+    for sub in sorted(submissions or [], key=lambda x: (x["epoch_second"], x["id"])):
+        if sub["problem_id"] in problem_ids:
+            cid = sub["contest_id"]
+            if cid not in submissions_by_problem[sub["problem_id"]]:
+                submissions_by_problem[sub["problem_id"]].append(cid)
     for p in problems:
-        if not isinstance(p, dict) or p.get("id") not in problem_ids:
-            continue
-        pid = p["id"]
-        result[pid] = {"contest_id": p.get("contest_id"), "name": p.get("name")}
+        if isinstance(p, dict) and p.get("id") in problem_ids:
+            records[p["id"]].append(p)
     for link in links:
-        if not isinstance(link, dict):
-            continue
-        pid = link.get("problem_id")
-        if pid in result and link.get("contest_id") == result[pid].get("contest_id"):
-            result[pid]["index"] = link.get("problem_index")
-    for pid, model in models.items():
-        if pid in result and isinstance(model, dict):
-            result[pid]["difficulty"] = model.get("difficulty")
-            result[pid]["is_experimental"] = model.get("is_experimental")
-    return {k: result[k] for k in sorted(result)}
+        if isinstance(link, dict) and link.get("problem_id") in problem_ids:
+            pair_records[link["problem_id"]].append(link)
+
+    result: dict[str, dict] = {}
+    for pid in sorted(problem_ids):
+        options = {
+            x["contest_id"] for x in records[pid] + pair_records[pid]
+            if isinstance(x.get("contest_id"), str)
+        }
+        cid = preferred_contest(pid, options, submissions_by_problem[pid])
+        match = next((p for p in records[pid] if p.get("contest_id") == cid), None)
+        if match is None and records[pid]:
+            match = records[pid][0]
+        link = next((p for p in pair_records[pid] if p.get("contest_id") == cid), None)
+        info = {
+            "contest_id": cid,
+            "name": match.get("name") if match else None,
+            "index": link.get("problem_index") if link else None,
+        }
+        # Some older problems have no contest-problem entry.
+        if info["index"] is None and cid == pid.rsplit("_", 1)[0]:
+            suffix = pid.rsplit("_", 1)[-1].upper()
+            if suffix in "ABCDEFGH" and len(suffix) == 1:
+                info["index"] = suffix
+        model = models.get(pid)
+        if isinstance(model, dict):
+            info["difficulty"] = model.get("difficulty")
+            info["is_experimental"] = model.get("is_experimental")
+        result[pid] = info
+    return result
 
 
 def build_views(history: list[dict], catalog: dict, user_id: str = USER_ID) -> dict[str, object]:
@@ -285,7 +340,7 @@ def main() -> None:
         raise ValueError("Malformed catalog.json")
     current_ids = {x["problem_id"] for x in updated}
     if updated != existing or args.refresh_catalog or not catalog_path.exists():
-        catalog = fetch_catalog(current_ids, client)
+        catalog = fetch_catalog(current_ids, client, updated)
     changed = save_data(args.data_dir, updated, catalog, args.user)
     print(f"Submissions: {len(updated)}; new/updated: {len(updated) - len(existing)}")
     print(f"Changed files: {len(changed)}")
