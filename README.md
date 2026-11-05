@@ -36,9 +36,9 @@ The summary's `recently_solved_problems` includes the 30 problems with the newes
 
 ### First-time setup (repository owner)
 
-1. Merge the implementation pull request into `main`. Scheduled workflows only run from the default branch.
+1. Merge the implementation pull request into `main`. This also triggers an **initial sync** because the workflow or script changed. Scheduled workflows only run from the default branch.
 2. In **Settings → Actions → General**, confirm Actions are enabled. Under **Workflow permissions**, allow **Read and write permissions** for `GITHUB_TOKEN` if the repository's default setting blocks pushes. The workflow itself requests only `contents: write`.
-3. In the **Actions** tab, choose **Sync AtCoder submissions → Run workflow → Run workflow** (branch `main`).
+3. In the **Actions** tab, check the automatically started **Sync AtCoder submissions** run after merging. To retry manually, choose **Run workflow** on branch `main`.
 4. Confirm that the run succeeds and the generated `data/summary.json` exists on `main`. The initial history fetch can take longer than later updates.
 5. If `git push` fails with permission denied or branch protection, inspect that job's log. Configure access appropriately rather than adding an unnecessary PAT.
 
