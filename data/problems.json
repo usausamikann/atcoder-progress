@@ -17082,6 +17082,25 @@
     }
   },
   {
+    "contest_id": "abc468",
+    "difficulty": 683,
+    "first_ac_epoch": 1793890448,
+    "first_submission_epoch": 1793890448,
+    "index": "D",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793890448,
+    "last_submission_id": 80616774,
+    "problem_id": "abc468_d",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Pre-Palindrome",
+    "url": "https://atcoder.jp/contests/abc468/tasks/abc468_d",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abc469",
     "difficulty": 475,
     "first_ac_epoch": 1793839546,

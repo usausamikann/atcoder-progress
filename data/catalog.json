@@ -6173,6 +6173,13 @@
     "is_experimental": false,
     "name": "Adjacent Sums (hard)"
   },
+  "abc468_d": {
+    "contest_id": "abc468",
+    "difficulty": 683,
+    "index": "D",
+    "is_experimental": false,
+    "name": "Pre-Palindrome"
+  },
   "abc469_c": {
     "contest_id": "abc469",
     "difficulty": 475,

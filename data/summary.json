@@ -13,8 +13,8 @@
       "solved": 156
     },
     "D": {
-      "attempted": 285,
-      "solved": 285
+      "attempted": 286,
+      "solved": 286
     },
     "E": {
       "attempted": 225,
@@ -29,11 +29,20 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1041,
-  "latest_submission_epoch": 1793843568,
-  "latest_submission_id": 80604351,
-  "latest_submission_utc": "2026-11-05T01:52:48+00:00",
+  "attempted_problem_count": 1042,
+  "latest_submission_epoch": 1793890448,
+  "latest_submission_id": 80616774,
+  "latest_submission_utc": "2026-11-05T14:54:08+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc468",
+      "difficulty": 683,
+      "first_ac_epoch": 1793890448,
+      "index": "D",
+      "problem_id": "abc468_d",
+      "title": "Pre-Palindrome",
+      "url": "https://atcoder.jp/contests/abc468/tasks/abc468_d"
+    },
     {
       "contest_id": "abc460",
       "difficulty": -914,
@@ -294,20 +303,11 @@
       "problem_id": "abc466_d",
       "title": "Placing Rooks",
       "url": "https://atcoder.jp/contests/abc466/tasks/abc466_d"
-    },
-    {
-      "contest_id": "abc466",
-      "difficulty": 658,
-      "first_ac_epoch": 1793321993,
-      "index": "C",
-      "problem_id": "abc466_c",
-      "title": "Count Close Pairs ",
-      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_c"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1026,
-  "submission_count": 1767,
+  "solved_problem_count": 1027,
+  "submission_count": 1768,
   "submissions_by_jst_day_recent_90": {
     "2026-03-07": 11,
     "2026-03-08": 7,
@@ -398,18 +398,18 @@
     "2026-10-29": 2,
     "2026-10-30": 21,
     "2026-10-31": 10,
-    "2026-11-05": 14
+    "2026-11-05": 15
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 800
+    "2026": 801
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1159,
+    "AC": 1160,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
