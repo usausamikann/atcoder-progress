@@ -106,6 +106,37 @@ class AggregationTests(unittest.TestCase):
             self.assertTrue(write_json_if_changed(path, {"z": 1, "a": 2}))
             self.assertFalse(write_json_if_changed(path, {"a": 2, "z": 1}))
 
+    def test_canonical_abc_contest_wins_over_adt_reprint(self):
+        class Client:
+            def __init__(self):
+                self.responses = [
+                    [{"id": "abc460_a", "contest_id": "abc460", "name": "Mod While Positive"},
+                     {"id": "abc460_a", "contest_id": "adt_easy_20260915_2",
+                      "name": "Mod While Positive"}],
+                    [{"problem_id": "abc460_a", "contest_id": "abc460",
+                      "problem_index": "A"},
+                     {"problem_id": "abc460_a", "contest_id": "adt_easy_20260915_2",
+                      "problem_index": "B"}],
+                    {"abc460_a": {"difficulty": -914, "is_experimental": False}},
+                ]
+            def get(self, _):
+                return self.responses.pop(0)
+        submissions = [sub(1, 100, "abc460_a")]
+        submissions[0]["contest_id"] = "abc460"
+        metadata = fetch_catalog({"abc460_a"}, Client(), submissions)
+        self.assertEqual(metadata["abc460_a"]["contest_id"], "abc460")
+        self.assertEqual(metadata["abc460_a"]["index"], "A")
+        result = build_views(submissions, metadata)
+        self.assertEqual(result["summary"]["abc_index"]["A"]["solved"], 1)
+        self.assertIn("/contests/abc460/tasks/abc460_a",
+                      result["problems"][0]["url"])
+
+    def test_submitted_abc_contest_beats_arc_prefix(self):
+        from scripts.sync import preferred_contest
+        result = preferred_contest("arc058_a", {"arc058", "abc042"},
+                                   ["abc042"])
+        self.assertEqual(result, "abc042")
+
     def test_catalog_restricts_to_attempted_problems(self):
         class Client:
             def __init__(self):
