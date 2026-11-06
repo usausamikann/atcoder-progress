@@ -5102,6 +5102,27 @@
     "is_experimental": false,
     "name": "Distribute Bunnies"
   },
+  "abc435_a": {
+    "contest_id": "abc435",
+    "difficulty": -1289,
+    "index": "A",
+    "is_experimental": false,
+    "name": "Triangular Number"
+  },
+  "abc435_b": {
+    "contest_id": "abc435",
+    "difficulty": -439,
+    "index": "B",
+    "is_experimental": false,
+    "name": "No-Divisible Range"
+  },
+  "abc435_c": {
+    "contest_id": "abc435",
+    "difficulty": 11,
+    "index": "C",
+    "is_experimental": false,
+    "name": "Domino"
+  },
   "abc435_d": {
     "contest_id": "abc435",
     "difficulty": 568,
@@ -6089,6 +6110,13 @@
     "is_experimental": false,
     "name": "Celester"
   },
+  "abc464_e": {
+    "contest_id": "abc464",
+    "difficulty": 1075,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Fill-Rect Query"
+  },
   "abc465_a": {
     "contest_id": "abc465",
     "difficulty": -995,
@@ -6180,6 +6208,13 @@
     "is_experimental": false,
     "name": "Pre-Palindrome"
   },
+  "abc468_e": {
+    "contest_id": "abc468",
+    "difficulty": 1038,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Sum of Average"
+  },
   "abc469_c": {
     "contest_id": "abc469",
     "difficulty": 475,
@@ -6214,6 +6249,13 @@
     "index": "D",
     "is_experimental": false,
     "name": "Chargers"
+  },
+  "abc471_e": {
+    "contest_id": "abc471",
+    "difficulty": 990,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Sum of Square of Sum"
   },
   "abc472_d": {
     "contest_id": "abc472",
@@ -6333,6 +6375,13 @@
     "index": "D",
     "is_experimental": false,
     "name": "Automat"
+  },
+  "abc476_e": {
+    "contest_id": "abc476",
+    "difficulty": 964,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Min-Max Swap"
   },
   "abc477_a": {
     "contest_id": "abc477",

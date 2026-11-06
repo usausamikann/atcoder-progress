@@ -1,24 +1,24 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 90,
-      "solved": 89
+      "attempted": 91,
+      "solved": 90
     },
     "B": {
-      "attempted": 91,
-      "solved": 89
+      "attempted": 92,
+      "solved": 90
     },
     "C": {
-      "attempted": 158,
-      "solved": 156
+      "attempted": 159,
+      "solved": 157
     },
     "D": {
       "attempted": 286,
       "solved": 286
     },
     "E": {
-      "attempted": 225,
-      "solved": 224
+      "attempted": 229,
+      "solved": 228
     },
     "F": {
       "attempted": 57,
@@ -29,11 +29,74 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1042,
-  "latest_submission_epoch": 1793890448,
-  "latest_submission_id": 80616774,
-  "latest_submission_utc": "2026-11-05T14:54:08+00:00",
+  "attempted_problem_count": 1049,
+  "latest_submission_epoch": 1793935857,
+  "latest_submission_id": 80622738,
+  "latest_submission_utc": "2026-11-06T03:30:57+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc435",
+      "difficulty": 11,
+      "first_ac_epoch": 1793935857,
+      "index": "C",
+      "problem_id": "abc435_c",
+      "title": "Domino",
+      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_c"
+    },
+    {
+      "contest_id": "abc435",
+      "difficulty": -439,
+      "first_ac_epoch": 1793935314,
+      "index": "B",
+      "problem_id": "abc435_b",
+      "title": "No-Divisible Range",
+      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_b"
+    },
+    {
+      "contest_id": "abc435",
+      "difficulty": -1289,
+      "first_ac_epoch": 1793935090,
+      "index": "A",
+      "problem_id": "abc435_a",
+      "title": "Triangular Number",
+      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_a"
+    },
+    {
+      "contest_id": "abc476",
+      "difficulty": 964,
+      "first_ac_epoch": 1793933909,
+      "index": "E",
+      "problem_id": "abc476_e",
+      "title": "Min-Max Swap",
+      "url": "https://atcoder.jp/contests/abc476/tasks/abc476_e"
+    },
+    {
+      "contest_id": "abc468",
+      "difficulty": 1038,
+      "first_ac_epoch": 1793933209,
+      "index": "E",
+      "problem_id": "abc468_e",
+      "title": "Sum of Average",
+      "url": "https://atcoder.jp/contests/abc468/tasks/abc468_e"
+    },
+    {
+      "contest_id": "abc471",
+      "difficulty": 990,
+      "first_ac_epoch": 1793931975,
+      "index": "E",
+      "problem_id": "abc471_e",
+      "title": "Sum of Square of Sum",
+      "url": "https://atcoder.jp/contests/abc471/tasks/abc471_e"
+    },
+    {
+      "contest_id": "abc464",
+      "difficulty": 1075,
+      "first_ac_epoch": 1793924704,
+      "index": "E",
+      "problem_id": "abc464_e",
+      "title": "Fill-Rect Query",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_e"
+    },
     {
       "contest_id": "abc468",
       "difficulty": 683,
@@ -240,76 +303,12 @@
       "problem_id": "abc427_a",
       "title": "ABC -> AC",
       "url": "https://atcoder.jp/contests/abc427/tasks/abc427_a"
-    },
-    {
-      "contest_id": "abc446",
-      "difficulty": 384,
-      "first_ac_epoch": 1793347483,
-      "index": "C",
-      "problem_id": "abc446_c",
-      "title": "Omelette Restaurant",
-      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_c"
-    },
-    {
-      "contest_id": "abc446",
-      "difficulty": -366,
-      "first_ac_epoch": 1793345770,
-      "index": "B",
-      "problem_id": "abc446_b",
-      "title": "Greedy Draft",
-      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_b"
-    },
-    {
-      "contest_id": "abc446",
-      "difficulty": -935,
-      "first_ac_epoch": 1793345010,
-      "index": "A",
-      "problem_id": "abc446_a",
-      "title": "Handmaid",
-      "url": "https://atcoder.jp/contests/abc446/tasks/abc446_a"
-    },
-    {
-      "contest_id": "abc393",
-      "difficulty": 98,
-      "first_ac_epoch": 1793340504,
-      "index": "C",
-      "problem_id": "abc393_c",
-      "title": "Make it Simple",
-      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_c"
-    },
-    {
-      "contest_id": "abc465",
-      "difficulty": 839,
-      "first_ac_epoch": 1793326760,
-      "index": "D",
-      "problem_id": "abc465_d",
-      "title": "X to Y",
-      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_d"
-    },
-    {
-      "contest_id": "abc466",
-      "difficulty": 1027,
-      "first_ac_epoch": 1793324994,
-      "index": "E",
-      "problem_id": "abc466_e",
-      "title": "Range Flip",
-      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_e"
-    },
-    {
-      "contest_id": "abc466",
-      "difficulty": 494,
-      "first_ac_epoch": 1793322856,
-      "index": "D",
-      "problem_id": "abc466_d",
-      "title": "Placing Rooks",
-      "url": "https://atcoder.jp/contests/abc466/tasks/abc466_d"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1027,
-  "submission_count": 1768,
+  "solved_problem_count": 1034,
+  "submission_count": 1777,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-07": 11,
     "2026-03-08": 7,
     "2026-03-09": 3,
     "2026-03-10": 15,
@@ -398,22 +397,23 @@
     "2026-10-29": 2,
     "2026-10-30": 21,
     "2026-10-31": 10,
-    "2026-11-05": 15
+    "2026-11-05": 15,
+    "2026-11-06": 9
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 801
+    "2026": 810
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1160,
+    "AC": 1168,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 443
+    "WA": 444
   }
 }

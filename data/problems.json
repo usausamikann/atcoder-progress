@@ -8869,15 +8869,15 @@
     "index": "D",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1790176013,
-    "last_submission_id": 79458969,
+    "last_submission_epoch": 1793926634,
+    "last_submission_id": 80621158,
     "problem_id": "abc366_d",
     "solved": true,
-    "submission_count": 1,
+    "submission_count": 2,
     "title": "Cuboid Sum Query",
     "url": "https://atcoder.jp/contests/abc366/tasks/abc366_d",
     "verdict_counts": {
-      "AC": 1
+      "AC": 2
     }
   },
   {
@@ -14143,6 +14143,63 @@
   },
   {
     "contest_id": "abc435",
+    "difficulty": -1289,
+    "first_ac_epoch": 1793935090,
+    "first_submission_epoch": 1793935090,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793935090,
+    "last_submission_id": 80622608,
+    "problem_id": "abc435_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Triangular Number",
+    "url": "https://atcoder.jp/contests/abc435/tasks/abc435_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc435",
+    "difficulty": -439,
+    "first_ac_epoch": 1793935314,
+    "first_submission_epoch": 1793935314,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793935314,
+    "last_submission_id": 80622650,
+    "problem_id": "abc435_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "No-Divisible Range",
+    "url": "https://atcoder.jp/contests/abc435/tasks/abc435_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc435",
+    "difficulty": 11,
+    "first_ac_epoch": 1793935857,
+    "first_submission_epoch": 1793935857,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793935857,
+    "last_submission_id": 80622738,
+    "problem_id": "abc435_c",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Domino",
+    "url": "https://atcoder.jp/contests/abc435/tasks/abc435_c",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc435",
     "difficulty": 568,
     "first_ac_epoch": 1792990228,
     "first_submission_epoch": 1792990125,
@@ -16853,6 +16910,26 @@
     }
   },
   {
+    "contest_id": "abc464",
+    "difficulty": 1075,
+    "first_ac_epoch": 1793924704,
+    "first_submission_epoch": 1793924648,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793924704,
+    "last_submission_id": 80620862,
+    "problem_id": "abc464_e",
+    "solved": true,
+    "submission_count": 2,
+    "title": "Fill-Rect Query",
+    "url": "https://atcoder.jp/contests/abc464/tasks/abc464_e",
+    "verdict_counts": {
+      "AC": 1,
+      "WA": 1
+    }
+  },
+  {
     "contest_id": "abc465",
     "difficulty": -995,
     "first_ac_epoch": 1793320345,
@@ -17101,6 +17178,25 @@
     }
   },
   {
+    "contest_id": "abc468",
+    "difficulty": 1038,
+    "first_ac_epoch": 1793933209,
+    "first_submission_epoch": 1793933209,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793933209,
+    "last_submission_id": 80622299,
+    "problem_id": "abc468_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Sum of Average",
+    "url": "https://atcoder.jp/contests/abc468/tasks/abc468_e",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abc469",
     "difficulty": 475,
     "first_ac_epoch": 1793839546,
@@ -17194,6 +17290,25 @@
     "submission_count": 1,
     "title": "Chargers",
     "url": "https://atcoder.jp/contests/abc471/tasks/abc471_d",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc471",
+    "difficulty": 990,
+    "first_ac_epoch": 1793931975,
+    "first_submission_epoch": 1793931975,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793931975,
+    "last_submission_id": 80622085,
+    "problem_id": "abc471_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Sum of Square of Sum",
+    "url": "https://atcoder.jp/contests/abc471/tasks/abc471_e",
     "verdict_counts": {
       "AC": 1
     }
@@ -17522,6 +17637,25 @@
     "submission_count": 1,
     "title": "Automat",
     "url": "https://atcoder.jp/contests/abc476/tasks/abc476_d",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc476",
+    "difficulty": 964,
+    "first_ac_epoch": 1793933909,
+    "first_submission_epoch": 1793933909,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793933909,
+    "last_submission_id": 80622413,
+    "problem_id": "abc476_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Min-Max Swap",
+    "url": "https://atcoder.jp/contests/abc476/tasks/abc476_e",
     "verdict_counts": {
       "AC": 1
     }
