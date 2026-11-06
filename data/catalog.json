@@ -6187,6 +6187,13 @@
     "is_experimental": false,
     "name": "Range Flip"
   },
+  "abc467_c": {
+    "contest_id": "abc467",
+    "difficulty": 608,
+    "index": "C",
+    "is_experimental": false,
+    "name": "Adjacent Sums (easy)"
+  },
   "abc467_d": {
     "contest_id": "abc467",
     "difficulty": 928,
@@ -6410,6 +6417,13 @@
     "index": "D",
     "is_experimental": false,
     "name": "Masking Tape"
+  },
+  "abc477_e": {
+    "contest_id": "abc477",
+    "difficulty": 1235,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Wheel Distance"
   },
   "abc478_d": {
     "contest_id": "abc478",

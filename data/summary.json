@@ -9,16 +9,16 @@
       "solved": 90
     },
     "C": {
-      "attempted": 159,
-      "solved": 157
+      "attempted": 160,
+      "solved": 158
     },
     "D": {
       "attempted": 286,
       "solved": 286
     },
     "E": {
-      "attempted": 229,
-      "solved": 228
+      "attempted": 230,
+      "solved": 229
     },
     "F": {
       "attempted": 57,
@@ -29,11 +29,29 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1049,
-  "latest_submission_epoch": 1793935857,
-  "latest_submission_id": 80622738,
-  "latest_submission_utc": "2026-11-06T03:30:57+00:00",
+  "attempted_problem_count": 1051,
+  "latest_submission_epoch": 1793972352,
+  "latest_submission_id": 80632808,
+  "latest_submission_utc": "2026-11-06T13:39:12+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc477",
+      "difficulty": 1235,
+      "first_ac_epoch": 1793972352,
+      "index": "E",
+      "problem_id": "abc477_e",
+      "title": "Wheel Distance",
+      "url": "https://atcoder.jp/contests/abc477/tasks/abc477_e"
+    },
+    {
+      "contest_id": "abc467",
+      "difficulty": 608,
+      "first_ac_epoch": 1793965188,
+      "index": "C",
+      "problem_id": "abc467_c",
+      "title": "Adjacent Sums (easy)",
+      "url": "https://atcoder.jp/contests/abc467/tasks/abc467_c"
+    },
     {
       "contest_id": "abc435",
       "difficulty": 11,
@@ -285,29 +303,11 @@
       "problem_id": "abc416_a",
       "title": "Vacation Validation",
       "url": "https://atcoder.jp/contests/abc416/tasks/abc416_a"
-    },
-    {
-      "contest_id": "abc438",
-      "difficulty": 1226,
-      "first_ac_epoch": 1793349170,
-      "index": "E",
-      "problem_id": "abc438_e",
-      "title": "Heavy Buckets",
-      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_e"
-    },
-    {
-      "contest_id": "abc427",
-      "difficulty": -1031,
-      "first_ac_epoch": 1793347672,
-      "index": "A",
-      "problem_id": "abc427_a",
-      "title": "ABC -> AC",
-      "url": "https://atcoder.jp/contests/abc427/tasks/abc427_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1034,
-  "submission_count": 1777,
+  "solved_problem_count": 1036,
+  "submission_count": 1780,
   "submissions_by_jst_day_recent_90": {
     "2026-03-08": 7,
     "2026-03-09": 3,
@@ -398,18 +398,18 @@
     "2026-10-30": 21,
     "2026-10-31": 10,
     "2026-11-05": 15,
-    "2026-11-06": 9
+    "2026-11-06": 12
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 810
+    "2026": 813
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1168,
+    "AC": 1171,
     "CE": 12,
     "MLE": 5,
     "RE": 59,

@@ -17122,6 +17122,25 @@
   },
   {
     "contest_id": "abc467",
+    "difficulty": 608,
+    "first_ac_epoch": 1793965188,
+    "first_submission_epoch": 1793965188,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793965188,
+    "last_submission_id": 80630561,
+    "problem_id": "abc467_c",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Adjacent Sums (easy)",
+    "url": "https://atcoder.jp/contests/abc467/tasks/abc467_c",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc467",
     "difficulty": 928,
     "first_ac_epoch": 1784429968,
     "first_submission_epoch": 1784429968,
@@ -17147,15 +17166,15 @@
     "index": "E",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1784433148,
-    "last_submission_id": 77662186,
+    "last_submission_epoch": 1793966588,
+    "last_submission_id": 80631053,
     "problem_id": "abc467_e",
     "solved": true,
-    "submission_count": 1,
+    "submission_count": 2,
     "title": "Adjacent Sums (hard)",
     "url": "https://atcoder.jp/contests/abc467/tasks/abc467_e",
     "verdict_counts": {
-      "AC": 1
+      "AC": 2
     }
   },
   {
@@ -17735,6 +17754,25 @@
     "url": "https://atcoder.jp/contests/abc477/tasks/abc477_d",
     "verdict_counts": {
       "AC": 2
+    }
+  },
+  {
+    "contest_id": "abc477",
+    "difficulty": 1235,
+    "first_ac_epoch": 1793972352,
+    "first_submission_epoch": 1793972352,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1793972352,
+    "last_submission_id": 80632808,
+    "problem_id": "abc477_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Wheel Distance",
+    "url": "https://atcoder.jp/contests/abc477/tasks/abc477_e",
+    "verdict_counts": {
+      "AC": 1
     }
   },
   {

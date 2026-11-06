@@ -9718,5 +9718,41 @@
     "problem_id": "abc435_c",
     "result": "AC",
     "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc467",
+    "epoch_second": 1793965188,
+    "execution_time": 39,
+    "id": 80630561,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6528,
+    "point": 300.0,
+    "problem_id": "abc467_c",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc467",
+    "epoch_second": 1793966588,
+    "execution_time": 168,
+    "id": 80631053,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 7321,
+    "point": 450.0,
+    "problem_id": "abc467_e",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc477",
+    "epoch_second": 1793972352,
+    "execution_time": 335,
+    "id": 80632808,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 7466,
+    "point": 450.0,
+    "problem_id": "abc477_e",
+    "result": "AC",
+    "user_id": "usausamikann"
   }
 ]
