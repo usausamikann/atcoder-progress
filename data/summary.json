@@ -1,24 +1,24 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 91,
-      "solved": 90
+      "attempted": 92,
+      "solved": 91
     },
     "B": {
-      "attempted": 92,
-      "solved": 90
+      "attempted": 93,
+      "solved": 91
     },
     "C": {
-      "attempted": 160,
-      "solved": 158
+      "attempted": 161,
+      "solved": 159
     },
     "D": {
-      "attempted": 286,
-      "solved": 286
+      "attempted": 287,
+      "solved": 287
     },
     "E": {
-      "attempted": 230,
-      "solved": 229
+      "attempted": 231,
+      "solved": 230
     },
     "F": {
       "attempted": 57,
@@ -29,11 +29,56 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1051,
-  "latest_submission_epoch": 1793972352,
-  "latest_submission_id": 80632808,
-  "latest_submission_utc": "2026-11-06T13:39:12+00:00",
+  "attempted_problem_count": 1056,
+  "latest_submission_epoch": 1794058468,
+  "latest_submission_id": 80688565,
+  "latest_submission_utc": "2026-11-07T13:34:28+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc483",
+      "difficulty": 1473,
+      "first_ac_epoch": 1794058468,
+      "index": "E",
+      "problem_id": "abc483_e",
+      "title": "Typo Pairs",
+      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_e"
+    },
+    {
+      "contest_id": "abc483",
+      "difficulty": 965,
+      "first_ac_epoch": 1794054774,
+      "index": "D",
+      "problem_id": "abc483_d",
+      "title": "Glitchy Robot",
+      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_d"
+    },
+    {
+      "contest_id": "abc483",
+      "difficulty": 770,
+      "first_ac_epoch": 1794053591,
+      "index": "C",
+      "problem_id": "abc483_c",
+      "title": "Second Choice Election",
+      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_c"
+    },
+    {
+      "contest_id": "abc483",
+      "difficulty": -269,
+      "first_ac_epoch": 1794053019,
+      "index": "B",
+      "problem_id": "abc483_b",
+      "title": "Flip Card Stack",
+      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_b"
+    },
+    {
+      "contest_id": "abc483",
+      "difficulty": -899,
+      "first_ac_epoch": 1794052865,
+      "index": "A",
+      "problem_id": "abc483_a",
+      "title": "Double-Sided Printing",
+      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_a"
+    },
     {
       "contest_id": "abc477",
       "difficulty": 1235,
@@ -258,58 +303,12 @@
       "problem_id": "abc482_b",
       "title": "Blank Bingo",
       "url": "https://atcoder.jp/contests/abc482/tasks/abc482_b"
-    },
-    {
-      "contest_id": "abc482",
-      "difficulty": -995,
-      "first_ac_epoch": 1793448125,
-      "index": "A",
-      "problem_id": "abc482_a",
-      "title": "Nigiri",
-      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_a"
-    },
-    {
-      "contest_id": "abc480",
-      "difficulty": 864,
-      "first_ac_epoch": 1793408379,
-      "index": "D",
-      "problem_id": "abc480_d",
-      "title": "Concatenation of Prefixes",
-      "url": "https://atcoder.jp/contests/abc480/tasks/abc480_d"
-    },
-    {
-      "contest_id": "abc416",
-      "difficulty": 282,
-      "first_ac_epoch": 1793407068,
-      "index": "C",
-      "problem_id": "abc416_c",
-      "title": "Concat (X-th)",
-      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_c"
-    },
-    {
-      "contest_id": "abc416",
-      "difficulty": -390,
-      "first_ac_epoch": 1793406436,
-      "index": "B",
-      "problem_id": "abc416_b",
-      "title": "1D Akari",
-      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_b"
-    },
-    {
-      "contest_id": "abc416",
-      "difficulty": -1079,
-      "first_ac_epoch": 1793406073,
-      "index": "A",
-      "problem_id": "abc416_a",
-      "title": "Vacation Validation",
-      "url": "https://atcoder.jp/contests/abc416/tasks/abc416_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1036,
-  "submission_count": 1780,
+  "solved_problem_count": 1041,
+  "submission_count": 1786,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-08": 7,
     "2026-03-09": 3,
     "2026-03-10": 15,
     "2026-03-11": 5,
@@ -398,22 +397,23 @@
     "2026-10-30": 21,
     "2026-10-31": 10,
     "2026-11-05": 15,
-    "2026-11-06": 12
+    "2026-11-06": 12,
+    "2026-11-07": 6
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 813
+    "2026": 819
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1171,
+    "AC": 1176,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 444
+    "WA": 445
   }
 }

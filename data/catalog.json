@@ -6558,6 +6558,41 @@
     "is_experimental": false,
     "name": "Wannabe Zombie"
   },
+  "abc483_a": {
+    "contest_id": "abc483",
+    "difficulty": -899,
+    "index": "A",
+    "is_experimental": false,
+    "name": "Double-Sided Printing"
+  },
+  "abc483_b": {
+    "contest_id": "abc483",
+    "difficulty": -269,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Flip Card Stack"
+  },
+  "abc483_c": {
+    "contest_id": "abc483",
+    "difficulty": 770,
+    "index": "C",
+    "is_experimental": false,
+    "name": "Second Choice Election"
+  },
+  "abc483_d": {
+    "contest_id": "abc483",
+    "difficulty": 965,
+    "index": "D",
+    "is_experimental": false,
+    "name": "Glitchy Robot"
+  },
+  "abc483_e": {
+    "contest_id": "abc483",
+    "difficulty": 1473,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Typo Pairs"
+  },
   "abl_d": {
     "contest_id": "abl",
     "difficulty": 1283,

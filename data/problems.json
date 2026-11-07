@@ -18142,6 +18142,102 @@
     }
   },
   {
+    "contest_id": "abc483",
+    "difficulty": -899,
+    "first_ac_epoch": 1794052865,
+    "first_submission_epoch": 1794052865,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794052865,
+    "last_submission_id": 80649795,
+    "problem_id": "abc483_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Double-Sided Printing",
+    "url": "https://atcoder.jp/contests/abc483/tasks/abc483_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc483",
+    "difficulty": -269,
+    "first_ac_epoch": 1794053019,
+    "first_submission_epoch": 1794053019,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794053019,
+    "last_submission_id": 80653799,
+    "problem_id": "abc483_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Flip Card Stack",
+    "url": "https://atcoder.jp/contests/abc483/tasks/abc483_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc483",
+    "difficulty": 770,
+    "first_ac_epoch": 1794053591,
+    "first_submission_epoch": 1794053591,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794053591,
+    "last_submission_id": 80660381,
+    "problem_id": "abc483_c",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Second Choice Election",
+    "url": "https://atcoder.jp/contests/abc483/tasks/abc483_c",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc483",
+    "difficulty": 965,
+    "first_ac_epoch": 1794054774,
+    "first_submission_epoch": 1794054154,
+    "index": "D",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794054774,
+    "last_submission_id": 80668920,
+    "problem_id": "abc483_d",
+    "solved": true,
+    "submission_count": 2,
+    "title": "Glitchy Robot",
+    "url": "https://atcoder.jp/contests/abc483/tasks/abc483_d",
+    "verdict_counts": {
+      "AC": 1,
+      "WA": 1
+    }
+  },
+  {
+    "contest_id": "abc483",
+    "difficulty": 1473,
+    "first_ac_epoch": 1794058468,
+    "first_submission_epoch": 1794058468,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794058468,
+    "last_submission_id": 80688565,
+    "problem_id": "abc483_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Typo Pairs",
+    "url": "https://atcoder.jp/contests/abc483/tasks/abc483_e",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abl",
     "difficulty": 1283,
     "first_ac_epoch": 1770038655,
