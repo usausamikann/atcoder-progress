@@ -6621,6 +6621,11 @@
     "is_experimental": false,
     "name": "Halloween Candy"
   },
+  "ahc074_a": {
+    "contest_id": "ahc074",
+    "index": "A",
+    "name": "Layered Barcode Display"
+  },
   "apc001_c": {
     "contest_id": "apc001",
     "difficulty": 1197,

@@ -1,5 +1,33 @@
 [
   {
+    "contest_id": "ahc074",
+    "epoch_second": 1794180665,
+    "execution_time": 1470,
+    "id": 80718314,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 46106,
+    "point": 1088529.0,
+    "problem_id": "ahc074_a",
+    "result": "AC",
+    "submission_url": "https://atcoder.jp/contests/ahc074/submissions/80718314",
+    "task_url": "https://atcoder.jp/contests/ahc074/tasks/ahc074_a",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "ahc074",
+    "epoch_second": 1794125306,
+    "execution_time": 1141,
+    "id": 80707979,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 40446,
+    "point": 1088649.0,
+    "problem_id": "ahc074_a",
+    "result": "AC",
+    "submission_url": "https://atcoder.jp/contests/ahc074/submissions/80707979",
+    "task_url": "https://atcoder.jp/contests/ahc074/tasks/ahc074_a",
+    "user_id": "usausamikann"
+  },
+  {
     "contest_id": "abc483",
     "epoch_second": 1794058468,
     "execution_time": 3869,
@@ -1369,34 +1397,6 @@
     "result": "AC",
     "submission_url": "https://atcoder.jp/contests/abc435/submissions/80401188",
     "task_url": "https://atcoder.jp/contests/abc435/tasks/abc435_d",
-    "user_id": "usausamikann"
-  },
-  {
-    "contest_id": "abc435",
-    "epoch_second": 1792990125,
-    "execution_time": null,
-    "id": 80401169,
-    "language": "C++23 (GCC 15.2.0)",
-    "length": 6715,
-    "point": 0.0,
-    "problem_id": "abc435_d",
-    "result": "TLE",
-    "submission_url": "https://atcoder.jp/contests/abc435/submissions/80401169",
-    "task_url": "https://atcoder.jp/contests/abc435/tasks/abc435_d",
-    "user_id": "usausamikann"
-  },
-  {
-    "contest_id": "abc459",
-    "epoch_second": 1792989576,
-    "execution_time": 212,
-    "id": 80401078,
-    "language": "C++23 (GCC 15.2.0)",
-    "length": 6744,
-    "point": 300.0,
-    "problem_id": "abc459_c",
-    "result": "AC",
-    "submission_url": "https://atcoder.jp/contests/abc459/submissions/80401078",
-    "task_url": "https://atcoder.jp/contests/abc459/tasks/abc459_c",
     "user_id": "usausamikann"
   }
 ]

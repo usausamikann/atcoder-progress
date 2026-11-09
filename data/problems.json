@@ -18319,6 +18319,25 @@
     }
   },
   {
+    "contest_id": "ahc074",
+    "difficulty": null,
+    "first_ac_epoch": 1794125306,
+    "first_submission_epoch": 1794125306,
+    "index": "A",
+    "is_experimental": null,
+    "last_result": "AC",
+    "last_submission_epoch": 1794180665,
+    "last_submission_id": 80718314,
+    "problem_id": "ahc074_a",
+    "solved": true,
+    "submission_count": 2,
+    "title": "Layered Barcode Display",
+    "url": "https://atcoder.jp/contests/ahc074/tasks/ahc074_a",
+    "verdict_counts": {
+      "AC": 2
+    }
+  },
+  {
     "contest_id": "apc001",
     "difficulty": 1197,
     "first_ac_epoch": null,

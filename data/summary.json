@@ -29,11 +29,20 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1056,
-  "latest_submission_epoch": 1794058468,
-  "latest_submission_id": 80688565,
-  "latest_submission_utc": "2026-11-07T13:34:28+00:00",
+  "attempted_problem_count": 1057,
+  "latest_submission_epoch": 1794180665,
+  "latest_submission_id": 80718314,
+  "latest_submission_utc": "2026-11-08T23:31:05+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "ahc074",
+      "difficulty": null,
+      "first_ac_epoch": 1794125306,
+      "index": "A",
+      "problem_id": "ahc074_a",
+      "title": "Layered Barcode Display",
+      "url": "https://atcoder.jp/contests/ahc074/tasks/ahc074_a"
+    },
     {
       "contest_id": "abc483",
       "difficulty": 1473,
@@ -294,23 +303,12 @@
       "problem_id": "abc482_c",
       "title": "Band Count",
       "url": "https://atcoder.jp/contests/abc482/tasks/abc482_c"
-    },
-    {
-      "contest_id": "abc482",
-      "difficulty": -325,
-      "first_ac_epoch": 1793448341,
-      "index": "B",
-      "problem_id": "abc482_b",
-      "title": "Blank Bingo",
-      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_b"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1041,
-  "submission_count": 1786,
+  "solved_problem_count": 1042,
+  "submission_count": 1788,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-09": 3,
-    "2026-03-10": 15,
     "2026-03-11": 5,
     "2026-03-12": 12,
     "2026-03-13": 6,
@@ -398,18 +396,20 @@
     "2026-10-31": 10,
     "2026-11-05": 15,
     "2026-11-06": 12,
-    "2026-11-07": 6
+    "2026-11-07": 6,
+    "2026-11-08": 1,
+    "2026-11-09": 1
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 819
+    "2026": 821
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1176,
+    "AC": 1178,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
