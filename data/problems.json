@@ -18226,15 +18226,15 @@
     "index": "E",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1794058468,
-    "last_submission_id": 80688565,
+    "last_submission_epoch": 1794315673,
+    "last_submission_id": 80748921,
     "problem_id": "abc483_e",
     "solved": true,
-    "submission_count": 1,
+    "submission_count": 3,
     "title": "Typo Pairs",
     "url": "https://atcoder.jp/contests/abc483/tasks/abc483_e",
     "verdict_counts": {
-      "AC": 1
+      "AC": 3
     }
   },
   {

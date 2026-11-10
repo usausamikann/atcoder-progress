@@ -30,9 +30,9 @@
     }
   },
   "attempted_problem_count": 1057,
-  "latest_submission_epoch": 1794180665,
-  "latest_submission_id": 80718314,
-  "latest_submission_utc": "2026-11-08T23:31:05+00:00",
+  "latest_submission_epoch": 1794315673,
+  "latest_submission_id": 80748921,
+  "latest_submission_utc": "2026-11-10T13:01:13+00:00",
   "recently_solved_problems": [
     {
       "contest_id": "ahc074",
@@ -307,9 +307,8 @@
   ],
   "schema_version": 1,
   "solved_problem_count": 1042,
-  "submission_count": 1788,
+  "submission_count": 1790,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-11": 5,
     "2026-03-12": 12,
     "2026-03-13": 6,
     "2026-03-14": 13,
@@ -398,18 +397,19 @@
     "2026-11-06": 12,
     "2026-11-07": 6,
     "2026-11-08": 1,
-    "2026-11-09": 1
+    "2026-11-09": 1,
+    "2026-11-10": 2
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 821
+    "2026": 823
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1178,
+    "AC": 1180,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
