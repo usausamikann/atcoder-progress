@@ -1,16 +1,16 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 92,
-      "solved": 91
+      "attempted": 94,
+      "solved": 93
     },
     "B": {
-      "attempted": 93,
-      "solved": 91
+      "attempted": 95,
+      "solved": 93
     },
     "C": {
-      "attempted": 161,
-      "solved": 159
+      "attempted": 163,
+      "solved": 161
     },
     "D": {
       "attempted": 287,
@@ -21,19 +21,91 @@
       "solved": 230
     },
     "F": {
-      "attempted": 57,
-      "solved": 55
+      "attempted": 59,
+      "solved": 57
     },
     "G": {
       "attempted": 16,
       "solved": 16
     }
   },
-  "attempted_problem_count": 1057,
-  "latest_submission_epoch": 1794315673,
-  "latest_submission_id": 80748921,
-  "latest_submission_utc": "2026-11-10T13:01:13+00:00",
+  "attempted_problem_count": 1065,
+  "latest_submission_epoch": 1794402921,
+  "latest_submission_id": 80766062,
+  "latest_submission_utc": "2026-11-11T13:15:21+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc435",
+      "difficulty": 1385,
+      "first_ac_epoch": 1794402921,
+      "index": "F",
+      "problem_id": "abc435_f",
+      "title": "Cat exercise",
+      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_f"
+    },
+    {
+      "contest_id": "abc436",
+      "difficulty": 208,
+      "first_ac_epoch": 1794400308,
+      "index": "C",
+      "problem_id": "abc436_c",
+      "title": "2x2 Placing",
+      "url": "https://atcoder.jp/contests/abc436/tasks/abc436_c"
+    },
+    {
+      "contest_id": "abc436",
+      "difficulty": -387,
+      "first_ac_epoch": 1794399780,
+      "index": "B",
+      "problem_id": "abc436_b",
+      "title": "Magic Square",
+      "url": "https://atcoder.jp/contests/abc436/tasks/abc436_b"
+    },
+    {
+      "contest_id": "abc436",
+      "difficulty": -1226,
+      "first_ac_epoch": 1794399255,
+      "index": "A",
+      "problem_id": "abc436_a",
+      "title": "o-padding",
+      "url": "https://atcoder.jp/contests/abc436/tasks/abc436_a"
+    },
+    {
+      "contest_id": "abc439",
+      "difficulty": 1488,
+      "first_ac_epoch": 1794398687,
+      "index": "F",
+      "problem_id": "abc439_f",
+      "title": "Beautiful Kadomatsu",
+      "url": "https://atcoder.jp/contests/abc439/tasks/abc439_f"
+    },
+    {
+      "contest_id": "abc439",
+      "difficulty": 321,
+      "first_ac_epoch": 1794393295,
+      "index": "C",
+      "problem_id": "abc439_c",
+      "title": "2026",
+      "url": "https://atcoder.jp/contests/abc439/tasks/abc439_c"
+    },
+    {
+      "contest_id": "abc439",
+      "difficulty": -469,
+      "first_ac_epoch": 1794392668,
+      "index": "B",
+      "problem_id": "abc439_b",
+      "title": "Happy Number",
+      "url": "https://atcoder.jp/contests/abc439/tasks/abc439_b"
+    },
+    {
+      "contest_id": "abc439",
+      "difficulty": -1184,
+      "first_ac_epoch": 1794392398,
+      "index": "A",
+      "problem_id": "abc439_a",
+      "title": "2^n - 2*n",
+      "url": "https://atcoder.jp/contests/abc439/tasks/abc439_a"
+    },
     {
       "contest_id": "ahc074",
       "difficulty": null,
@@ -231,85 +303,12 @@
       "problem_id": "abc451_a",
       "title": "illegal",
       "url": "https://atcoder.jp/contests/abc451/tasks/abc451_a"
-    },
-    {
-      "contest_id": "abc469",
-      "difficulty": 1102,
-      "first_ac_epoch": 1793842481,
-      "index": "D",
-      "problem_id": "abc469_d",
-      "title": "The Big Two",
-      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_d"
-    },
-    {
-      "contest_id": "abc469",
-      "difficulty": 475,
-      "first_ac_epoch": 1793839546,
-      "index": "C",
-      "problem_id": "abc469_c",
-      "title": "Cantrip",
-      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_c"
-    },
-    {
-      "contest_id": "abc481",
-      "difficulty": 581,
-      "first_ac_epoch": 1793837951,
-      "index": "D",
-      "problem_id": "abc481_d",
-      "title": "Autopilot",
-      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_d"
-    },
-    {
-      "contest_id": "abc481",
-      "difficulty": 96,
-      "first_ac_epoch": 1793837602,
-      "index": "C",
-      "problem_id": "abc481_c",
-      "title": "Bank Accounts",
-      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_c"
-    },
-    {
-      "contest_id": "abc481",
-      "difficulty": -252,
-      "first_ac_epoch": 1793837402,
-      "index": "B",
-      "problem_id": "abc481_b",
-      "title": "Polyline",
-      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_b"
-    },
-    {
-      "contest_id": "abc481",
-      "difficulty": -867,
-      "first_ac_epoch": 1793837233,
-      "index": "A",
-      "problem_id": "abc481_a",
-      "title": "Digits of A+B",
-      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_a"
-    },
-    {
-      "contest_id": "abc482",
-      "difficulty": 766,
-      "first_ac_epoch": 1793449174,
-      "index": "D",
-      "problem_id": "abc482_d",
-      "title": "Wannabe Zombie",
-      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_d"
-    },
-    {
-      "contest_id": "abc482",
-      "difficulty": 486,
-      "first_ac_epoch": 1793448628,
-      "index": "C",
-      "problem_id": "abc482_c",
-      "title": "Band Count",
-      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_c"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1042,
-  "submission_count": 1790,
+  "solved_problem_count": 1050,
+  "submission_count": 1801,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-12": 12,
     "2026-03-13": 6,
     "2026-03-14": 13,
     "2026-03-17": 2,
@@ -398,18 +397,19 @@
     "2026-11-07": 6,
     "2026-11-08": 1,
     "2026-11-09": 1,
-    "2026-11-10": 2
+    "2026-11-10": 2,
+    "2026-11-11": 11
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 823
+    "2026": 834
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1180,
+    "AC": 1191,
     "CE": 12,
     "MLE": 5,
     "RE": 59,

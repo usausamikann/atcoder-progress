@@ -14238,6 +14238,82 @@
     }
   },
   {
+    "contest_id": "abc435",
+    "difficulty": 1385,
+    "first_ac_epoch": 1794402921,
+    "first_submission_epoch": 1794402921,
+    "index": "F",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794402921,
+    "last_submission_id": 80766062,
+    "problem_id": "abc435_f",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Cat exercise",
+    "url": "https://atcoder.jp/contests/abc435/tasks/abc435_f",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc436",
+    "difficulty": -1226,
+    "first_ac_epoch": 1794399255,
+    "first_submission_epoch": 1794399255,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794399255,
+    "last_submission_id": 80764921,
+    "problem_id": "abc436_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "o-padding",
+    "url": "https://atcoder.jp/contests/abc436/tasks/abc436_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc436",
+    "difficulty": -387,
+    "first_ac_epoch": 1794399780,
+    "first_submission_epoch": 1794399780,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794399780,
+    "last_submission_id": 80765060,
+    "problem_id": "abc436_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Magic Square",
+    "url": "https://atcoder.jp/contests/abc436/tasks/abc436_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc436",
+    "difficulty": 208,
+    "first_ac_epoch": 1794400308,
+    "first_submission_epoch": 1794400308,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794400308,
+    "last_submission_id": 80765231,
+    "problem_id": "abc436_c",
+    "solved": true,
+    "submission_count": 1,
+    "title": "2x2 Placing",
+    "url": "https://atcoder.jp/contests/abc436/tasks/abc436_c",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abc436",
     "difficulty": 633,
     "first_ac_epoch": 1773809089,
@@ -14470,21 +14546,78 @@
   },
   {
     "contest_id": "abc439",
+    "difficulty": -1184,
+    "first_ac_epoch": 1794392398,
+    "first_submission_epoch": 1794392398,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794392398,
+    "last_submission_id": 80761998,
+    "problem_id": "abc439_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "2^n - 2*n",
+    "url": "https://atcoder.jp/contests/abc439/tasks/abc439_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc439",
+    "difficulty": -469,
+    "first_ac_epoch": 1794392668,
+    "first_submission_epoch": 1794392668,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794392668,
+    "last_submission_id": 80762056,
+    "problem_id": "abc439_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Happy Number",
+    "url": "https://atcoder.jp/contests/abc439/tasks/abc439_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc439",
+    "difficulty": 321,
+    "first_ac_epoch": 1794393295,
+    "first_submission_epoch": 1794393295,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794393396,
+    "last_submission_id": 80762187,
+    "problem_id": "abc439_c",
+    "solved": true,
+    "submission_count": 2,
+    "title": "2026",
+    "url": "https://atcoder.jp/contests/abc439/tasks/abc439_c",
+    "verdict_counts": {
+      "AC": 2
+    }
+  },
+  {
+    "contest_id": "abc439",
     "difficulty": 627,
     "first_ac_epoch": 1774278729,
     "first_submission_epoch": 1774278729,
     "index": "D",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1774278729,
-    "last_submission_id": 74361274,
+    "last_submission_epoch": 1794393802,
+    "last_submission_id": 80762288,
     "problem_id": "abc439_d",
     "solved": true,
-    "submission_count": 1,
+    "submission_count": 2,
     "title": "Kadomatsu Subsequence",
     "url": "https://atcoder.jp/contests/abc439/tasks/abc439_d",
     "verdict_counts": {
-      "AC": 1
+      "AC": 2
     }
   },
   {
@@ -14495,16 +14628,35 @@
     "index": "E",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1790169948,
-    "last_submission_id": 79457363,
+    "last_submission_epoch": 1794395201,
+    "last_submission_id": 80762933,
     "problem_id": "abc439_e",
     "solved": true,
-    "submission_count": 2,
+    "submission_count": 3,
     "title": "Kite",
     "url": "https://atcoder.jp/contests/abc439/tasks/abc439_e",
     "verdict_counts": {
-      "AC": 1,
+      "AC": 2,
       "WA": 1
+    }
+  },
+  {
+    "contest_id": "abc439",
+    "difficulty": 1488,
+    "first_ac_epoch": 1794398687,
+    "first_submission_epoch": 1794398687,
+    "index": "F",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794398687,
+    "last_submission_id": 80764749,
+    "problem_id": "abc439_f",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Beautiful Kadomatsu",
+    "url": "https://atcoder.jp/contests/abc439/tasks/abc439_f",
+    "verdict_counts": {
+      "AC": 1
     }
   },
   {

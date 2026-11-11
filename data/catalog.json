@@ -5137,6 +5137,34 @@
     "is_experimental": false,
     "name": "Cover query"
   },
+  "abc435_f": {
+    "contest_id": "abc435",
+    "difficulty": 1385,
+    "index": "F",
+    "is_experimental": false,
+    "name": "Cat exercise"
+  },
+  "abc436_a": {
+    "contest_id": "abc436",
+    "difficulty": -1226,
+    "index": "A",
+    "is_experimental": false,
+    "name": "o-padding"
+  },
+  "abc436_b": {
+    "contest_id": "abc436",
+    "difficulty": -387,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Magic Square"
+  },
+  "abc436_c": {
+    "contest_id": "abc436",
+    "difficulty": 208,
+    "index": "C",
+    "is_experimental": false,
+    "name": "2x2 Placing"
+  },
   "abc436_d": {
     "contest_id": "abc436",
     "difficulty": 633,
@@ -5221,6 +5249,27 @@
     "is_experimental": false,
     "name": "Heavy Buckets"
   },
+  "abc439_a": {
+    "contest_id": "abc439",
+    "difficulty": -1184,
+    "index": "A",
+    "is_experimental": false,
+    "name": "2^n - 2*n"
+  },
+  "abc439_b": {
+    "contest_id": "abc439",
+    "difficulty": -469,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Happy Number"
+  },
+  "abc439_c": {
+    "contest_id": "abc439",
+    "difficulty": 321,
+    "index": "C",
+    "is_experimental": false,
+    "name": "2026"
+  },
   "abc439_d": {
     "contest_id": "abc439",
     "difficulty": 627,
@@ -5234,6 +5283,13 @@
     "index": "E",
     "is_experimental": false,
     "name": "Kite"
+  },
+  "abc439_f": {
+    "contest_id": "abc439",
+    "difficulty": 1488,
+    "index": "F",
+    "is_experimental": false,
+    "name": "Beautiful Kadomatsu"
   },
   "abc440_a": {
     "contest_id": "abc440",
