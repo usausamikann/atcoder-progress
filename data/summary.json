@@ -13,7 +13,7 @@
       "solved": 161
     },
     "D": {
-      "attempted": 287,
+      "attempted": 288,
       "solved": 287
     },
     "E": {
@@ -21,19 +21,28 @@
       "solved": 231
     },
     "F": {
-      "attempted": 59,
-      "solved": 57
+      "attempted": 60,
+      "solved": 58
     },
     "G": {
       "attempted": 16,
       "solved": 16
     }
   },
-  "attempted_problem_count": 1068,
-  "latest_submission_epoch": 1794458785,
-  "latest_submission_id": 80773113,
-  "latest_submission_utc": "2026-11-12T04:46:25+00:00",
+  "attempted_problem_count": 1070,
+  "latest_submission_epoch": 1794472084,
+  "latest_submission_id": 80776534,
+  "latest_submission_utc": "2026-11-12T08:28:04+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc442",
+      "difficulty": 1295,
+      "first_ac_epoch": 1794468574,
+      "index": "F",
+      "problem_id": "abc442_f",
+      "title": "Diagonal Separation 2",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_f"
+    },
     {
       "contest_id": "abc443",
       "difficulty": 1301,
@@ -294,20 +303,11 @@
       "problem_id": "abc459_a",
       "title": "Hell, World!",
       "url": "https://atcoder.jp/contests/abc459/tasks/abc459_a"
-    },
-    {
-      "contest_id": "abc458",
-      "difficulty": -904,
-      "first_ac_epoch": 1793843314,
-      "index": "A",
-      "problem_id": "abc458_a",
-      "title": "Chompers",
-      "url": "https://atcoder.jp/contests/abc458/tasks/abc458_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1053,
-  "submission_count": 1807,
+  "solved_problem_count": 1054,
+  "submission_count": 1809,
   "submissions_by_jst_day_recent_90": {
     "2026-03-14": 13,
     "2026-03-17": 2,
@@ -398,22 +398,22 @@
     "2026-11-09": 1,
     "2026-11-10": 2,
     "2026-11-11": 11,
-    "2026-11-12": 6
+    "2026-11-12": 8
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 840
+    "2026": 842
   },
-  "unresolved_problem_count": 15,
+  "unresolved_problem_count": 16,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1195,
+    "AC": 1196,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 447
+    "WA": 448
   }
 }

@@ -5403,6 +5403,13 @@
     "is_experimental": false,
     "name": "Laser Takahashi"
   },
+  "abc442_f": {
+    "contest_id": "abc442",
+    "difficulty": 1295,
+    "index": "F",
+    "is_experimental": false,
+    "name": "Diagonal Separation 2"
+  },
   "abc443_a": {
     "contest_id": "abc443",
     "difficulty": -1139,
@@ -6046,6 +6053,13 @@
     "index": "C",
     "is_experimental": false,
     "name": "Sushi"
+  },
+  "abc460_d": {
+    "contest_id": "abc460",
+    "difficulty": 1216,
+    "index": "D",
+    "is_experimental": false,
+    "name": "Repeatedly Repainting "
   },
   "abc461_a": {
     "contest_id": "abc461",

@@ -14972,6 +14972,25 @@
     }
   },
   {
+    "contest_id": "abc442",
+    "difficulty": 1295,
+    "first_ac_epoch": 1794468574,
+    "first_submission_epoch": 1794468574,
+    "index": "F",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794468574,
+    "last_submission_id": 80775386,
+    "problem_id": "abc442_f",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Diagonal Separation 2",
+    "url": "https://atcoder.jp/contests/abc442/tasks/abc442_f",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abc443",
     "difficulty": -1139,
     "first_ac_epoch": 1769860894,
@@ -16734,6 +16753,25 @@
     "url": "https://atcoder.jp/contests/abc460/tasks/abc460_c",
     "verdict_counts": {
       "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc460",
+    "difficulty": 1216,
+    "first_ac_epoch": null,
+    "first_submission_epoch": 1794472084,
+    "index": "D",
+    "is_experimental": false,
+    "last_result": "WA",
+    "last_submission_epoch": 1794472084,
+    "last_submission_id": 80776534,
+    "problem_id": "abc460_d",
+    "solved": false,
+    "submission_count": 1,
+    "title": "Repeatedly Repainting ",
+    "url": "https://atcoder.jp/contests/abc460/tasks/abc460_d",
+    "verdict_counts": {
+      "WA": 1
     }
   },
   {
