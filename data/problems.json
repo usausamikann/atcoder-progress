@@ -14245,15 +14245,16 @@
     "index": "F",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1794402921,
-    "last_submission_id": 80766062,
+    "last_submission_epoch": 1794414256,
+    "last_submission_id": 80768459,
     "problem_id": "abc435_f",
     "solved": true,
-    "submission_count": 1,
+    "submission_count": 3,
     "title": "Cat exercise",
     "url": "https://atcoder.jp/contests/abc435/tasks/abc435_f",
     "verdict_counts": {
-      "AC": 1
+      "AC": 2,
+      "WA": 1
     }
   },
   {
@@ -15044,6 +15045,26 @@
     "url": "https://atcoder.jp/contests/abc443/tasks/abc443_d",
     "verdict_counts": {
       "AC": 2
+    }
+  },
+  {
+    "contest_id": "abc443",
+    "difficulty": 1301,
+    "first_ac_epoch": 1794458785,
+    "first_submission_epoch": 1794453728,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794458785,
+    "last_submission_id": 80773113,
+    "problem_id": "abc443_e",
+    "solved": true,
+    "submission_count": 2,
+    "title": "Climbing Silver",
+    "url": "https://atcoder.jp/contests/abc443/tasks/abc443_e",
+    "verdict_counts": {
+      "AC": 1,
+      "WA": 1
     }
   },
   {
@@ -17274,6 +17295,44 @@
   },
   {
     "contest_id": "abc467",
+    "difficulty": -262,
+    "first_ac_epoch": 1794454281,
+    "first_submission_epoch": 1794454281,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794454281,
+    "last_submission_id": 80772295,
+    "problem_id": "abc467_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Obesity",
+    "url": "https://atcoder.jp/contests/abc467/tasks/abc467_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc467",
+    "difficulty": -535,
+    "first_ac_epoch": 1794454390,
+    "first_submission_epoch": 1794454390,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794454390,
+    "last_submission_id": 80772308,
+    "problem_id": "abc467_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Keep the Change",
+    "url": "https://atcoder.jp/contests/abc467/tasks/abc467_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc467",
     "difficulty": 608,
     "first_ac_epoch": 1793965188,
     "first_submission_epoch": 1793965188,
@@ -18472,11 +18531,11 @@
   },
   {
     "contest_id": "ahc074",
-    "difficulty": null,
+    "difficulty": 3773,
     "first_ac_epoch": 1794125306,
     "first_submission_epoch": 1794125306,
     "index": "A",
-    "is_experimental": null,
+    "is_experimental": false,
     "last_result": "AC",
     "last_submission_epoch": 1794180665,
     "last_submission_id": 80718314,

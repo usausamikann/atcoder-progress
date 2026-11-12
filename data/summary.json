@@ -1,12 +1,12 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 94,
-      "solved": 93
+      "attempted": 95,
+      "solved": 94
     },
     "B": {
-      "attempted": 95,
-      "solved": 93
+      "attempted": 96,
+      "solved": 94
     },
     "C": {
       "attempted": 163,
@@ -17,8 +17,8 @@
       "solved": 287
     },
     "E": {
-      "attempted": 231,
-      "solved": 230
+      "attempted": 232,
+      "solved": 231
     },
     "F": {
       "attempted": 59,
@@ -29,11 +29,38 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1065,
-  "latest_submission_epoch": 1794402921,
-  "latest_submission_id": 80766062,
-  "latest_submission_utc": "2026-11-11T13:15:21+00:00",
+  "attempted_problem_count": 1068,
+  "latest_submission_epoch": 1794458785,
+  "latest_submission_id": 80773113,
+  "latest_submission_utc": "2026-11-12T04:46:25+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc443",
+      "difficulty": 1301,
+      "first_ac_epoch": 1794458785,
+      "index": "E",
+      "problem_id": "abc443_e",
+      "title": "Climbing Silver",
+      "url": "https://atcoder.jp/contests/abc443/tasks/abc443_e"
+    },
+    {
+      "contest_id": "abc467",
+      "difficulty": -535,
+      "first_ac_epoch": 1794454390,
+      "index": "B",
+      "problem_id": "abc467_b",
+      "title": "Keep the Change",
+      "url": "https://atcoder.jp/contests/abc467/tasks/abc467_b"
+    },
+    {
+      "contest_id": "abc467",
+      "difficulty": -262,
+      "first_ac_epoch": 1794454281,
+      "index": "A",
+      "problem_id": "abc467_a",
+      "title": "Obesity",
+      "url": "https://atcoder.jp/contests/abc467/tasks/abc467_a"
+    },
     {
       "contest_id": "abc435",
       "difficulty": 1385,
@@ -108,7 +135,7 @@
     },
     {
       "contest_id": "ahc074",
-      "difficulty": null,
+      "difficulty": 3773,
       "first_ac_epoch": 1794125306,
       "index": "A",
       "problem_id": "ahc074_a",
@@ -276,40 +303,12 @@
       "problem_id": "abc458_a",
       "title": "Chompers",
       "url": "https://atcoder.jp/contests/abc458/tasks/abc458_a"
-    },
-    {
-      "contest_id": "abc451",
-      "difficulty": 250,
-      "first_ac_epoch": 1793843138,
-      "index": "C",
-      "problem_id": "abc451_c",
-      "title": "Understory",
-      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_c"
-    },
-    {
-      "contest_id": "abc451",
-      "difficulty": -566,
-      "first_ac_epoch": 1793842893,
-      "index": "B",
-      "problem_id": "abc451_b",
-      "title": "Personnel Change",
-      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_b"
-    },
-    {
-      "contest_id": "abc451",
-      "difficulty": -1020,
-      "first_ac_epoch": 1793842809,
-      "index": "A",
-      "problem_id": "abc451_a",
-      "title": "illegal",
-      "url": "https://atcoder.jp/contests/abc451/tasks/abc451_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1050,
-  "submission_count": 1801,
+  "solved_problem_count": 1053,
+  "submission_count": 1807,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-13": 6,
     "2026-03-14": 13,
     "2026-03-17": 2,
     "2026-03-18": 16,
@@ -398,22 +397,23 @@
     "2026-11-08": 1,
     "2026-11-09": 1,
     "2026-11-10": 2,
-    "2026-11-11": 11
+    "2026-11-11": 11,
+    "2026-11-12": 6
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 834
+    "2026": 840
   },
   "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1191,
+    "AC": 1195,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 445
+    "WA": 447
   }
 }

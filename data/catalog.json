@@ -5431,6 +5431,13 @@
     "is_experimental": false,
     "name": "Pawn Line"
   },
+  "abc443_e": {
+    "contest_id": "abc443",
+    "difficulty": 1301,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Climbing Silver"
+  },
   "abc444_a": {
     "contest_id": "abc444",
     "difficulty": -1133,
@@ -6243,6 +6250,20 @@
     "is_experimental": false,
     "name": "Range Flip"
   },
+  "abc467_a": {
+    "contest_id": "abc467",
+    "difficulty": -262,
+    "index": "A",
+    "is_experimental": false,
+    "name": "Obesity"
+  },
+  "abc467_b": {
+    "contest_id": "abc467",
+    "difficulty": -535,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Keep the Change"
+  },
   "abc467_c": {
     "contest_id": "abc467",
     "difficulty": 608,
@@ -6679,7 +6700,9 @@
   },
   "ahc074_a": {
     "contest_id": "ahc074",
+    "difficulty": 3773,
     "index": "A",
+    "is_experimental": false,
     "name": "Layered Barcode Display"
   },
   "apc001_c": {
