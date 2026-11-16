@@ -16758,20 +16758,40 @@
   {
     "contest_id": "abc460",
     "difficulty": 1216,
-    "first_ac_epoch": null,
+    "first_ac_epoch": 1794798051,
     "first_submission_epoch": 1794472084,
     "index": "D",
     "is_experimental": false,
-    "last_result": "WA",
-    "last_submission_epoch": 1794472084,
-    "last_submission_id": 80776534,
+    "last_result": "AC",
+    "last_submission_epoch": 1794798051,
+    "last_submission_id": 80882946,
     "problem_id": "abc460_d",
-    "solved": false,
-    "submission_count": 1,
+    "solved": true,
+    "submission_count": 4,
     "title": "Repeatedly Repainting ",
     "url": "https://atcoder.jp/contests/abc460/tasks/abc460_d",
     "verdict_counts": {
-      "WA": 1
+      "AC": 1,
+      "WA": 3
+    }
+  },
+  {
+    "contest_id": "abc460",
+    "difficulty": 1362,
+    "first_ac_epoch": 1794800073,
+    "first_submission_epoch": 1794800073,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1794800073,
+    "last_submission_id": 80883292,
+    "problem_id": "abc460_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "x + y ≡ x + y",
+    "url": "https://atcoder.jp/contests/abc460/tasks/abc460_e",
+    "verdict_counts": {
+      "AC": 1
     }
   },
   {

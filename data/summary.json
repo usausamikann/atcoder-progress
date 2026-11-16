@@ -14,11 +14,11 @@
     },
     "D": {
       "attempted": 288,
-      "solved": 287
+      "solved": 288
     },
     "E": {
-      "attempted": 232,
-      "solved": 231
+      "attempted": 233,
+      "solved": 232
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,29 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1070,
-  "latest_submission_epoch": 1794472084,
-  "latest_submission_id": 80776534,
-  "latest_submission_utc": "2026-11-12T08:28:04+00:00",
+  "attempted_problem_count": 1071,
+  "latest_submission_epoch": 1794800073,
+  "latest_submission_id": 80883292,
+  "latest_submission_utc": "2026-11-16T03:34:33+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc460",
+      "difficulty": 1362,
+      "first_ac_epoch": 1794800073,
+      "index": "E",
+      "problem_id": "abc460_e",
+      "title": "x + y ≡ x + y",
+      "url": "https://atcoder.jp/contests/abc460/tasks/abc460_e"
+    },
+    {
+      "contest_id": "abc460",
+      "difficulty": 1216,
+      "first_ac_epoch": 1794798051,
+      "index": "D",
+      "problem_id": "abc460_d",
+      "title": "Repeatedly Repainting ",
+      "url": "https://atcoder.jp/contests/abc460/tasks/abc460_d"
+    },
     {
       "contest_id": "abc442",
       "difficulty": 1295,
@@ -285,31 +303,12 @@
       "problem_id": "abc468_d",
       "title": "Pre-Palindrome",
       "url": "https://atcoder.jp/contests/abc468/tasks/abc468_d"
-    },
-    {
-      "contest_id": "abc460",
-      "difficulty": -914,
-      "first_ac_epoch": 1793843568,
-      "index": "A",
-      "problem_id": "abc460_a",
-      "title": "Mod While Positive",
-      "url": "https://atcoder.jp/contests/abc460/tasks/abc460_a"
-    },
-    {
-      "contest_id": "abc459",
-      "difficulty": -921,
-      "first_ac_epoch": 1793843425,
-      "index": "A",
-      "problem_id": "abc459_a",
-      "title": "Hell, World!",
-      "url": "https://atcoder.jp/contests/abc459/tasks/abc459_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1054,
-  "submission_count": 1809,
+  "solved_problem_count": 1056,
+  "submission_count": 1813,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-14": 13,
     "2026-03-17": 2,
     "2026-03-18": 16,
     "2026-03-19": 4,
@@ -398,22 +397,23 @@
     "2026-11-09": 1,
     "2026-11-10": 2,
     "2026-11-11": 11,
-    "2026-11-12": 8
+    "2026-11-12": 8,
+    "2026-11-16": 4
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 842
+    "2026": 846
   },
-  "unresolved_problem_count": 16,
+  "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1196,
+    "AC": 1198,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 448
+    "WA": 450
   }
 }
