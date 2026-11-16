@@ -17,8 +17,8 @@
       "solved": 288
     },
     "E": {
-      "attempted": 233,
-      "solved": 232
+      "attempted": 234,
+      "solved": 234
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,29 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1071,
-  "latest_submission_epoch": 1794800073,
-  "latest_submission_id": 80883292,
-  "latest_submission_utc": "2026-11-16T03:34:33+00:00",
+  "attempted_problem_count": 1072,
+  "latest_submission_epoch": 1794834889,
+  "latest_submission_id": 80892896,
+  "latest_submission_utc": "2026-11-16T13:14:49+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc459",
+      "difficulty": 1298,
+      "first_ac_epoch": 1794834889,
+      "index": "E",
+      "problem_id": "abc459_e",
+      "title": "Select from Subtrees",
+      "url": "https://atcoder.jp/contests/abc459/tasks/abc459_e"
+    },
+    {
+      "contest_id": "abc343",
+      "difficulty": 1802,
+      "first_ac_epoch": 1794825459,
+      "index": "E",
+      "problem_id": "abc343_e",
+      "title": "7x7x7",
+      "url": "https://atcoder.jp/contests/abc343/tasks/abc343_e"
+    },
     {
       "contest_id": "abc460",
       "difficulty": 1362,
@@ -285,29 +303,11 @@
       "problem_id": "abc471_e",
       "title": "Sum of Square of Sum",
       "url": "https://atcoder.jp/contests/abc471/tasks/abc471_e"
-    },
-    {
-      "contest_id": "abc464",
-      "difficulty": 1075,
-      "first_ac_epoch": 1793924704,
-      "index": "E",
-      "problem_id": "abc464_e",
-      "title": "Fill-Rect Query",
-      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_e"
-    },
-    {
-      "contest_id": "abc468",
-      "difficulty": 683,
-      "first_ac_epoch": 1793890448,
-      "index": "D",
-      "problem_id": "abc468_d",
-      "title": "Pre-Palindrome",
-      "url": "https://atcoder.jp/contests/abc468/tasks/abc468_d"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1056,
-  "submission_count": 1813,
+  "solved_problem_count": 1058,
+  "submission_count": 1815,
   "submissions_by_jst_day_recent_90": {
     "2026-03-17": 2,
     "2026-03-18": 16,
@@ -398,18 +398,18 @@
     "2026-11-10": 2,
     "2026-11-11": 11,
     "2026-11-12": 8,
-    "2026-11-16": 4
+    "2026-11-16": 6
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 846
+    "2026": 848
   },
-  "unresolved_problem_count": 15,
+  "unresolved_problem_count": 14,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1198,
+    "AC": 1200,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
