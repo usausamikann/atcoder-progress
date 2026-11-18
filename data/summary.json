@@ -17,8 +17,8 @@
       "solved": 288
     },
     "E": {
-      "attempted": 234,
-      "solved": 234
+      "attempted": 235,
+      "solved": 235
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,20 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1072,
-  "latest_submission_epoch": 1794834889,
-  "latest_submission_id": 80892896,
-  "latest_submission_utc": "2026-11-16T13:14:49+00:00",
+  "attempted_problem_count": 1073,
+  "latest_submission_epoch": 1795013964,
+  "latest_submission_id": 80926314,
+  "latest_submission_utc": "2026-11-18T14:59:24+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc458",
+      "difficulty": 1309,
+      "first_ac_epoch": 1795013964,
+      "index": "E",
+      "problem_id": "abc458_e",
+      "title": "Count 123",
+      "url": "https://atcoder.jp/contests/abc458/tasks/abc458_e"
+    },
     {
       "contest_id": "abc459",
       "difficulty": 1298,
@@ -294,22 +303,12 @@
       "problem_id": "abc468_e",
       "title": "Sum of Average",
       "url": "https://atcoder.jp/contests/abc468/tasks/abc468_e"
-    },
-    {
-      "contest_id": "abc471",
-      "difficulty": 990,
-      "first_ac_epoch": 1793931975,
-      "index": "E",
-      "problem_id": "abc471_e",
-      "title": "Sum of Square of Sum",
-      "url": "https://atcoder.jp/contests/abc471/tasks/abc471_e"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1058,
-  "submission_count": 1815,
+  "solved_problem_count": 1059,
+  "submission_count": 1816,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-17": 2,
     "2026-03-18": 16,
     "2026-03-19": 4,
     "2026-03-20": 6,
@@ -398,18 +397,19 @@
     "2026-11-10": 2,
     "2026-11-11": 11,
     "2026-11-12": 8,
-    "2026-11-16": 6
+    "2026-11-16": 6,
+    "2026-11-18": 1
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 848
+    "2026": 849
   },
   "unresolved_problem_count": 14,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1200,
+    "AC": 1201,
     "CE": 12,
     "MLE": 5,
     "RE": 59,

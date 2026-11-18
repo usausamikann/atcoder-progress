@@ -10174,5 +10174,17 @@
     "problem_id": "abc459_e",
     "result": "AC",
     "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc458",
+    "epoch_second": 1795013964,
+    "execution_time": 291,
+    "id": 80926314,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6591,
+    "point": 450.0,
+    "problem_id": "abc458_e",
+    "result": "AC",
+    "user_id": "usausamikann"
   }
 ]
