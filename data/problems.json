@@ -16222,6 +16222,26 @@
     }
   },
   {
+    "contest_id": "abc454",
+    "difficulty": 1627,
+    "first_ac_epoch": 1795056339,
+    "first_submission_epoch": 1795055219,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795056339,
+    "last_submission_id": 80930385,
+    "problem_id": "abc454_e",
+    "solved": true,
+    "submission_count": 4,
+    "title": "LRUD Moving",
+    "url": "https://atcoder.jp/contests/abc454/tasks/abc454_e",
+    "verdict_counts": {
+      "AC": 1,
+      "WA": 3
+    }
+  },
+  {
     "contest_id": "abc455",
     "difficulty": -941,
     "first_ac_epoch": 1777118474,
@@ -17023,6 +17043,25 @@
     "submission_count": 1,
     "title": "Accomplice",
     "url": "https://atcoder.jp/contests/abc462/tasks/abc462_d",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc462",
+    "difficulty": 1226,
+    "first_ac_epoch": 1795047969,
+    "first_submission_epoch": 1795047969,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795047969,
+    "last_submission_id": 80929022,
+    "problem_id": "abc462_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Alternating Costs",
+    "url": "https://atcoder.jp/contests/abc462/tasks/abc462_e",
     "verdict_counts": {
       "AC": 1
     }

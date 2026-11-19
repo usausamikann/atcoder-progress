@@ -17,8 +17,8 @@
       "solved": 288
     },
     "E": {
-      "attempted": 235,
-      "solved": 235
+      "attempted": 237,
+      "solved": 237
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,29 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1073,
-  "latest_submission_epoch": 1795013964,
-  "latest_submission_id": 80926314,
-  "latest_submission_utc": "2026-11-18T14:59:24+00:00",
+  "attempted_problem_count": 1075,
+  "latest_submission_epoch": 1795056339,
+  "latest_submission_id": 80930385,
+  "latest_submission_utc": "2026-11-19T02:45:39+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc454",
+      "difficulty": 1627,
+      "first_ac_epoch": 1795056339,
+      "index": "E",
+      "problem_id": "abc454_e",
+      "title": "LRUD Moving",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_e"
+    },
+    {
+      "contest_id": "abc462",
+      "difficulty": 1226,
+      "first_ac_epoch": 1795047969,
+      "index": "E",
+      "problem_id": "abc462_e",
+      "title": "Alternating Costs",
+      "url": "https://atcoder.jp/contests/abc462/tasks/abc462_e"
+    },
     {
       "contest_id": "abc458",
       "difficulty": 1309,
@@ -285,31 +303,12 @@
       "problem_id": "abc435_a",
       "title": "Triangular Number",
       "url": "https://atcoder.jp/contests/abc435/tasks/abc435_a"
-    },
-    {
-      "contest_id": "abc476",
-      "difficulty": 964,
-      "first_ac_epoch": 1793933909,
-      "index": "E",
-      "problem_id": "abc476_e",
-      "title": "Min-Max Swap",
-      "url": "https://atcoder.jp/contests/abc476/tasks/abc476_e"
-    },
-    {
-      "contest_id": "abc468",
-      "difficulty": 1038,
-      "first_ac_epoch": 1793933209,
-      "index": "E",
-      "problem_id": "abc468_e",
-      "title": "Sum of Average",
-      "url": "https://atcoder.jp/contests/abc468/tasks/abc468_e"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1059,
-  "submission_count": 1816,
+  "solved_problem_count": 1061,
+  "submission_count": 1821,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-18": 16,
     "2026-03-19": 4,
     "2026-03-20": 6,
     "2026-03-21": 15,
@@ -398,22 +397,23 @@
     "2026-11-11": 11,
     "2026-11-12": 8,
     "2026-11-16": 6,
-    "2026-11-18": 1
+    "2026-11-18": 1,
+    "2026-11-19": 5
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 849
+    "2026": 854
   },
   "unresolved_problem_count": 14,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1201,
+    "AC": 1203,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 450
+    "WA": 453
   }
 }

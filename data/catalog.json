@@ -5858,6 +5858,13 @@
     "is_experimental": false,
     "name": "(xx)"
   },
+  "abc454_e": {
+    "contest_id": "abc454",
+    "difficulty": 1627,
+    "index": "E",
+    "is_experimental": false,
+    "name": "LRUD Moving"
+  },
   "abc455_a": {
     "contest_id": "abc455",
     "difficulty": -941,
@@ -6151,6 +6158,13 @@
     "index": "D",
     "is_experimental": false,
     "name": "Accomplice"
+  },
+  "abc462_e": {
+    "contest_id": "abc462",
+    "difficulty": 1226,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Alternating Costs"
   },
   "abc463_a": {
     "contest_id": "abc463",
