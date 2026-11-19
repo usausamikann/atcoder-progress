@@ -18143,6 +18143,25 @@
     }
   },
   {
+    "contest_id": "abc478",
+    "difficulty": 1376,
+    "first_ac_epoch": 1795081809,
+    "first_submission_epoch": 1795081809,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795081809,
+    "last_submission_id": 80935789,
+    "problem_id": "abc478_e",
+    "solved": true,
+    "submission_count": 1,
+    "title": "lt and le",
+    "url": "https://atcoder.jp/contests/abc478/tasks/abc478_e",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
     "contest_id": "abc479",
     "difficulty": -995,
     "first_ac_epoch": 1791720111,
@@ -18486,6 +18505,25 @@
     "url": "https://atcoder.jp/contests/abc482/tasks/abc482_d",
     "verdict_counts": {
       "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc482",
+    "difficulty": 1531,
+    "first_ac_epoch": 1795094107,
+    "first_submission_epoch": 1795094107,
+    "index": "E",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795096061,
+    "last_submission_id": 80940032,
+    "problem_id": "abc482_e",
+    "solved": true,
+    "submission_count": 2,
+    "title": "Diameter Endpoint Colors",
+    "url": "https://atcoder.jp/contests/abc482/tasks/abc482_e",
+    "verdict_counts": {
+      "AC": 2
     }
   },
   {

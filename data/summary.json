@@ -17,8 +17,8 @@
       "solved": 288
     },
     "E": {
-      "attempted": 237,
-      "solved": 237
+      "attempted": 239,
+      "solved": 239
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,29 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1075,
-  "latest_submission_epoch": 1795056339,
-  "latest_submission_id": 80930385,
-  "latest_submission_utc": "2026-11-19T02:45:39+00:00",
+  "attempted_problem_count": 1077,
+  "latest_submission_epoch": 1795096061,
+  "latest_submission_id": 80940032,
+  "latest_submission_utc": "2026-11-19T13:47:41+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc482",
+      "difficulty": 1531,
+      "first_ac_epoch": 1795094107,
+      "index": "E",
+      "problem_id": "abc482_e",
+      "title": "Diameter Endpoint Colors",
+      "url": "https://atcoder.jp/contests/abc482/tasks/abc482_e"
+    },
+    {
+      "contest_id": "abc478",
+      "difficulty": 1376,
+      "first_ac_epoch": 1795081809,
+      "index": "E",
+      "problem_id": "abc478_e",
+      "title": "lt and le",
+      "url": "https://atcoder.jp/contests/abc478/tasks/abc478_e"
+    },
     {
       "contest_id": "abc454",
       "difficulty": 1627,
@@ -285,29 +303,11 @@
       "problem_id": "abc435_c",
       "title": "Domino",
       "url": "https://atcoder.jp/contests/abc435/tasks/abc435_c"
-    },
-    {
-      "contest_id": "abc435",
-      "difficulty": -439,
-      "first_ac_epoch": 1793935314,
-      "index": "B",
-      "problem_id": "abc435_b",
-      "title": "No-Divisible Range",
-      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_b"
-    },
-    {
-      "contest_id": "abc435",
-      "difficulty": -1289,
-      "first_ac_epoch": 1793935090,
-      "index": "A",
-      "problem_id": "abc435_a",
-      "title": "Triangular Number",
-      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_a"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1061,
-  "submission_count": 1821,
+  "solved_problem_count": 1063,
+  "submission_count": 1824,
   "submissions_by_jst_day_recent_90": {
     "2026-03-19": 4,
     "2026-03-20": 6,
@@ -398,18 +398,18 @@
     "2026-11-12": 8,
     "2026-11-16": 6,
     "2026-11-18": 1,
-    "2026-11-19": 5
+    "2026-11-19": 8
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 854
+    "2026": 857
   },
   "unresolved_problem_count": 14,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1203,
+    "AC": 1206,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
