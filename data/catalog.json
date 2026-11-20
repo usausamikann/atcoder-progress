@@ -6663,6 +6663,13 @@
     "is_experimental": false,
     "name": "Autopilot"
   },
+  "abc481_e": {
+    "contest_id": "abc481",
+    "difficulty": 1326,
+    "index": "E",
+    "is_experimental": false,
+    "name": "Most Brilliant Starry Sky"
+  },
   "abc482_a": {
     "contest_id": "abc482",
     "difficulty": -995,

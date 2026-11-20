@@ -17,8 +17,8 @@
       "solved": 288
     },
     "E": {
-      "attempted": 239,
-      "solved": 239
+      "attempted": 240,
+      "solved": 240
     },
     "F": {
       "attempted": 60,
@@ -29,11 +29,20 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1077,
-  "latest_submission_epoch": 1795136563,
-  "latest_submission_id": 80943958,
-  "latest_submission_utc": "2026-11-20T01:02:43+00:00",
+  "attempted_problem_count": 1078,
+  "latest_submission_epoch": 1795182022,
+  "latest_submission_id": 80954087,
+  "latest_submission_utc": "2026-11-20T13:40:22+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc481",
+      "difficulty": 1326,
+      "first_ac_epoch": 1795182022,
+      "index": "E",
+      "problem_id": "abc481_e",
+      "title": "Most Brilliant Starry Sky",
+      "url": "https://atcoder.jp/contests/abc481/tasks/abc481_e"
+    },
     {
       "contest_id": "abc482",
       "difficulty": 1531,
@@ -294,20 +303,11 @@
       "problem_id": "abc467_c",
       "title": "Adjacent Sums (easy)",
       "url": "https://atcoder.jp/contests/abc467/tasks/abc467_c"
-    },
-    {
-      "contest_id": "abc435",
-      "difficulty": 11,
-      "first_ac_epoch": 1793935857,
-      "index": "C",
-      "problem_id": "abc435_c",
-      "title": "Domino",
-      "url": "https://atcoder.jp/contests/abc435/tasks/abc435_c"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1063,
-  "submission_count": 1827,
+  "solved_problem_count": 1064,
+  "submission_count": 1830,
   "submissions_by_jst_day_recent_90": {
     "2026-03-20": 6,
     "2026-03-21": 15,
@@ -398,22 +398,22 @@
     "2026-11-16": 6,
     "2026-11-18": 1,
     "2026-11-19": 8,
-    "2026-11-20": 3
+    "2026-11-20": 6
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 860
+    "2026": 863
   },
   "unresolved_problem_count": 14,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1207,
+    "AC": 1209,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 455
+    "WA": 456
   }
 }
