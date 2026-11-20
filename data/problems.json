@@ -8116,16 +8116,16 @@
     "index": "E",
     "is_experimental": false,
     "last_result": "AC",
-    "last_submission_epoch": 1763483337,
-    "last_submission_id": 71054656,
+    "last_submission_epoch": 1795136563,
+    "last_submission_id": 80943958,
     "problem_id": "abc348_e",
     "solved": true,
-    "submission_count": 5,
+    "submission_count": 7,
     "title": "Minimize Sum of Distances",
     "url": "https://atcoder.jp/contests/abc348/tasks/abc348_e",
     "verdict_counts": {
-      "AC": 1,
-      "WA": 4
+      "AC": 2,
+      "WA": 5
     }
   },
   {
@@ -18514,16 +18514,17 @@
     "first_submission_epoch": 1795094107,
     "index": "E",
     "is_experimental": false,
-    "last_result": "AC",
-    "last_submission_epoch": 1795096061,
-    "last_submission_id": 80940032,
+    "last_result": "WA",
+    "last_submission_epoch": 1795136538,
+    "last_submission_id": 80943955,
     "problem_id": "abc482_e",
     "solved": true,
-    "submission_count": 2,
+    "submission_count": 3,
     "title": "Diameter Endpoint Colors",
     "url": "https://atcoder.jp/contests/abc482/tasks/abc482_e",
     "verdict_counts": {
-      "AC": 2
+      "AC": 2,
+      "WA": 1
     }
   },
   {
