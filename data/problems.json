@@ -18124,6 +18124,63 @@
   },
   {
     "contest_id": "abc478",
+    "difficulty": -835,
+    "first_ac_epoch": 1795260502,
+    "first_submission_epoch": 1795260502,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795260502,
+    "last_submission_id": 80965220,
+    "problem_id": "abc478_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Grapes",
+    "url": "https://atcoder.jp/contests/abc478/tasks/abc478_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc478",
+    "difficulty": -197,
+    "first_ac_epoch": 1795260665,
+    "first_submission_epoch": 1795260665,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795260665,
+    "last_submission_id": 80965268,
+    "problem_id": "abc478_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Topping",
+    "url": "https://atcoder.jp/contests/abc478/tasks/abc478_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc478",
+    "difficulty": 426,
+    "first_ac_epoch": null,
+    "first_submission_epoch": 1795261302,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "WA",
+    "last_submission_epoch": 1795261302,
+    "last_submission_id": 80965451,
+    "problem_id": "abc478_c",
+    "solved": false,
+    "submission_count": 1,
+    "title": "Sort Subarray",
+    "url": "https://atcoder.jp/contests/abc478/tasks/abc478_c",
+    "verdict_counts": {
+      "WA": 1
+    }
+  },
+  {
+    "contest_id": "abc478",
     "difficulty": 729,
     "first_ac_epoch": 1791030622,
     "first_submission_epoch": 1791029653,
@@ -18640,6 +18697,82 @@
     "url": "https://atcoder.jp/contests/abc483/tasks/abc483_e",
     "verdict_counts": {
       "AC": 3
+    }
+  },
+  {
+    "contest_id": "abc485",
+    "difficulty": -730,
+    "first_ac_epoch": 1795262514,
+    "first_submission_epoch": 1795262514,
+    "index": "A",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795262514,
+    "last_submission_id": 80968985,
+    "problem_id": "abc485_a",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Same Side",
+    "url": "https://atcoder.jp/contests/abc485/tasks/abc485_a",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc485",
+    "difficulty": -276,
+    "first_ac_epoch": 1795262810,
+    "first_submission_epoch": 1795262810,
+    "index": "B",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795262810,
+    "last_submission_id": 80975048,
+    "problem_id": "abc485_b",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Faucets and Drains",
+    "url": "https://atcoder.jp/contests/abc485/tasks/abc485_b",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc485",
+    "difficulty": 319,
+    "first_ac_epoch": 1795263511,
+    "first_submission_epoch": 1795263511,
+    "index": "C",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795263511,
+    "last_submission_id": 80983756,
+    "problem_id": "abc485_c",
+    "solved": true,
+    "submission_count": 1,
+    "title": "Different Neighbor",
+    "url": "https://atcoder.jp/contests/abc485/tasks/abc485_c",
+    "verdict_counts": {
+      "AC": 1
+    }
+  },
+  {
+    "contest_id": "abc485",
+    "difficulty": 762,
+    "first_ac_epoch": 1795264172,
+    "first_submission_epoch": 1795264172,
+    "index": "D",
+    "is_experimental": false,
+    "last_result": "AC",
+    "last_submission_epoch": 1795264172,
+    "last_submission_id": 80989563,
+    "problem_id": "abc485_d",
+    "solved": true,
+    "submission_count": 1,
+    "title": "ABC|ABC|ABC",
+    "url": "https://atcoder.jp/contests/abc485/tasks/abc485_d",
+    "verdict_counts": {
+      "AC": 1
     }
   },
   {

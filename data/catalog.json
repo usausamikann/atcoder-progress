@@ -6551,6 +6551,27 @@
     "is_experimental": false,
     "name": "Wheel Distance"
   },
+  "abc478_a": {
+    "contest_id": "abc478",
+    "difficulty": -835,
+    "index": "A",
+    "is_experimental": false,
+    "name": "Grapes"
+  },
+  "abc478_b": {
+    "contest_id": "abc478",
+    "difficulty": -197,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Topping"
+  },
+  "abc478_c": {
+    "contest_id": "abc478",
+    "difficulty": 426,
+    "index": "C",
+    "is_experimental": false,
+    "name": "Sort Subarray"
+  },
   "abc478_d": {
     "contest_id": "abc478",
     "difficulty": 729,
@@ -6739,6 +6760,34 @@
     "index": "E",
     "is_experimental": false,
     "name": "Typo Pairs"
+  },
+  "abc485_a": {
+    "contest_id": "abc485",
+    "difficulty": -730,
+    "index": "A",
+    "is_experimental": false,
+    "name": "Same Side"
+  },
+  "abc485_b": {
+    "contest_id": "abc485",
+    "difficulty": -276,
+    "index": "B",
+    "is_experimental": false,
+    "name": "Faucets and Drains"
+  },
+  "abc485_c": {
+    "contest_id": "abc485",
+    "difficulty": 319,
+    "index": "C",
+    "is_experimental": false,
+    "name": "Different Neighbor"
+  },
+  "abc485_d": {
+    "contest_id": "abc485",
+    "difficulty": 762,
+    "index": "D",
+    "is_experimental": false,
+    "name": "ABC|ABC|ABC"
   },
   "abl_d": {
     "contest_id": "abl",

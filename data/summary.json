@@ -1,20 +1,20 @@
 {
   "abc_index": {
     "A": {
-      "attempted": 95,
-      "solved": 94
+      "attempted": 97,
+      "solved": 96
     },
     "B": {
-      "attempted": 96,
-      "solved": 94
+      "attempted": 98,
+      "solved": 96
     },
     "C": {
-      "attempted": 163,
-      "solved": 161
+      "attempted": 165,
+      "solved": 162
     },
     "D": {
-      "attempted": 288,
-      "solved": 288
+      "attempted": 289,
+      "solved": 289
     },
     "E": {
       "attempted": 240,
@@ -29,11 +29,65 @@
       "solved": 16
     }
   },
-  "attempted_problem_count": 1078,
-  "latest_submission_epoch": 1795182022,
-  "latest_submission_id": 80954087,
-  "latest_submission_utc": "2026-11-20T13:40:22+00:00",
+  "attempted_problem_count": 1085,
+  "latest_submission_epoch": 1795264172,
+  "latest_submission_id": 80989563,
+  "latest_submission_utc": "2026-11-21T12:29:32+00:00",
   "recently_solved_problems": [
+    {
+      "contest_id": "abc485",
+      "difficulty": 762,
+      "first_ac_epoch": 1795264172,
+      "index": "D",
+      "problem_id": "abc485_d",
+      "title": "ABC|ABC|ABC",
+      "url": "https://atcoder.jp/contests/abc485/tasks/abc485_d"
+    },
+    {
+      "contest_id": "abc485",
+      "difficulty": 319,
+      "first_ac_epoch": 1795263511,
+      "index": "C",
+      "problem_id": "abc485_c",
+      "title": "Different Neighbor",
+      "url": "https://atcoder.jp/contests/abc485/tasks/abc485_c"
+    },
+    {
+      "contest_id": "abc485",
+      "difficulty": -276,
+      "first_ac_epoch": 1795262810,
+      "index": "B",
+      "problem_id": "abc485_b",
+      "title": "Faucets and Drains",
+      "url": "https://atcoder.jp/contests/abc485/tasks/abc485_b"
+    },
+    {
+      "contest_id": "abc485",
+      "difficulty": -730,
+      "first_ac_epoch": 1795262514,
+      "index": "A",
+      "problem_id": "abc485_a",
+      "title": "Same Side",
+      "url": "https://atcoder.jp/contests/abc485/tasks/abc485_a"
+    },
+    {
+      "contest_id": "abc478",
+      "difficulty": -197,
+      "first_ac_epoch": 1795260665,
+      "index": "B",
+      "problem_id": "abc478_b",
+      "title": "Topping",
+      "url": "https://atcoder.jp/contests/abc478/tasks/abc478_b"
+    },
+    {
+      "contest_id": "abc478",
+      "difficulty": -835,
+      "first_ac_epoch": 1795260502,
+      "index": "A",
+      "problem_id": "abc478_a",
+      "title": "Grapes",
+      "url": "https://atcoder.jp/contests/abc478/tasks/abc478_a"
+    },
     {
       "contest_id": "abc481",
       "difficulty": 1326,
@@ -249,67 +303,12 @@
       "problem_id": "abc483_e",
       "title": "Typo Pairs",
       "url": "https://atcoder.jp/contests/abc483/tasks/abc483_e"
-    },
-    {
-      "contest_id": "abc483",
-      "difficulty": 965,
-      "first_ac_epoch": 1794054774,
-      "index": "D",
-      "problem_id": "abc483_d",
-      "title": "Glitchy Robot",
-      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_d"
-    },
-    {
-      "contest_id": "abc483",
-      "difficulty": 770,
-      "first_ac_epoch": 1794053591,
-      "index": "C",
-      "problem_id": "abc483_c",
-      "title": "Second Choice Election",
-      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_c"
-    },
-    {
-      "contest_id": "abc483",
-      "difficulty": -269,
-      "first_ac_epoch": 1794053019,
-      "index": "B",
-      "problem_id": "abc483_b",
-      "title": "Flip Card Stack",
-      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_b"
-    },
-    {
-      "contest_id": "abc483",
-      "difficulty": -899,
-      "first_ac_epoch": 1794052865,
-      "index": "A",
-      "problem_id": "abc483_a",
-      "title": "Double-Sided Printing",
-      "url": "https://atcoder.jp/contests/abc483/tasks/abc483_a"
-    },
-    {
-      "contest_id": "abc477",
-      "difficulty": 1235,
-      "first_ac_epoch": 1793972352,
-      "index": "E",
-      "problem_id": "abc477_e",
-      "title": "Wheel Distance",
-      "url": "https://atcoder.jp/contests/abc477/tasks/abc477_e"
-    },
-    {
-      "contest_id": "abc467",
-      "difficulty": 608,
-      "first_ac_epoch": 1793965188,
-      "index": "C",
-      "problem_id": "abc467_c",
-      "title": "Adjacent Sums (easy)",
-      "url": "https://atcoder.jp/contests/abc467/tasks/abc467_c"
     }
   ],
   "schema_version": 1,
-  "solved_problem_count": 1064,
-  "submission_count": 1830,
+  "solved_problem_count": 1070,
+  "submission_count": 1837,
   "submissions_by_jst_day_recent_90": {
-    "2026-03-20": 6,
     "2026-03-21": 15,
     "2026-03-23": 6,
     "2026-03-24": 6,
@@ -398,22 +397,23 @@
     "2026-11-16": 6,
     "2026-11-18": 1,
     "2026-11-19": 8,
-    "2026-11-20": 6
+    "2026-11-20": 6,
+    "2026-11-21": 7
   },
   "submissions_by_utc_year": {
     "2021": 50,
     "2024": 3,
     "2025": 914,
-    "2026": 863
+    "2026": 870
   },
-  "unresolved_problem_count": 14,
+  "unresolved_problem_count": 15,
   "user_id": "usausamikann",
   "verdict_counts": {
-    "AC": 1209,
+    "AC": 1215,
     "CE": 12,
     "MLE": 5,
     "RE": 59,
     "TLE": 89,
-    "WA": 456
+    "WA": 457
   }
 }

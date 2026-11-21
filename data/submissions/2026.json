@@ -10354,5 +10354,89 @@
     "problem_id": "abc481_e",
     "result": "AC",
     "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc478",
+    "epoch_second": 1795260502,
+    "execution_time": 1,
+    "id": 80965220,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6247,
+    "point": 100.0,
+    "problem_id": "abc478_a",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc478",
+    "epoch_second": 1795260665,
+    "execution_time": 2,
+    "id": 80965268,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6324,
+    "point": 200.0,
+    "problem_id": "abc478_b",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc478",
+    "epoch_second": 1795261302,
+    "execution_time": 56,
+    "id": 80965451,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6718,
+    "point": 0.0,
+    "problem_id": "abc478_c",
+    "result": "WA",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc485",
+    "epoch_second": 1795262514,
+    "execution_time": 1,
+    "id": 80968985,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6137,
+    "point": 100.0,
+    "problem_id": "abc485_a",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc485",
+    "epoch_second": 1795262810,
+    "execution_time": 1,
+    "id": 80975048,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6403,
+    "point": 200.0,
+    "problem_id": "abc485_b",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc485",
+    "epoch_second": 1795263511,
+    "execution_time": 77,
+    "id": 80983756,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 6892,
+    "point": 300.0,
+    "problem_id": "abc485_c",
+    "result": "AC",
+    "user_id": "usausamikann"
+  },
+  {
+    "contest_id": "abc485",
+    "epoch_second": 1795264172,
+    "execution_time": 37,
+    "id": 80989563,
+    "language": "C++23 (GCC 15.2.0)",
+    "length": 7095,
+    "point": 400.0,
+    "problem_id": "abc485_d",
+    "result": "AC",
+    "user_id": "usausamikann"
   }
 ]
